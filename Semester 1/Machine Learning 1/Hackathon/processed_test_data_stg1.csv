@@ -1,0 +1,2665 @@
+ID,area_type,availability,location,size,total_sqft,bath,balcony,total_sqft_category
+0,Super built-up  Area,Ready To Move,Chamrajpet,2 BHK,650,1,1.0,4
+1,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,1370,2,1.0,5
+2,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1725,3,2.0,5
+3,Built-up  Area,Ready To Move,Jalahalli,2 BHK,1000,2,0.0,4
+4,Plot  Area,Ready To Move,TC Palaya,1 BHK,1350,1,0.0,5
+5,Plot  Area,Ready To Move,7th Phase JP Nagar,4 BHK,3200,4,2.0,5
+6,Super built-up  Area,Ready To Move,Bellandur,3 BHK,1717,3,2.0,5
+7,Super built-up  Area,21-Dec,Kanakpura Road,2 BHK,700,2,1.0,4
+8,Super built-up  Area,Ready To Move,Shanthi Pura,2 BHK,800,2,1.0,4
+9,Super built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,2367,4,3.0,5
+10,Super built-up  Area,Ready To Move,Sonnenahalli,3 BHK,1415,2,1.0,5
+11,Super built-up  Area,19-Dec,7th Phase JP Nagar,3 BHK,1976,3,1.0,5
+12,Super built-up  Area,Ready To Move,Kambipura,2 BHK,883,2,1.0,4
+13,Super built-up  Area,Ready To Move,Yelahanka,1 BHK,700,1,1.0,4
+14,Super built-up  Area,Ready To Move,Sarjapur,3 BHK,1445,3,1.0,5
+15,Super built-up  Area,19-Dec,Battarahalli,3 BHK,2082,3,2.0,5
+16,Super built-up  Area,Ready To Move,HSR Layout,2 BHK,1140,2,2.0,5
+17,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,933,2,1.0,4
+18,Plot  Area,Ready To Move,NRI Layout,4 BHK,800,5,1.0,4
+19,Built-up  Area,Ready To Move,Electronic City Phase II,2 BHK,1155,2,1.0,5
+20,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1130,2,1.0,5
+21,Super built-up  Area,Ready To Move,Bannerghatta,2 BHK,1200,2,2.0,5
+22,Super built-up  Area,Ready To Move,Basaveshwara Nagar Yelahanka,2 BHK,1055,2,1.0,5
+23,Super built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,1555,3,2.0,5
+24,Super built-up  Area,Ready To Move,Bellandur,3 BHK,1420,3,2.0,5
+25,Super built-up  Area,20-Apr,Viviani Road,3 BHK,2214,3,2.0,5
+26,Super built-up  Area,18-Apr,Devanahalli,1 BHK,658,1,1.0,4
+27,Carpet  Area,18-Dec,Bhoganhalli,2 BHK,897,2,1.0,4
+28,Plot  Area,Ready To Move,Giri Nagar,4 BHK,4000,3,2.0,5
+29,Built-up  Area,Ready To Move,KR Puram,2 BHK,1035,2,2.0,5
+30,Plot  Area,Ready To Move,Whitefield,4 BHK,2064,5,2.0,5
+31,Super built-up  Area,Ready To Move,Keshava Nagar,3 BHK,1839,3,3.0,5
+32,Super built-up  Area,Ready To Move,Begur Road,2 BHK,1200,2,2.0,5
+33,Built-up  Area,Ready To Move,Yelahanka New Town,1 BHK,488,1,1.0,3
+34,Built-up  Area,Ready To Move,Banashankari Stage II,3 BHK,1200,2,1.0,5
+35,Built-up  Area,Ready To Move,Sampangirama Nagar,5 BHK,2760,5,1.0,5
+36,Super built-up  Area,Ready To Move,Gunjur Palya,2 BHK,993,2,2.0,4
+37,Super built-up  Area,Ready To Move,Hoodi,2 BHK,1225,2,1.0,5
+38,Plot  Area,Ready To Move,TC Palaya,2 BHK,900,2,0.0,4
+39,Plot  Area,18-Feb,Electronic City,9 BHK,1200,13,1.0,5
+40,Built-up  Area,Ready To Move,Sompura,2 BHK,825,2,1.0,4
+41,Super built-up  Area,Ready To Move,Bellandur,4 BHK,3596,4,2.0,5
+42,Plot  Area,Ready To Move,Hosahalli Extension,6 BHK,1350,4,1.0,5
+43,Super built-up  Area,Ready To Move,Electronic City Phase II,3 BHK,1800,3,3.0,5
+44,Super built-up  Area,Ready To Move,Shankarapuram,2 BHK,925,2,1.0,4
+45,Super built-up  Area,21-Mar,Kanakpura Road,2 BHK,1167,2,1.0,5
+46,Super built-up  Area,Ready To Move,Sarjapur,2 BHK,1150,2,1.0,5
+47,Super built-up  Area,18-Aug,Byatarayanapura,1 BHK,650,1,1.0,4
+48,Built-up  Area,Ready To Move,Sarjapur  Road,1 BHK,675,1,1.0,4
+49,Plot  Area,Ready To Move,Doctor Layout Rayasandra,2 BHK,2260,3,1.0,5
+50,Super built-up  Area,18-Apr,Anwar Layout,1 BHK,720,1,0.0,4
+51,Plot  Area,Ready To Move,Whitefield,3 BHK,4800,4,2.0,5
+52,Super built-up  Area,Ready To Move,Yelahanka New Town,2 BHK,1100,2,1.0,5
+53,Super built-up  Area,Ready To Move,Pillanna Gardens,2 BHK,550,1,1.0,4
+54,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1330,2,1.0,5
+55,Super built-up  Area,Ready To Move,Koramangala,2 BHK,1320,2,1.0,5
+56,Super built-up  Area,Ready To Move,Ulsoor,3 BHK,1685,4,2.0,5
+57,Super built-up  Area,Ready To Move,Ullal Uppanagar,6 BHK,2400,5,2.0,5
+58,Super built-up  Area,18-Apr,Banashankari,3 BHK,1770,3,3.0,5
+59,Super built-up  Area,Ready To Move,Prithvi Layout,3 BHK,2100,3,3.0,5
+60,Super built-up  Area,Ready To Move,Pai Layout,2 BHK,1000,2,3.0,4
+61,Plot  Area,Ready To Move,Banashankari Stage VI,4 BHK,600,5,1.0,4
+62,Plot  Area,Ready To Move,Ramamurthy Nagar,4 BHK,2916,5,1.0,5
+63,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1420,2,1.0,5
+64,Super built-up  Area,Ready To Move,Kodihalli,3 BHK,1400,3,2.0,5
+65,Built-up  Area,Ready To Move,Horamavu Agara,2 BHK,750,2,1.0,4
+66,Super built-up  Area,Ready To Move,Bannerghatta,2 BHK,1070,2,1.0,5
+67,Super built-up  Area,18-Dec,Kannamangala,3 BHK,1536,3,1.0,5
+68,Built-up  Area,Ready To Move,Koramangala,3 BHK,1710,3,2.0,5
+69,Carpet  Area,Ready To Move,JP Nagar,3 BHK,2400,3,3.0,5
+70,Super built-up  Area,18-Mar,Sarjapur  Road,3 BHK,1774,3,2.0,5
+71,Super built-up  Area,18-Apr,Electronic City,2 BHK,1342,2,1.0,5
+72,Super built-up  Area,Ready To Move,Chandra Layout,3 BHK,1600,3,2.0,5
+73,Super built-up  Area,19-Dec,Kanakapura,1 BHK,938,1,1.0,4
+74,Super built-up  Area,Ready To Move,Budigere,3 BHK,1820,3,2.0,5
+75,Super built-up  Area,Ready To Move,Bhoganhalli,4 BHK,2439,4,3.0,5
+76,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1665,3,2.0,5
+77,Super built-up  Area,Ready To Move,Basavangudi,3 BHK,1850,3,2.0,5
+78,Built-up  Area,Ready To Move,Bommanahalli,2 BHK,1091,2,1.0,5
+79,Super built-up  Area,18-Apr,Sarjapur  Road,2 BHK,1346,2,1.0,5
+80,Super built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,1720,3,2.0,5
+81,Built-up  Area,Ready To Move,Brookefield,4 BHK,3675,4,3.0,5
+82,Super built-up  Area,18-Jun,JP Nagar,2 BHK,1060,2,2.0,5
+83,Built-up  Area,18-Dec,Whitefield,2 BHK,1059,2,1.0,5
+84,Super built-up  Area,Ready To Move,Hebbal,2 BHK,1299,2,1.0,5
+85,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1491,3,2.0,5
+86,Built-up  Area,Ready To Move,Basaveshwara Nagar,2 BHK,1200,2,2.0,5
+87,Built-up  Area,Ready To Move,Yelahanka,4 BHK,2088,5,0.0,5
+88,Super built-up  Area,Ready To Move,Hulimavu,1 BHK,581,1,1.0,4
+89,Super built-up  Area,Ready To Move, Devarabeesana Halli,2 BHK,1296,2,2.0,5
+90,Super built-up  Area,Ready To Move,Doctors Layout,2 BHK,1125,2,1.0,5
+91,Built-up  Area,Ready To Move,Electronic City,3 BHK,1275,3,1.0,5
+92,Super built-up  Area,Ready To Move,Kothanur,2 BHK,1095,2,2.0,5
+93,Plot  Area,Ready To Move,Sarjapur  Road,5 BHK,10000,4,2.0,6
+94,Super built-up  Area,Ready To Move,Old Madras Road,2 BHK,1330,2,2.0,5
+95,Super built-up  Area,Ready To Move,Marathahalli,2 BHK,1135,2,2.0,5
+96,Super built-up  Area,Ready To Move,Whitefield,1 BHK,516,1,1.0,4
+97,Super built-up  Area,Ready To Move,Doddanakundi Industrial Area 2,2 BHK,1194,2,1.0,5
+98,Plot  Area,Ready To Move,Banaswadi,5 BHK,2250,5,1.0,5
+99,Super built-up  Area,Ready To Move,Electronic City,2 BHK,770,1,1.0,4
+100,Super built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,3930,5,2.0,5
+101,Super built-up  Area,18-May,Chikkalasandra,3 BHK,1355,3,2.0,5
+102,Built-up  Area,Ready To Move,Abbigere,8 BHK,3000,8,0.0,5
+103,Built-up  Area,Ready To Move,Harlur,4 BHK,2569,4,1.0,5
+104,Built-up  Area,Ready To Move,Hebbal,4 BHK,3758,4,2.0,5
+105,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1116,2,3.0,5
+106,Super built-up  Area,Ready To Move,Bhoganhalli,3 BHK,1707,3,2.0,5
+107,Plot  Area,18-Apr,AECS LAYOUT A-BLOCK Singasandra,5 BHK,1200,5,1.0,5
+108,Super built-up  Area,Ready To Move,Sultan Palaya,2 BHK,1070,2,2.0,5
+109,Built-up  Area,Ready To Move,Whitefield,4 BHK,6000,4,2.0,6
+110,Super built-up  Area,18-Apr,Tumkur Road,3 BHK,1240,2,1.0,5
+111,Super built-up  Area,19-Dec,JP Nagar,2 BHK,1300,2,1.0,5
+112,Super built-up  Area,Ready To Move,Ambalipura,2 BHK,1700,2,2.0,5
+113,Super built-up  Area,Ready To Move,Yeshwanthpur,3 BHK,1383,2,2.0,5
+114,Built-up  Area,Ready To Move,Banashankari Stage I,5 BHK,3000,4,3.0,5
+115,Built-up  Area,18-Dec,Electronic City,2 BHK,1200,2,1.0,5
+116,Super built-up  Area,Ready To Move,Hulimavu,2 BHK,935,2,3.0,4
+117,Super built-up  Area,Ready To Move,Thigalarapalya,3 BHK,2072,4,2.0,5
+118,Built-up  Area,Ready To Move,Ramanjaneyanagar,4 BHK,2200,3,1.0,5
+119,Super built-up  Area,Ready To Move,Jalahalli,1 BHK,615,1,1.0,4
+120,Super built-up  Area,Ready To Move,KR Puram,2 BHK,1116,2,1.0,5
+121,Super built-up  Area,18-Dec,Whitefield,3 BHK,1639,3,2.0,5
+122,Super built-up  Area,Ready To Move,Marathahalli,3 BHK,1839,3,2.0,5
+123,Super built-up  Area,Ready To Move,Byatarayanapura,2 BHK,1300,2,2.0,5
+124,Super built-up  Area,Ready To Move,Horamavu Agara,1 BHK,625,1,1.0,4
+125,Super built-up  Area,18-May,Thanisandra,1 BHK,933,1,1.0,4
+126,Super built-up  Area,Ready To Move,Hosur Road,3 BHK,2289,3,3.0,5
+127,Built-up  Area,Ready To Move,Ramamurthy Nagar,3 BHK,2316,3,0.0,5
+128,Super built-up  Area,18-May,Electronic City,2 BHK,1005,2,1.0,5
+129,Built-up  Area,Ready To Move,Horamavu Agara,2 BHK,1080,2,1.0,5
+130,Plot  Area,Ready To Move,Munnekollal,7 BHK,1200,5,3.0,5
+131,Super built-up  Area,Ready To Move,Vishwapriya Layout,2 BHK,910,2,3.0,4
+132,Plot  Area,Ready To Move,Hormavu,2 BHK,1200,2,0.0,5
+133,Super built-up  Area,Ready To Move,Electronic City,2 BHK,1110,2,1.0,5
+134,Super built-up  Area,Ready To Move,Kothanur,2 BHK,1142,2,2.0,5
+135,Carpet  Area,Ready To Move,2nd Stage Nagarbhavi,5 BHK,4000,4,3.0,5
+136,Plot  Area,18-Mar,Hormavu,3 BHK,1800,3,1.0,5
+137,Super built-up  Area,Ready To Move,AECS Layout,2 BHK,1005,2,1.0,5
+138,Built-up  Area,18-Apr,3rd Block Banashankari,3 BHK,1627,3,1.0,5
+139,Super built-up  Area,Ready To Move,Kothanur,2 BHK,1074,2,2.0,5
+140,Carpet  Area,Ready To Move,Basavangudi,2 BHK,1230,2,0.0,5
+141,Super built-up  Area,Ready To Move,Electronic City,2 BHK,660,1,1.0,4
+142,Built-up  Area,Ready To Move,Coconut Grove Layout,2 BHK,1007,2,2.0,5
+143,Plot  Area,Ready To Move,2nd Block Hrbr Layout,4 BHK,1050,6,1.0,5
+144,Built-up  Area,20-Dec,Whitefield,3 BHK,1820,3,2.0,5
+145,Super built-up  Area,Ready To Move,Basapura,2 BHK,1100,2,1.0,5
+146,Plot  Area,Ready To Move,Anjappa Layout,2 BHK,1348,2,0.0,5
+147,Super built-up  Area,Ready To Move,Kasavanhalli,2 BHK,1230,2,2.0,5
+148,Super built-up  Area,18-May,Horamavu Agara,3 BHK,1176,2,1.0,5
+149,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1590,3,2.0,5
+150,Built-up  Area,Ready To Move,Frazer Town,2 BHK,1200,2,1.0,5
+151,Built-up  Area,18-Jun,"Off Sarjapur Road, ",2 BHK,1298,2,1.0,5
+152,Super built-up  Area,18-Jul,Hosa Road,2 BHK,1161,2,1.0,5
+153,Plot  Area,Ready To Move,Himagiri Meadows,4 BHK,1350,4,0.0,5
+154,Plot  Area,Ready To Move,4th Block HBR Layout,5 BHK,1200,5,2.0,5
+155,Super built-up  Area,Ready To Move,Kothanur,2 BHK,1285,2,1.0,5
+156,Super built-up  Area,17-Jun,Electronic City,3 BHK,1644,3,2.0,5
+157,Super built-up  Area,Ready To Move,Kasavanhalli,3 BHK,1819,3,1.0,5
+158,Super built-up  Area,Ready To Move,1st Phase JP Nagar,2 BHK,1205,2,1.0,5
+159,Super built-up  Area,Ready To Move,Basavangudi,3 BHK,2350,3,3.0,5
+160,Super built-up  Area,Ready To Move,Uttarahalli,2 BHK,1050,2,1.0,5
+161,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1270,2,2.0,5
+162,Super built-up  Area,18-Jun,9th Phase JP Nagar,3 BHK,1240,2,2.0,5
+163,Super built-up  Area,Ready To Move,Jigani,3 BHK,1221,3,3.0,5
+164,Built-up  Area,Ready To Move,Hoysalanagar,3 BHK,840,2,2.0,4
+165,Super built-up  Area,Ready To Move,Kanakpura Road,2 BHK,1339,2,2.0,5
+166,Super built-up  Area,Ready To Move,Thigalarapalya,4 BHK,4303,5,2.0,5
+167,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1315,2,1.0,5
+168,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1250,2,2.0,5
+169,Super built-up  Area,Ready To Move,Bisuvanahalli,2 BHK,850,2,1.0,4
+170,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,1600,2,2.0,5
+171,Built-up  Area,Ready To Move,Electronic City,2 BHK,1250,2,1.0,5
+172,Super built-up  Area,Ready To Move,Motappa Layout,3 BHK,1312,2,1.0,5
+173,Super built-up  Area,Ready To Move,Kadugodi,4 BHK,3000,4,0.0,5
+174,Built-up  Area,Ready To Move,Electronic City Phase II,2 BHK,1300,2,2.0,5
+175,Built-up  Area,Ready To Move,Whitefield,3 BHK,1990,3,3.0,5
+176,Super built-up  Area,Ready To Move,Medahalli,2 BHK,760,2,2.0,4
+177,Plot  Area,Ready To Move,Ambedkar Nagar,4 BHK,5000,4,2.0,5
+178,Super built-up  Area,Ready To Move,Kadugodi,3 BHK,1614,2,2.0,5
+179,Plot  Area,Ready To Move,Judicial Layout,4 BHK,1500,3,2.0,5
+180,Super built-up  Area,Ready To Move,Basava Nagar,3 BHK,1182,2,1.0,5
+181,Super built-up  Area,Ready To Move,Avalahalli,2 BHK,1053,2,1.0,5
+182,Built-up  Area,Ready To Move,6th Phase JP Nagar,1 BHK,750,1,1.0,4
+183,Super built-up  Area,Ready To Move,Gubbalala,3 BHK,2000,3,3.0,5
+184,Built-up  Area,18-May,Electronic City Phase II,3 BHK,1940,4,3.0,5
+185,Super built-up  Area,18-Dec,Hennur Road,3 BHK,1590,3,2.0,5
+186,Super built-up  Area,18-Oct,Chennammana Kere,2 BHK,1035,2,2.0,5
+187,Super built-up  Area,Ready To Move,Kothanur,2 BHK,1075,2,2.0,5
+188,Plot  Area,Ready To Move,TC Palaya,2 BHK,900,2,0.0,4
+189,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3 BHK,1260,2,1.0,5
+190,Plot  Area,Ready To Move,Prashanth Nagar,6 BHK,1200,5,0.0,5
+191,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1702,3,2.0,5
+192,Super built-up  Area,Ready To Move,Bisuvanahalli,3 BHK,1080,2,2.0,5
+193,Built-up  Area,Ready To Move,Kasavanhalli,2 BHK,1189,2,1.0,5
+194,Super built-up  Area,Ready To Move,Tumkur Road,2 BHK,1035,2,1.0,5
+195,Super built-up  Area,18-Aug,Hennur Road,2 BHK,1200,2,1.0,5
+196,Plot  Area,Ready To Move,Mahalakshmi Layout,8 BHK,4482,6,2.0,5
+197,Plot  Area,Ready To Move,Michael Palaya,3 BHK,1200,3,0.0,5
+198,Super built-up  Area,20-Oct,Kanakpura Road,3 BHK,1300,3,1.0,5
+199,Super built-up  Area,19-Apr,Yelahanka,2 BHK,1330,2,1.0,5
+200,Super built-up  Area,Ready To Move,Kaggalipura,3 BHK,1210,2,1.0,5
+201,Built-up  Area,Ready To Move,Chikkalasandra,3 BHK,1350,2,2.0,5
+202,Super built-up  Area,Ready To Move,Kaval Byrasandra,3 BHK,1900,2,2.0,5
+203,Super built-up  Area,Ready To Move,Ambedkar Nagar,3 BHK,1935,4,2.0,5
+204,Super built-up  Area,Ready To Move,Doddanakundi Industrial Area 2,3 BHK,1410,3,3.0,5
+205,Super built-up  Area,Ready To Move,Narayanapura,2 BHK,1469,2,2.0,5
+206,Super built-up  Area,Ready To Move,Varthur,2 BHK,986,2,1.0,4
+207,Super built-up  Area,Ready To Move,RBI Layout,3 BHK,1460,2,2.0,5
+208,Super built-up  Area,19-Jan,Chandra Layout,3 BHK,1260,2,2.0,5
+209,Super built-up  Area,Ready To Move,Chandapura,3 BHK,1345,2,2.0,5
+210,Super built-up  Area,Ready To Move,Panathur,2 BHK,980,2,1.0,4
+211,Built-up  Area,Ready To Move,Kudlu Gate,2 BHK,1164,2,2.0,5
+212,Super built-up  Area,Ready To Move,Subramanyapura,2 BHK,929,1,2.0,4
+213,Built-up  Area,Ready To Move,Kundalahalli,2 BHK,1065,2,1.0,5
+214,Super built-up  Area,20-Jun,Budigere,2 BHK,1172,2,0.0,5
+215,Super built-up  Area,Ready To Move,Lakshmiamma Garden,3 BHK,3000,3,1.0,5
+216,Super built-up  Area,18-Apr,Electronic City,2 BHK,1020,2,1.0,5
+217,Super built-up  Area,Ready To Move,Gunjur,3 BHK,1362,3,1.0,5
+218,Super built-up  Area,Ready To Move,Yeshwanthpur,1 BHK,672,1,1.0,4
+219,Super built-up  Area,Ready To Move,Brookefield,3 BHK,1746,3,3.0,5
+220,Built-up  Area,18-Dec,Electronic City,2 BHK,1025,2,1.0,5
+221,Super built-up  Area,Ready To Move,Harlur,2 BHK,1532,2,1.0,5
+222,Super built-up  Area,Ready To Move,Guni Agrahara,3 BHK,1200,2,2.0,5
+223,Super built-up  Area,Ready To Move,Ganga Nagar,2 BHK,1250,2,2.0,5
+224,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1188,2,1.0,5
+225,Built-up  Area,19-Oct,Whitefield,4 BHK,3565,4,0.0,5
+226,Super built-up  Area,19-Jan,Marathahalli,2 BHK,1170,2,2.0,5
+227,Super built-up  Area,Ready To Move,BEL Road,3 BHK,1800,3,2.0,5
+228,Plot  Area,Ready To Move,Madavara,2 BHK,1000,2,1.0,4
+229,Plot  Area,Ready To Move,Cooke Town,3 BHK,2600,3,1.0,5
+230,Plot  Area,Ready To Move,Nagarbhavi,5 BHK,1200,4,3.0,5
+231,Super built-up  Area,Ready To Move,Kasturi Nagar,4 BHK,2507,4,2.0,5
+232,Super built-up  Area,Ready To Move,Babusapalaya,2 BHK,1061,2,1.0,5
+233,Super built-up  Area,Ready To Move,KR Puram,2 BHK,1290,2,2.0,5
+234,Super built-up  Area,Ready To Move,Sarjapur,2 BHK,1200,2,1.0,5
+235,Super built-up  Area,18-May,Bharathi Nagar,2 BHK,1120,2,2.0,5
+236,Super built-up  Area,Ready To Move,Electronic City,1 BHK,418,1,1.0,3
+237,Super built-up  Area,Ready To Move,Sarjapur,3 BHK,1333,3,1.0,5
+238,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1691,3,2.0,5
+239,Super built-up  Area,19-Dec,Thanisandra,1 BHK,747,1,0.0,4
+240,Super built-up  Area,Ready To Move,Koramangala,3 BHK,1700,3,3.0,5
+241,Super built-up  Area,19-May,Thanisandra,3 BHK,2030,4,1.0,5
+242,Super built-up  Area,18-Mar,Balagere,2 BHK,1012,2,1.0,5
+243,Carpet  Area,Ready To Move,Kudlu,3 BHK,1245,2,1.0,5
+244,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,1765,3,2.0,5
+245,Super built-up  Area,Ready To Move,Gottigere,2 BHK,1110,2,2.0,5
+246,Built-up  Area,Ready To Move,Akash Nagar,2 BHK,967,2,1.0,4
+247,Super built-up  Area,Ready To Move,Sarjapur,2 BHK,1044,2,2.0,5
+248,Super built-up  Area,Ready To Move,Brookefield,3 BHK,1518,3,3.0,5
+249,Super built-up  Area,Ready To Move,KR Puram,3 BHK,1300,2,2.0,5
+250,Super built-up  Area,Ready To Move,Seetharampalya,3 BHK,1798,3,3.0,5
+251,Carpet  Area,Ready To Move,KR Puram,2 BHK,866,2,0.0,4
+252,Super built-up  Area,18-Feb,Whitefield,4 BHK,3410,5,3.0,5
+253,Super built-up  Area,Ready To Move,Singasandra,2 BHK,1179,2,2.0,5
+254,Super built-up  Area,Ready To Move,Rajaji Nagar,5 BHK,3600,5,2.0,5
+255,Super built-up  Area,Ready To Move,Uttarahalli,2 BHK,1125,2,1.0,5
+256,Super built-up  Area,Ready To Move,Cambridge Layout,3 BHK,2098,3,1.0,5
+257,Super built-up  Area,Ready To Move,3rd Phase JP Nagar,3 BHK,2400,3,1.0,5
+258,Built-up  Area,Ready To Move,Haralur Road,3 BHK,1976,3,2.0,5
+259,Built-up  Area,Ready To Move,5th Phase JP Nagar,2 BHK,1190,2,2.0,5
+260,Super built-up  Area,Ready To Move,cooketown,3 BHK,1800,3,3.0,5
+261,Super built-up  Area,19-Sep,Jakkur,3 BHK,1761,3,1.0,5
+262,Super built-up  Area,Ready To Move,Cooke Town,3 BHK,1700,3,3.0,5
+263,Built-up  Area,Ready To Move,Ramamurthy Nagar,4 BHK,900,4,1.0,4
+264,Super built-up  Area,18-Apr,Electronic City,2 BHK,1128,2,1.0,5
+265,Super built-up  Area,Ready To Move,5th Stage BEML Layout,3 BHK,2000,3,2.0,5
+266,Built-up  Area,18-Dec,Electronic City,3 BHK,1220,2,1.0,5
+267,Super built-up  Area,19-Jan,Shauhardha Layout,1 BHK,509,1,1.0,4
+268,Super built-up  Area,Ready To Move,Ambedkar Nagar,3 BHK,1852,4,2.0,5
+269,Super built-up  Area,20-Dec,Varthur,2 BHK,1045,2,1.0,5
+270,Super built-up  Area,Ready To Move,Kaverappa Layout,4 BHK,3535,4,2.0,5
+271,Super built-up  Area,Ready To Move,Marathahalli,2 BHK,1102,2,2.0,5
+272,Super built-up  Area,Ready To Move,Omkar Nagar,4 BHK,1800,3,2.0,5
+273,Super built-up  Area,Ready To Move,Hebbal Kempapura,3 BHK,1436,2,2.0,5
+274,Super built-up  Area,Ready To Move,Chikkadunnasandra,3 BHK,1397,2,2.0,5
+275,Super built-up  Area,Ready To Move,Kothanur,2 BHK,1140,2,2.0,5
+276,Super built-up  Area,20-Jan,Balagere,1 BHK,645,1,1.0,4
+277,Plot  Area,Ready To Move,Bank Of Baroda Colony,5 BHK,2350,5,1.0,5
+278,Plot  Area,18-May,Nagarbhavi,3 BHK,1200,3,2.0,5
+279,Carpet  Area,Ready To Move,Bhoopsandra,3 BHK,2050,3,2.0,5
+280,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1335,2,1.0,5
+281,Plot  Area,Ready To Move,Thirumenahalli,2 BHK,2100,1,1.0,5
+282,Super built-up  Area,18-Dec,Hebbal,3 BHK,1255,3,2.0,5
+283,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1140,2,1.0,5
+284,Super built-up  Area,Ready To Move,Hosakerehalli,3 BHK,2376,3,1.0,5
+285,Super built-up  Area,19-Mar,Thanisandra,1 BHK,663,1,1.0,4
+286,Super built-up  Area,Ready To Move,Victoria Layout,2 BHK,1276,2,0.0,5
+287,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1450,3,3.0,5
+288,Super built-up  Area,Ready To Move,Kodichikkanahalli,3 BHK,1400,3,3.0,5
+289,Super built-up  Area,17-Oct,Divya Unnathi Layout,2 BHK,1339,2,1.0,5
+290,Built-up  Area,18-Dec,Electronic City,3 BHK,1220,2,1.0,5
+291,Built-up  Area,Ready To Move,Malleshwaram,3 BHK,2200,3,2.0,5
+292,Built-up  Area,Ready To Move,Harohalli,2 BHK,1305,2,2.0,5
+293,Built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1740,3,3.0,5
+294,Super built-up  Area,Ready To Move,Anekal,2 BHK,680,1,1.0,4
+295,Super built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,1154,2,2.0,5
+296,Built-up  Area,Ready To Move,Munnekollal,2 BHK,1200,2,2.0,5
+297,Super built-up  Area,Ready To Move,Hennur,2 BHK,1155,2,2.0,5
+298,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1525,2,3.0,5
+299,Built-up  Area,Ready To Move,Giri Nagar,1 BHK,600,1,1.0,4
+300,Super built-up  Area,19-Dec,Hebbal,4 BHK,2470,5,2.0,5
+301,Super built-up  Area,Ready To Move,Padmanabhanagar,2 BHK,1100,2,1.0,5
+302,Super built-up  Area,Ready To Move,Hormavu,2 BHK,1250,2,2.0,5
+303,Super built-up  Area,Ready To Move,Kothanur,2 BHK,1400,2,1.0,5
+304,Super built-up  Area,Ready To Move,Ittamadu,3 BHK,1600,3,2.0,5
+305,Built-up  Area,Ready To Move,Electronic City,2 BHK,1060,2,1.0,5
+306,Super built-up  Area,Ready To Move,Horamavu Banaswadi,2 BHK,1272,2,2.0,5
+307,Super built-up  Area,19-Jul,Kanakpura Road,2 BHK,1296,2,2.0,5
+308,Built-up  Area,Ready To Move,Dollars Colony,4 BHK,2100,3,2.0,5
+309,Super built-up  Area,Ready To Move,Karuna Nagar,3 BHK,1945,3,3.0,5
+310,Super built-up  Area,19-Nov,Chandapura,3 BHK,1033,2,2.0,5
+311,Super built-up  Area,Ready To Move,Stage-4 Bommanahalli,3 BHK,2300,2,2.0,5
+312,Super built-up  Area,18-Aug,Gunjur Palya,2 BHK,1235,2,2.0,5
+313,Super built-up  Area,Ready To Move,3rd Block Koramangala,3 BHK,2100,3,1.0,5
+314,Super built-up  Area,Ready To Move,2nd Phase JP Nagar,2 BHK,850,2,1.0,4
+315,Super built-up  Area,Ready To Move,Subramanyapura,3 BHK,1880,3,2.0,5
+316,Super built-up  Area,20-May,1st Block Jayanagar,4 BHK,2450,4,2.0,5
+317,Super built-up  Area,Ready To Move,Kenchenahalli,2 BHK,1060,2,2.0,5
+318,Super built-up  Area,Ready To Move,Hennur Road,3 BHK,2041,3,3.0,5
+319,Built-up  Area,Ready To Move,Hulimavu,2 BHK,1050,2,2.0,5
+320,Super built-up  Area,Ready To Move,Vasanthapura,2 BHK,1037,2,1.0,5
+321,Built-up  Area,21-Dec,"Electronic city phase 1, ",2 BHK,1150,2,1.0,5
+322,Super built-up  Area,Ready To Move,LB Shastri Nagar,2 BHK,1184,2,1.0,5
+323,Built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1680,3,2.0,5
+324,Super built-up  Area,18-Apr,Thanisandra,3 BHK,1411,3,2.0,5
+325,Plot  Area,Ready To Move,Hosa Road,5 BHK,900,5,0.0,4
+326,Super built-up  Area,21-Dec,Kanakpura Road,2 BHK,900,2,2.0,4
+327,Built-up  Area,Ready To Move,Jakkur Plantation,4 BHK,3500,4,3.0,5
+328,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1702,3,2.0,5
+329,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1185,2,2.0,5
+330,Super built-up  Area,21-Jan,Kanakpura Road,3 BHK,1300,3,1.0,5
+331,Super built-up  Area,Ready To Move,Lavakusha Nagar,3 BHK,1545,3,2.0,5
+332,Super built-up  Area,Ready To Move,6th Phase JP Nagar,3 BHK,1515,2,2.0,5
+333,Super built-up  Area,Ready To Move,Jigani,3 BHK,1300,3,3.0,5
+334,Super built-up  Area,Ready To Move,JP Nagar,2 BHK,1107,2,1.0,5
+335,Super built-up  Area,Ready To Move,Old Madras Road,3 BHK,1720,3,2.0,5
+336,Super built-up  Area,Ready To Move,Kuvempu Nagar,3 BHK,1540,3,2.0,5
+337,Super built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,1000,2,1.0,4
+338,Super built-up  Area,21-Dec,Electronic City,1 BHK,710,1,1.0,4
+339,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1100,2,1.0,5
+340,Built-up  Area,Ready To Move,Sri Balaji Krupa Layout,4 BHK,3200,4,0.0,5
+341,Plot  Area,Ready To Move,Domlur Layout,2 BHK,900,2,2.0,4
+342,Built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,1250,2,0.0,5
+343,Built-up  Area,Ready To Move,Kaggadasapura,5 BHK,2400,4,3.0,5
+344,Super built-up  Area,Ready To Move,Hegde Nagar,3 BHK,1584,3,1.0,5
+345,Plot  Area,Ready To Move,Vasanth nagar,4 BHK,875,4,0.0,4
+346,Plot  Area,Ready To Move,Kammasandra,4 BHK,1200,6,3.0,5
+347,Super built-up  Area,Ready To Move,Kaggadasapura,3 BHK,1485,2,2.0,5
+348,Built-up  Area,Ready To Move,Hennur Road,3 BHK,1100,2,1.0,5
+349,Super built-up  Area,18-Mar,8th Phase JP Nagar,2 BHK,1245,2,1.0,5
+350,Built-up  Area,19-Dec,Hennur Road,4 BHK,1880,4,0.0,5
+351,Super built-up  Area,20-Jul,Frazer Town,3 BHK,2214,3,3.0,5
+352,Built-up  Area,18-Jun,Anathanagar,2 BHK,1050,2,2.0,5
+353,Plot  Area,Ready To Move,Vishveshwarya Layout,4 BHK,600,4,2.0,4
+354,Super built-up  Area,19-Jul,Bannerghatta Road,3 BHK,1640,3,2.0,5
+355,Super built-up  Area,Ready To Move,Basavanapura,2 BHK,1165,2,1.0,5
+356,Built-up  Area,Ready To Move,Kengeri Satellite Town,2 BHK,1110,2,1.0,5
+357,Super built-up  Area,Ready To Move,vinayakanagar,7 BHK,1200,5,2.0,5
+358,Built-up  Area,Ready To Move,St. John's Road,4 BHK,4000,4,2.0,5
+359,Built-up  Area,Ready To Move,Uttarahalli,4 BHK,4500,4,0.0,5
+360,Plot  Area,Ready To Move,Jaraganahalli Jp Nagar Post,4 BHK,600,4,3.0,4
+361,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1300,2,2.0,5
+362,Plot  Area,Ready To Move,adigondanhalli,2 BHK,1200,1,0.0,5
+363,Plot  Area,Immediate Possession,Yelahanka,Unknown,1500,4,1.0,5
+364,Super built-up  Area,18-Aug,Hennur Road,2 BHK,1232,2,1.0,5
+365,Super built-up  Area,Ready To Move,Jalahalli,3 BHK,1704,3,2.0,5
+366,Built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,1275,2,2.0,5
+367,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1222,2,1.0,5
+368,Super built-up  Area,Ready To Move,Varthur,2 BHK,1155,2,2.0,5
+369,Super built-up  Area,18-Apr,Electronic City,2 BHK,1000,2,1.0,4
+370,Super built-up  Area,Ready To Move,Horamavu Banaswadi,2 BHK,1200,2,1.0,5
+371,Super built-up  Area,19-Dec,Yelahanka,3 BHK,1517,3,2.0,5
+372,Super built-up  Area,18-May,Horamavu Agara,2 BHK,1166,2,1.0,5
+373,Built-up  Area,Ready To Move,Electronic City,2 BHK,870,2,2.0,4
+374,Super built-up  Area,Ready To Move,5th Phase JP Nagar,5 BHK,4000,5,2.0,5
+375,Plot  Area,Ready To Move,Rajaji Nagar,4 BHK,1350,4,1.0,5
+376,Super built-up  Area,Ready To Move,Yelahanka,4 BHK,3019,6,2.0,5
+377,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1345,3,1.0,5
+378,Plot  Area,Ready To Move,Dommasandra,3 BHK,900,3,1.0,4
+379,Super built-up  Area,Ready To Move,EPIP Zone,4 BHK,3800,5,2.0,5
+380,Super built-up  Area,Ready To Move,Chandapura,3 BHK,971,2,2.0,4
+381,Super built-up  Area,Ready To Move,Hennur,2 BHK,1255,2,1.0,5
+382,Built-up  Area,Ready To Move,EPIP Zone,2 BHK,1810,2,2.0,5
+383,Built-up  Area,Ready To Move,"Whitefield, ",2 BHK,1300,2,1.0,5
+384,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1185,2,2.0,5
+385,Super built-up  Area,Ready To Move,Pattandur Agrahara,2 BHK,1350,2,3.0,5
+386,Super built-up  Area,20-Jun,Budigere,3 BHK,1590,3,0.0,5
+387,Super built-up  Area,Ready To Move,Thyagaraja Nagar,7 BHK,3000,6,3.0,5
+388,Plot  Area,Ready To Move,Brookefield,4 BHK,1560,3,2.0,5
+389,Super built-up  Area,Ready To Move,Somasundara Palya,3 BHK,1650,3,2.0,5
+390,Super built-up  Area,Ready To Move,Off Bannergatta Road,3 BHK,1645,3,2.0,5
+391,Super built-up  Area,Ready To Move,Hennur Road,3 BHK,1748,3,2.0,5
+392,Plot  Area,18-Nov,Channasandra,3 BHK,1200,3,1.0,5
+393,Built-up  Area,Ready To Move,Kengeri Satellite Town,2 BHK,1170,2,3.0,5
+394,Built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,3420,4,2.0,5
+395,Built-up  Area,Ready To Move,Hulimavu,3 BHK,1320,2,2.0,5
+396,Super built-up  Area,18-Jul,Bhoganhalli,3 BHK,1610,3,2.0,5
+397,Super built-up  Area,Ready To Move,Frazer Town,3 BHK,1870,3,3.0,5
+398,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1510,2,1.0,5
+399,Built-up  Area,Ready To Move,Kammagondahalli,6 BHK,2700,7,3.0,5
+400,Super built-up  Area,Ready To Move,Kanakapura  Rod,3 BHK,1305,2,1.0,5
+401,Super built-up  Area,Ready To Move,Mahadevpura,3 BHK,1500,2,1.0,5
+402,Super built-up  Area,Ready To Move,Indira Nagar,2 BHK,1149,2,1.0,5
+403,Built-up  Area,Ready To Move,Thanisandra,4 BHK,1948,4,2.0,5
+404,Plot  Area,Ready To Move,Margondanahalli,3 BHK,1448,3,1.0,5
+405,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1242,2,1.0,5
+406,Super built-up  Area,Ready To Move,Sonnenahalli,2 BHK,1268,2,1.0,5
+407,Super built-up  Area,Ready To Move,Ramamurthy Nagar,2 BHK,1101,2,1.0,5
+408,Super built-up  Area,Ready To Move,Kallumantapa,2 BHK,1255,2,3.0,5
+409,Super built-up  Area,Ready To Move,Gunjur,3 BHK,1362,3,1.0,5
+410,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,984,3,2.0,4
+411,Super built-up  Area,18-May,Hosa Road,2 BHK,1089,2,1.0,5
+412,Built-up  Area,Ready To Move,Byrathi Village,2 BHK,800,1,3.0,4
+413,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1345,2,1.0,5
+414,Plot  Area,Ready To Move,Thanisandra,8 BHK,3600,9,3.0,5
+415,Plot  Area,Ready To Move,Krishna Nagar,4 BHK,1650,2,1.0,5
+416,Super built-up  Area,Ready To Move,Kaggalipura,2 BHK,950,2,1.0,4
+417,Super built-up  Area,Ready To Move,HBR Layout,2 BHK,1068,2,1.0,5
+418,Built-up  Area,Ready To Move,Yelahanka New Town,2 BHK,860,1,2.0,4
+419,Built-up  Area,Ready To Move,Kengeri,8 BHK,3000,5,1.0,5
+420,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1756,3,2.0,5
+421,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1205,2,1.0,5
+422,Plot  Area,Ready To Move,Hoodi,8 BHK,1120,8,2.0,5
+423,Super built-up  Area,Ready To Move,Banashankari,3 BHK,1800,3,2.0,5
+424,Super built-up  Area,18-Jan,Ashok Nagar,4 BHK,8321,5,2.0,6
+425,Built-up  Area,Ready To Move,Hormavu,3 BHK,1604,3,0.0,5
+426,Super built-up  Area,18-May,Old Airport Road,4 BHK,2732,4,3.0,5
+427,Super built-up  Area,18-Dec,Chandapura,2 BHK,1015,2,2.0,5
+428,Super built-up  Area,Ready To Move,Banashankari,3 BHK,1200,2,2.0,5
+429,Super built-up  Area,Ready To Move,Ananth Nagar,2 BHK,1010,2,2.0,5
+430,Built-up  Area,Ready To Move,Nagarbhavi,2 BHK,1250,3,0.0,5
+431,Super built-up  Area,Ready To Move,Doddakallasandra,2 BHK,1010,2,1.0,5
+432,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1050,2,2.0,5
+433,Super built-up  Area,Ready To Move,Harlur,3 BHK,1710,3,2.0,5
+434,Super built-up  Area,19-Jan,Mysore Road,3 BHK,1249,3,2.0,5
+435,Built-up  Area,Ready To Move,Attibele,1 BHK,410,1,1.0,3
+436,Super built-up  Area,18-Oct,Bannerghatta Road,3 BHK,1656,2,1.0,5
+437,Super built-up  Area,Ready To Move,Naganathapura,3 BHK,1451,3,1.0,5
+438,Super built-up  Area,Ready To Move,Giri Nagar,6 BHK,1200,3,0.0,5
+439,Super built-up  Area,Ready To Move,JP Nagar,2 BHK,1250,2,2.0,5
+440,Plot  Area,Ready To Move,Meenakunte,3 BHK,4395,3,3.0,5
+441,Super built-up  Area,Ready To Move,Hebbal,4 BHK,4600,6,2.0,5
+442,Built-up  Area,Ready To Move,Sonnenahalli,3 BHK,1340,2,3.0,5
+443,Super built-up  Area,Ready To Move,Abbaiah Reddy Layout,2 BHK,1100,2,2.0,5
+444,Super built-up  Area,Ready To Move,Whitefield,4 BHK,6000,6,1.0,6
+445,Super built-up  Area,Ready To Move, Devarachikkanahalli,3 BHK,1700,3,1.0,5
+446,Plot  Area,Ready To Move,Yelahanka,6 BHK,1200,5,0.0,5
+447,Super built-up  Area,Ready To Move,KR Puram,2 BHK,1096,2,1.0,5
+448,Super built-up  Area,18-May,Electronic City Phase II,2 BHK,1160,2,1.0,5
+449,Built-up  Area,Ready To Move,"Sarjapur Road, ",3 BHK,1936,3,2.0,5
+450,Super built-up  Area,Ready To Move,Nehru Nagar,3 BHK,1269,2,2.0,5
+451,Super built-up  Area,19-Dec,Richmond Road,3 BHK,3500,3,1.0,5
+452,Super built-up  Area,18-May,Panathur,3 BHK,1586,3,1.0,5
+453,Super built-up  Area,18-Jul,Rajaji Nagar,2 BHK,1376,2,1.0,5
+454,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1452,3,3.0,5
+455,Super built-up  Area,18-Aug,Hosa Road,3 BHK,1538,3,1.0,5
+456,Super built-up  Area,18-May,Hosur Road,3 BHK,1427,2,1.0,5
+457,Built-up  Area,Ready To Move,Upadhyaya Layout,2 BHK,935,2,0.0,4
+458,Built-up  Area,Ready To Move,Ashwath Nagar,2 BHK,1220,2,3.0,5
+459,Super built-up  Area,Ready To Move,Harlur,2 BHK,1197,2,1.0,5
+460,Super built-up  Area,18-Dec,Varthur,2 BHK,674,1,1.0,4
+461,Built-up  Area,Ready To Move,Kengeri,1 BHK,410,1,1.0,3
+462,Built-up  Area,18-Apr,Thanisandra,3 BHK,1573,3,1.0,5
+463,Super built-up  Area,Ready To Move,Dodda Nekkundi,2 BHK,1135,2,2.0,5
+464,Built-up  Area,18-Dec,Huskur,3 BHK,1400,2,1.0,5
+465,Super built-up  Area,Ready To Move,Agrahara Dasarahalli,1 BHK,1200,1,0.0,5
+466,Plot  Area,Ready To Move,Ittamadu,3 BHK,1800,3,0.0,5
+467,Built-up  Area,Ready To Move,Avalahalli,3 BHK,2045,3,2.0,5
+468,Super built-up  Area,Ready To Move,Sonnenahalli,2 BHK,1268,2,1.0,5
+469,Super built-up  Area,Ready To Move,Kambipura,2 BHK,883,2,1.0,4
+470,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1600,3,3.0,5
+471,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1056,2,2.0,5
+472,Plot  Area,Ready To Move,Jigani,10 BHK,1200,11,3.0,5
+473,Plot  Area,Ready To Move,Whitefield,4 BHK,4500,4,2.0,5
+474,Super built-up  Area,Ready To Move,KR Puram,2 BHK,1204,2,2.0,5
+475,Super built-up  Area,Ready To Move,Tejaswini Nagar,3 BHK,1410,2,1.0,5
+476,Built-up  Area,Ready To Move,Hennur Road,2 BHK,1460,2,1.0,5
+477,Super built-up  Area,Ready To Move,Dodda Nekkundi,2 BHK,1100,2,1.0,5
+478,Super built-up  Area,Ready To Move,Govindapura,2 BHK,1310,2,1.0,5
+479,Super built-up  Area,Ready To Move,Sector 2 HSR Layout,3 BHK,1600,3,2.0,5
+480,Super built-up  Area,Ready To Move,Lottegolla Halli,2 BHK,1250,2,2.0,5
+481,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1665,3,2.0,5
+482,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1345,2,1.0,5
+483,Built-up  Area,Ready To Move,Hosahalli Extension,5 BHK,2000,5,2.0,5
+484,Super built-up  Area,Ready To Move,Singasandra,2 BHK,1416,2,2.0,5
+485,Super built-up  Area,Ready To Move,HSR Layout,2 BHK,1145,2,2.0,5
+486,Built-up  Area,Ready To Move,Munnekollal,10 BHK,7200,10,3.0,6
+487,Built-up  Area,Ready To Move,Jigani,3 BHK,1231,3,2.0,5
+488,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1664,3,0.0,5
+489,Built-up  Area,Ready To Move,TC Palaya,3 BHK,2000,3,1.0,5
+490,Built-up  Area,Ready To Move,Rajiv Nagar,2 BHK,972,2,2.0,4
+491,Built-up  Area,Ready To Move,3rd Phase JP Nagar,4 BHK,4500,4,3.0,5
+492,Super built-up  Area,Ready To Move,Bellandur,2 BHK,1185,2,1.0,5
+493,Built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1750,3,2.0,5
+494,Built-up  Area,Ready To Move,Byadarahalli,3 BHK,3155,4,2.0,5
+495,Super built-up  Area,18-Dec,Balagere,2 BHK,1007,2,1.0,5
+496,Super built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,1700,3,2.0,5
+497,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1250,2,2.0,5
+498,Super built-up  Area,Ready To Move,Telecom Layout,2 BHK,1200,2,1.0,5
+499,Super built-up  Area,18-Aug,Horamavu Agara,2 BHK,994,2,1.0,4
+500,Super built-up  Area,18-Apr,Ramamurthy Nagar,2 BHK,1150,2,2.0,5
+501,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1220,2,2.0,5
+502,Super built-up  Area,Ready To Move,Hennur Gardens,2 BHK,1441,2,1.0,5
+503,Super built-up  Area,19-Mar,Old Madras Road,2 BHK,1157,2,2.0,5
+504,Super built-up  Area,Ready To Move,RPC layout,6 BHK,1300,6,3.0,5
+505,Super built-up  Area,Ready To Move,Thigalarapalya,2 BHK,1400,2,2.0,5
+506,Built-up  Area,Ready To Move,Tindlu,3 BHK,1370,3,1.0,5
+507,Plot  Area,Ready To Move,Magadi Road,5 BHK,1200,4,1.0,5
+508,Super built-up  Area,20-Dec,Judicial Layout,2 BHK,900,2,1.0,4
+509,Super built-up  Area,Ready To Move,Kodipalya,1 BHK,418,1,1.0,3
+510,Plot  Area,Ready To Move,Vishwapriya Nagar,3 BHK,1200,3,1.0,5
+511,Built-up  Area,Ready To Move,ISRO Layout,2 BHK,1200,2,3.0,5
+512,Super built-up  Area,Ready To Move,Talaghattapura,2 BHK,1062,2,1.0,5
+513,Super built-up  Area,Ready To Move,Kanakpura Road,2 BHK,1120,2,1.0,5
+514,Super built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,1012,2,1.0,5
+515,Plot  Area,Ready To Move,Postal Colony,3 BHK,1500,2,1.0,5
+516,Built-up  Area,Ready To Move,ISRO Layout,4 BHK,950,4,1.0,4
+517,Super built-up  Area,Ready To Move,Kadabagere,2 BHK,675,2,2.0,4
+518,Super built-up  Area,Ready To Move,Kanakpura Road,2 BHK,1430,2,2.0,5
+519,Super built-up  Area,Ready To Move,Channasandra,3 BHK,1195,2,1.0,5
+520,Super built-up  Area,Ready To Move,Old Madras Road,3 BHK,2640,5,1.0,5
+521,Super built-up  Area,Ready To Move,Bisuvanahalli,3 BHK,1075,2,1.0,5
+522,Super built-up  Area,18-Sep,Hennur Road,3 BHK,1570,3,0.0,5
+523,Plot  Area,Ready To Move,Kammanahalli,6 BHK,782,4,2.0,4
+524,Built-up  Area,18-Feb,Sonnenahalli,2 BHK,1011,2,1.0,5
+525,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,1450,2,1.0,5
+526,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1129,2,1.0,5
+527,Super built-up  Area,Ready To Move,Sarjapura - Attibele Road,2 BHK,1126,2,1.0,5
+528,Plot  Area,18-Dec,Attibele,3 BHK,1200,3,1.0,5
+529,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1180,2,2.0,5
+530,Plot  Area,Ready To Move,1st Block HRBR Layout,3 BHK,600,4,2.0,4
+531,Plot  Area,18-Apr,Bannerghatta,4 BHK,940,4,2.0,4
+532,Super built-up  Area,Ready To Move,Hennur Road,3 BHK,1933,3,2.0,5
+533,Built-up  Area,Ready To Move,TC Palaya,2 BHK,1082,2,2.0,5
+534,Plot  Area,Ready To Move,LB Shastri Nagar,8 BHK,2400,8,1.0,5
+535,Super built-up  Area,19-Dec,Anwar Layout,1 BHK,610,1,0.0,4
+536,Plot  Area,Ready To Move,Raja Rajeshwari Nagar,4 BHK,1560,4,1.0,5
+537,Super built-up  Area,Ready To Move,Kathriguppe,3 BHK,1300,3,3.0,5
+538,Built-up  Area,Ready To Move,Kudlu Gate,4 BHK,3850,6,0.0,5
+539,Built-up  Area,Ready To Move,CV Raman Nagar,2 BHK,1125,2,1.0,5
+540,Plot  Area,Ready To Move,Bileshivale,6 BHK,2400,7,2.0,5
+541,Super built-up  Area,Ready To Move,Kengeri Satellite Town,2 BHK,777,2,0.0,4
+542,Super built-up  Area,Ready To Move,Battarahalli,4 BHK,2500,3,1.0,5
+543,Super built-up  Area,Ready To Move,Old Airport Road,3 BHK,1798,3,2.0,5
+544,Built-up  Area,Ready To Move,Dodda Nekkundi Extension,3 BHK,1864,3,2.0,5
+545,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1115,2,1.0,5
+546,Super built-up  Area,Ready To Move,Kengeri,1 BHK,400,1,1.0,3
+547,Super built-up  Area,Ready To Move,Rajaji Nagar,2 BHK,1200,2,1.0,5
+548,Super built-up  Area,18-May,Ananth Nagar,2 BHK,992,2,2.0,4
+549,Built-up  Area,Ready To Move,Jakkasandra Extension,2 BHK,950,2,3.0,4
+550,Plot  Area,Ready To Move,R.T. Nagar,4 BHK,1500,4,3.0,5
+551,Super built-up  Area,Ready To Move,Bellandur,2 BHK,1200,2,1.0,5
+552,Built-up  Area,Ready To Move,GM Palaya,3 BHK,1735,3,2.0,5
+553,Built-up  Area,Ready To Move,BTM 2nd Stage,3 BHK,1750,3,3.0,5
+554,Super built-up  Area,Ready To Move,HSR Layout,2 BHK,1009,2,2.0,5
+555,Super built-up  Area,Ready To Move,Jalahalli,3 BHK,1470,2,3.0,5
+556,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1527,3,2.0,5
+557,Built-up  Area,Ready To Move,Singapura Village,2 BHK,985,2,1.0,4
+558,Built-up  Area,Ready To Move,Chandapura,4 BHK,3300,4,2.0,5
+559,Super built-up  Area,18-Jun,Whitefield,2 BHK,1277,2,1.0,5
+560,Super built-up  Area,18-May,Nallurhalli,2 BHK,1100,2,1.0,5
+561,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1820,3,2.0,5
+562,Super built-up  Area,Ready To Move,Puttanahalli,4 BHK,1530,3,3.0,5
+563,Super built-up  Area,Ready To Move,Banashankari,3 BHK,1886,3,2.0,5
+564,Plot  Area,Ready To Move,Chandra Layout,3 BHK,1200,2,0.0,5
+565,Super built-up  Area,Ready To Move,Jakkur,3 BHK,1880,4,2.0,5
+566,Super built-up  Area,Ready To Move,Hennur,2 BHK,1255,2,2.0,5
+567,Super built-up  Area,21-Dec,Kanakpura Road,2 BHK,700,2,1.0,4
+568,Super built-up  Area,Ready To Move,Somasundara Palya,2 BHK,1140,2,2.0,5
+569,Built-up  Area,18-Aug,Electronic City Phase II,2 BHK,1025,2,1.0,5
+570,Built-up  Area,Ready To Move,Whitefield,4 BHK,3453,4,2.0,5
+571,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1490,2,2.0,5
+572,Plot  Area,Ready To Move,Akshaya Vana,4 BHK,1200,4,2.0,5
+573,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1850,3,2.0,5
+574,Super built-up  Area,Ready To Move,Kaikondrahalli,2 BHK,1250,2,1.0,5
+575,Super built-up  Area,Ready To Move,Kamakya Layout,4 BHK,2400,3,1.0,5
+576,Super built-up  Area,Ready To Move,Kodihalli,4 BHK,3522,5,3.0,5
+577,Super built-up  Area,18-Dec,Jalahalli,2 BHK,1244,2,2.0,5
+578,Plot  Area,Ready To Move,Kumaraswami Layout,4 BHK,623,4,1.0,4
+579,Super built-up  Area,18-Dec,Kengeri Satellite Town,2 BHK,1025,2,1.0,5
+580,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1034,2,1.0,5
+581,Super built-up  Area,18-Jan,Kengeri Satellite Town,3 BHK,1191,2,2.0,5
+582,Super built-up  Area,Ready To Move,Kasavanhalli,3 BHK,1719,3,2.0,5
+583,Super built-up  Area,Ready To Move,7th Phase JP Nagar,2 BHK,1035,2,1.0,5
+584,Plot  Area,Ready To Move,2nd Stage Nagarbhavi,4 BHK,1500,3,2.0,5
+585,Super built-up  Area,18-Dec,Hosa Road,3 BHK,1470,2,2.0,5
+586,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1140,2,1.0,5
+587,Super built-up  Area,Ready To Move,Harlur,3 BHK,1752,3,2.0,5
+588,Plot  Area,Ready To Move,BTM 1st Stage,6 BHK,600,6,2.0,4
+589,Plot  Area,Ready To Move,2nd Stage Nagarbhavi,4 BHK,600,3,1.0,4
+590,Super built-up  Area,Ready To Move,Old Madras Road,3 BHK,2990,3,2.0,5
+591,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1660,3,2.0,5
+592,Super built-up  Area,Ready To Move,Electronic City,3 BHK,1275,3,3.0,5
+593,Super built-up  Area,18-Jun,Bommasandra Industrial Area,3 BHK,1365,3,1.0,5
+594,Plot  Area,Ready To Move,"MEI layout, Bagalgunte",3 BHK,1200,2,0.0,5
+595,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,2546,3,2.0,5
+596,Super built-up  Area,20-Oct,Banashankari Stage VI,3 BHK,1392,3,1.0,5
+597,Super built-up  Area,18-Mar,Whitefield,2 BHK,1245,2,1.0,5
+598,Built-up  Area,Ready To Move,Rayasandra,5 BHK,1200,3,1.0,5
+599,Super built-up  Area,Ready To Move,Yeshwanthpur,2 BHK,1162,2,2.0,5
+600,Super built-up  Area,Ready To Move,Singasandra,3 BHK,1476,2,1.0,5
+601,Built-up  Area,Ready To Move,KR Puram,1 BHK,700,1,1.0,4
+602,Built-up  Area,Ready To Move,Gnana Bharathi,6 BHK,3600,6,1.0,5
+603,Built-up  Area,Ready To Move,Jigani,2 BHK,943,2,2.0,4
+604,Plot  Area,Ready To Move,Pai Layout,2 BHK,1150,2,1.0,5
+605,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1113,2,1.0,5
+606,Super built-up  Area,20-Dec,Varthur,3 BHK,1615,3,2.0,5
+607,Super built-up  Area,Ready To Move,Keshava Nagar,2 BHK,1279,2,3.0,5
+608,Super built-up  Area,Ready To Move,Kacharakanahalli,2 BHK,1256,2,1.0,5
+609,Built-up  Area,Ready To Move,Benson Town,3 BHK,1805,3,2.0,5
+610,Built-up  Area,Ready To Move,Sompura,3 BHK,1350,3,1.0,5
+611,Super built-up  Area,18-May,SRINIVASAPURA,3 BHK,1525,3,2.0,5
+612,Super built-up  Area,18-Aug,Rajaji Nagar,2 BHK,1357,2,1.0,5
+613,Super built-up  Area,19-Mar,Hebbal,3 BHK,1645,3,2.0,5
+614,Super built-up  Area,Ready To Move,Ardendale,3 BHK,1777,3,2.0,5
+615,Super built-up  Area,Ready To Move,Bisuvanahalli,2 BHK,845,2,2.0,4
+616,Built-up  Area,Ready To Move,Sidedahalli,2 BHK,900,2,0.0,4
+617,Super built-up  Area,18-Sep,Varthur,2 BHK,1210,2,1.0,5
+618,Super built-up  Area,19-Aug,Electronic City Phase II,2 BHK,829,2,1.0,4
+619,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1879,3,2.0,5
+620,Super built-up  Area,17-Jun,Hosur Road,3 BHK,1250,2,2.0,5
+621,Built-up  Area,Ready To Move,Jeevanhalli,4 BHK,1200,2,2.0,5
+622,Super built-up  Area,19-Mar,Marathahalli,3 BHK,1108,2,1.0,5
+623,Super built-up  Area,18-Aug,Kanakpura Road,3 BHK,1401,3,2.0,5
+624,Super built-up  Area,19-Oct,Sarjapur  Road,3 BHK,1157,2,1.0,5
+625,Built-up  Area,Ready To Move,Ramamurthy Nagar Extension,2 BHK,1185,2,1.0,5
+626,Super built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1751,3,2.0,5
+627,Plot  Area,Ready To Move,Mahalakshmi Puram,5 BHK,1550,3,1.0,5
+628,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1880,3,2.0,5
+629,Super built-up  Area,20-Dec,Whitefield,3 BHK,1322,3,0.0,5
+630,Super built-up  Area,Ready To Move,Channasandra,2 BHK,1175,2,2.0,5
+631,Built-up  Area,Ready To Move,Jalahalli,2 BHK,1407,2,1.0,5
+632,Super built-up  Area,Ready To Move,Yelachenahalli,2 BHK,1000,2,2.0,4
+633,Super built-up  Area,Ready To Move,Electronic City,3 BHK,1518,3,3.0,5
+634,Plot  Area,Ready To Move,"Gubbi Cross, Hennur Main Road",4 BHK,3600,4,2.0,5
+635,Super built-up  Area,18-May,Tumkur Road,2 BHK,1027,2,1.0,5
+636,Super built-up  Area,Ready To Move,Dairy Circle,4 BHK,3730,6,2.0,5
+637,Built-up  Area,Ready To Move,HSR Layout,2 BHK,1145,2,2.0,5
+638,Super built-up  Area,18-Aug,Rajaji Nagar,2 BHK,1260,2,2.0,5
+639,Super built-up  Area,Ready To Move,Begur Road,3 BHK,1500,2,3.0,5
+640,Super built-up  Area,Ready To Move,Varthur,3 BHK,1737,2,1.0,5
+641,Super built-up  Area,18-Dec,Hennur,4 BHK,3517,4,2.0,5
+642,Plot  Area,Ready To Move,Byrathi Village,3 BHK,1600,4,1.0,5
+643,Built-up  Area,Ready To Move,Hegde Nagar,3 BHK,1500,3,2.0,5
+644,Plot  Area,Ready To Move,Sabari Nagar,2 BHK,1120,2,0.0,5
+645,Plot  Area,Ready To Move,Banashankari Stage V,3 BHK,1200,4,1.0,5
+646,Super built-up  Area,18-Dec,Hennur Road,2 BHK,1030,2,1.0,5
+647,Built-up  Area,Ready To Move,Gubbalala,6 BHK,2500,6,1.0,5
+648,Super built-up  Area,Ready To Move,Kammasandra,2 BHK,1057,2,1.0,5
+649,Super built-up  Area,18-Dec,Old Airport Road,4 BHK,2774,4,3.0,5
+650,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1460,2,2.0,5
+651,Super built-up  Area,Ready To Move,Hormavu,2 BHK,1075,2,1.0,5
+652,Super built-up  Area,Ready To Move,Mysore Road,3 BHK,1080,2,1.0,5
+653,Super built-up  Area,19-Dec,Kodihalli,4 BHK,3626,5,3.0,5
+654,Super built-up  Area,Ready To Move,Ashraya Layout,6 BHK,5100,7,1.0,6
+655,Super built-up  Area,Ready To Move,Singasandra,2 BHK,1140,2,1.0,5
+656,Super built-up  Area,18-Jun,Whitefield,2 BHK,1074,2,1.0,5
+657,Plot  Area,18-Jul,Whitefield,2 BHK,1200,2,1.0,5
+658,Super built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,2425,5,1.0,5
+659,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1323,2,2.0,5
+660,Super built-up  Area,18-Aug,Hennur Road,2 BHK,1232,2,1.0,5
+661,Super built-up  Area,Ready To Move,Kalena Agrahara,2 BHK,900,2,1.0,4
+662,Super built-up  Area,Ready To Move,Sarjapura - Attibele Road,1 BHK,740,1,1.0,4
+663,Super built-up  Area,18-Dec,Hebbal,3 BHK,1920,3,2.0,5
+664,Plot  Area,Ready To Move,Arishinakunte,1 BHK,41382,1,0.0,9
+665,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1550,3,2.0,5
+666,Super built-up  Area,Ready To Move,Gunjur,3 BHK,1588,2,3.0,5
+667,Built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,2300,4,1.0,5
+668,Built-up  Area,Ready To Move,R.T. Nagar,9 BHK,3600,8,2.0,5
+669,Built-up  Area,Ready To Move,"Thanisandra Main Road, ",2 BHK,1308,2,1.0,5
+670,Super built-up  Area,Ready To Move,Hennur,3 BHK,1340,2,2.0,5
+671,Plot  Area,Ready To Move,Kogilu,10 BHK,3280,9,3.0,5
+672,Built-up  Area,Ready To Move,Infantry Road,4 BHK,2170,3,2.0,5
+673,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1719,3,2.0,5
+674,Super built-up  Area,Ready To Move,Horamavu Agara,2 BHK,1108,2,1.0,5
+675,Plot  Area,18-Jul,Whitefield,2 BHK,1200,2,1.0,5
+676,Built-up  Area,18-Dec,Electronic City,1 BHK,1090,2,1.0,5
+677,Plot  Area,Ready To Move,Sarvabhouma Nagar,5 BHK,1500,5,2.0,5
+678,Super built-up  Area,18-Dec,Jakkur,3 BHK,1660,3,2.0,5
+679,Super built-up  Area,Ready To Move,Nagavara,2 BHK,1247,2,1.0,5
+680,Super built-up  Area,18-May,Thanisandra,3 BHK,1595,3,2.0,5
+681,Super built-up  Area,Ready To Move,Kaggadasapura,2 BHK,1175,2,2.0,5
+682,Plot  Area,Ready To Move,9th Phase JP Nagar,8 BHK,1200,8,2.0,5
+683,Super built-up  Area,Ready To Move,Old Airport Road,2 BHK,1184,2,1.0,5
+684,Super built-up  Area,Ready To Move,Byrasandra,2 BHK,1100,2,2.0,5
+685,Plot  Area,18-Apr,Kaval Byrasandra,2 BHK,935,2,0.0,4
+686,Built-up  Area,Ready To Move,Yelahanka,2 BHK,1200,2,2.0,5
+687,Plot  Area,Ready To Move,Rajaji Nagar,5 BHK,2400,5,1.0,5
+688,Super built-up  Area,Ready To Move,Neelamangala,2 BHK,1000,2,1.0,4
+689,Built-up  Area,Ready To Move,Uttarahalli,2 BHK,1000,2,0.0,4
+690,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1705,3,2.0,5
+691,Built-up  Area,Ready To Move,Tumkur Road,3 BHK,1060,2,2.0,5
+692,Plot  Area,Ready To Move,Chikka Tirupathi,4 BHK,2325,4,1.0,5
+693,Super built-up  Area,17-Mar,Kammagondahalli,3 BHK,1347,2,2.0,5
+694,Plot  Area,Ready To Move,Kathreguppe,8 BHK,1200,8,3.0,5
+695,Super built-up  Area,17-Dec,Varthur,2 BHK,1402,2,2.0,5
+696,Super built-up  Area,18-Oct,Whitefield,3 BHK,2280,4,2.0,5
+697,Super built-up  Area,Ready To Move,Whitefield ECC Road,2 BHK,1225,2,2.0,5
+698,Super built-up  Area,Ready To Move,5th Phase JP Nagar,2 BHK,1080,2,1.0,5
+699,Built-up  Area,18-Apr,Koppa,7 BHK,4000,7,2.0,5
+700,Super built-up  Area,Ready To Move,Lavelle Road,3 BHK,1919,3,0.0,5
+701,Built-up  Area,Ready To Move,Begur Road,2 BHK,1100,2,2.0,5
+702,Super built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,2500,4,3.0,5
+703,Super built-up  Area,22-Jan,Bannerghatta Road,2 BHK,1200,2,2.0,5
+704,Super built-up  Area,Ready To Move,Begur Road,3 BHK,1565,2,2.0,5
+705,Plot  Area,18-Apr,Maruthi nagar kogilu,2 BHK,1200,3,0.0,5
+706,Super built-up  Area,Ready To Move,Kothanur,3 BHK,1581,3,3.0,5
+707,Super built-up  Area,18-Dec,Whitefield,4 BHK,2882,5,1.0,5
+708,Plot  Area,Ready To Move,TC Palaya,5 BHK,1440,5,2.0,5
+709,Super built-up  Area,Ready To Move,Krishna Reddy Layout,3 BHK,2180,3,3.0,5
+710,Built-up  Area,Ready To Move,Nagasandra,4 BHK,7000,8,2.0,6
+711,Super built-up  Area,Ready To Move,Abbigere,2 BHK,985,2,1.0,4
+712,Built-up  Area,Ready To Move,Sarjapur,2 BHK,950,2,2.0,4
+713,Super built-up  Area,Ready To Move,Jai Bheema Nagar,2 BHK,1339,2,2.0,5
+714,Super built-up  Area,Ready To Move,Ayappa Nagar,3 BHK,1449,3,1.0,5
+715,Plot  Area,Ready To Move,Chikkasandra,4 BHK,1200,4,2.0,5
+716,Super built-up  Area,18-May,Brindavan Layout,2 BHK,1100,2,2.0,5
+717,Super built-up  Area,Ready To Move,Hoskote,2 BHK,1004,2,0.0,5
+718,Built-up  Area,Ready To Move,Kaval Byrasandra,3 BHK,2700,3,2.0,5
+719,Super built-up  Area,Ready To Move,Billamaranahalli,2 BHK,1100,2,3.0,5
+720,Built-up  Area,18-Dec,Electronic City,2 BHK,1140,2,1.0,5
+721,Plot  Area,Ready To Move,Sarjapur,3 BHK,3009,3,2.0,5
+722,Super built-up  Area,Ready To Move,Hanumantha Nagar,8 BHK,3300,8,3.0,5
+723,Built-up  Area,Ready To Move,Chandapura,2 BHK,800,1,2.0,4
+724,Built-up  Area,Ready To Move,Chikkabanavar,5 BHK,2000,4,0.0,5
+725,Plot  Area,Ready To Move,Prasanti Nagar,4 BHK,1200,4,1.0,5
+726,Built-up  Area,Ready To Move,3rd Block Hrbr Layout,2 BHK,1300,2,3.0,5
+727,Super built-up  Area,Ready To Move,Kanakpura Road,2 BHK,1220,2,2.0,5
+728,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,2289,3,2.0,5
+729,Super built-up  Area,18-Jan,Whitefield,2 BHK,1170,2,1.0,5
+730,Super built-up  Area,Ready To Move,Vignana Nagar,2 BHK,1350,2,2.0,5
+731,Super built-up  Area,Ready To Move,Kambipura,2 BHK,883,2,1.0,4
+732,Built-up  Area,Ready To Move,Thanisandra,3 BHK,1698,3,2.0,5
+733,Super built-up  Area,18-May,Electronic City Phase II,4 BHK,2188,4,0.0,5
+734,Super built-up  Area,Ready To Move,Ambalipura,2 BHK,1060,2,1.0,5
+735,Super built-up  Area,Ready To Move,Somasundara Palya,2 BHK,1185,2,2.0,5
+736,Super built-up  Area,20-Dec,Padmanabhanagar,3 BHK,2051,3,1.0,5
+737,Super built-up  Area,Ready To Move,Vittasandra,2 BHK,1404,2,1.0,5
+738,Super built-up  Area,Ready To Move,Electronic City Phase II,2 BHK,1252,2,1.0,5
+739,Super built-up  Area,18-Mar,Bannerghatta Road,3 BHK,1885,3,1.0,5
+740,Built-up  Area,Ready To Move,Kaikondrahalli,6 BHK,3381,6,3.0,5
+741,Super built-up  Area,Ready To Move,Hormavu,2 BHK,980,2,2.0,4
+742,Super built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,2500,3,3.0,5
+743,Super built-up  Area,19-Jan,Banashankari,3 BHK,1420,3,1.0,5
+744,Plot  Area,Ready To Move,Medahalli,6 BHK,1166,6,1.0,5
+745,Built-up  Area,Ready To Move,"Banasawadi, ",3 BHK,2312,3,2.0,5
+746,Super built-up  Area,Ready To Move,Kaggadasapura,4 BHK,3000,4,2.0,5
+747,Built-up  Area,Ready To Move,Jayamahal,2 BHK,1175,2,1.0,5
+748,Super built-up  Area,Ready To Move,Vinayaka Nagar,2 BHK,1145,2,2.0,5
+749,Built-up  Area,Ready To Move,Bhoganhalli,2 BHK,970,2,1.0,4
+750,Built-up  Area,18-Dec,Electronic City,2 BHK,1125,2,1.0,5
+751,Super built-up  Area,19-Sep,Whitefield,3 BHK,1640,3,0.0,5
+752,Built-up  Area,Ready To Move,9th Phase JP Nagar,4 BHK,5000,4,1.0,5
+753,Built-up  Area,Ready To Move,3rd Block Jayanagar,3 BHK,2150,3,3.0,5
+754,Super built-up  Area,18-Jul,Ramagondanahalli,3 BHK,1635,3,1.0,5
+755,Built-up  Area,Ready To Move,Harlur,3 BHK,3425,3,1.0,5
+756,Built-up  Area,19-Mar,Hennur Road,4 BHK,2950,4,3.0,5
+757,Super built-up  Area,18-Dec,Jalahalli,1 BHK,1200,2,1.0,5
+758,Super built-up  Area,Ready To Move,Kathriguppe,3 BHK,1335,2,2.0,5
+759,Super built-up  Area,Ready To Move,Hebbal,4 BHK,4450,6,0.0,5
+760,Super built-up  Area,Ready To Move,Yeshwanthpur,2 BHK,1166,2,1.0,5
+761,Super built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,2390,3,1.0,5
+762,Super built-up  Area,Ready To Move,Shivaji Nagar,3 BHK,1460,2,1.0,5
+763,Super built-up  Area,Ready To Move,Gulimangala,3 BHK,1690,3,3.0,5
+764,Plot  Area,Ready To Move,Nagashetty Halli,4 BHK,1386,3,2.0,5
+765,Super built-up  Area,Ready To Move,Devasandra Extension,2 BHK,1090,2,2.0,5
+766,Super built-up  Area,21-Dec,Thanisandra,3 BHK,1732,3,1.0,5
+767,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1390,2,1.0,5
+768,Built-up  Area,Ready To Move,Sector 2 HSR Layout,2 BHK,1095,2,1.0,5
+769,Super built-up  Area,19-Dec,Kengeri,1 BHK,416,1,1.0,3
+770,Super built-up  Area,Ready To Move,Channasandra Layout,3 BHK,2400,2,3.0,5
+771,Built-up  Area,Ready To Move,Yelahanka,3 BHK,1350,2,3.0,5
+772,Built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1453,2,2.0,5
+773,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1226,2,1.0,5
+774,Plot  Area,Ready To Move,Kasturi Nagar,4 BHK,784,2,2.0,4
+775,Super built-up  Area,Ready To Move,Hegde Nagar,3 BHK,1168,2,1.0,5
+776,Super built-up  Area,19-Dec,Bannerghatta,3 BHK,1776,3,2.0,5
+777,Built-up  Area,Ready To Move,Whitefield,3 BHK,1634,3,2.0,5
+778,Plot  Area,Ready To Move,Hormavu,2 BHK,860,2,0.0,4
+779,Plot  Area,Ready To Move,Kamala Nagar,3 BHK,2800,3,1.0,5
+780,Super built-up  Area,Ready To Move,Nagasandra,3 BHK,1650,3,2.0,5
+781,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1190,2,1.0,5
+782,Super built-up  Area,18-Aug,JP Nagar,2 BHK,1133,2,1.0,5
+783,Super built-up  Area,Ready To Move,Suraksha Nagar,3 BHK,1559,3,2.0,5
+784,Plot  Area,Ready To Move,Horamavu Banaswadi,3 BHK,1448,4,0.0,5
+785,Super built-up  Area,Ready To Move,Sathya Sai Layout,4 BHK,6652,6,1.0,6
+786,Super built-up  Area,Ready To Move,Kodichikkanahalli,2 BHK,976,2,1.0,4
+787,Plot  Area,Ready To Move,Bank Of Baroda Colony,4 BHK,1350,4,3.0,5
+788,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1590,2,2.0,5
+789,Super built-up  Area,19-Dec,Binny Pete,4 BHK,2940,6,2.0,5
+790,Built-up  Area,Ready To Move,Yelahanka,3 BHK,1633,3,2.0,5
+791,Super built-up  Area,18-Aug,Ramagondanahalli,2 BHK,1151,2,2.0,5
+792,Super built-up  Area,Ready To Move,Kereguddadahalli,3 BHK,1400,2,2.0,5
+793,Super built-up  Area,17-Apr,Uttarahalli,2 BHK,1037,2,1.0,5
+794,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1188,2,1.0,5
+795,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar 5th Stage,2 BHK,1060,2,1.0,5
+796,Super built-up  Area,Ready To Move,Thigalarapalya,3 BHK,2215,4,2.0,5
+797,Super built-up  Area,Ready To Move,Hennur,2 BHK,1255,2,2.0,5
+798,Plot  Area,Ready To Move,Ganesha Block,3 BHK,2500,2,1.0,5
+799,Super built-up  Area,Ready To Move,Hormavu,2 BHK,1075,2,1.0,5
+800,Super built-up  Area,17-Apr,Harlur,4 BHK,2569,5,3.0,5
+801,Super built-up  Area,18-Dec,ITPL,2 BHK,900,2,1.0,4
+802,Super built-up  Area,18-Aug,Kudlu Gate,2 BHK,1183,2,1.0,5
+803,Super built-up  Area,Ready To Move,HSR Layout,2 BHK,1100,2,2.0,5
+804,Super built-up  Area,Ready To Move,GM Palaya,3 BHK,1643,2,2.0,5
+805,Super built-up  Area,Ready To Move,Banagiri Nagar,3 BHK,1500,2,2.0,5
+806,Super built-up  Area,Ready To Move,Jakkur,2 BHK,1291,2,1.0,5
+807,Plot  Area,17-Oct,Hennur,3 BHK,1150,3,2.0,5
+808,Super built-up  Area,Ready To Move,Electronic City,2 BHK,1060,2,1.0,5
+809,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,1575,2,2.0,5
+810,Plot  Area,Ready To Move,BHEL Layout,5 BHK,1200,4,1.0,5
+811,Built-up  Area,Ready To Move,Byrathi Village,4 BHK,1700,3,2.0,5
+812,Super built-up  Area,Ready To Move,Mahadevpura,2 BHK,1236,2,1.0,5
+813,Built-up  Area,Ready To Move,Ramamurthy Nagar,3 BHK,1350,2,2.0,5
+814,Super built-up  Area,Ready To Move,Malleshwaram,3 BHK,2475,4,3.0,5
+815,Built-up  Area,Ready To Move,Pai Layout,6 BHK,3800,6,2.0,5
+816,Built-up  Area,Ready To Move,Haralur Road,4 BHK,4694,5,1.0,5
+817,Built-up  Area,18-Dec,Electronic City,2 BHK,1200,2,1.0,5
+818,Plot  Area,Ready To Move,Hulimavu,4 BHK,1200,4,1.0,5
+819,Built-up  Area,Ready To Move,Harlur,2 BHK,1225,2,2.0,5
+820,Super built-up  Area,18-Apr,Thanisandra,2 BHK,1056,2,1.0,5
+821,Super built-up  Area,18-Jun,9th Phase JP Nagar,3 BHK,1240,2,2.0,5
+822,Super built-up  Area,17-Oct,Banashankari,3 BHK,1200,3,2.0,5
+823,Super built-up  Area,18-Dec,Kudlu Gate,3 BHK,1850,3,2.0,5
+824,Super built-up  Area,Ready To Move,Amblipura,4 BHK,3150,4,3.0,5
+825,Built-up  Area,Ready To Move,Naganathapura,1 BHK,1200,1,0.0,5
+826,Plot  Area,Ready To Move,Dodda Banaswadi,4 BHK,1018,4,1.0,5
+827,Built-up  Area,Ready To Move,Konena Agrahara,5 BHK,3520,6,1.0,5
+828,Super built-up  Area,18-Jul,Chandapura,3 BHK,1185,2,2.0,5
+829,Super built-up  Area,Ready To Move,Jigani,2 BHK,918,2,2.0,4
+830,Super built-up  Area,Ready To Move,GD Layout,3 BHK,1330,2,2.0,5
+831,Built-up  Area,Ready To Move,Munnekollal,3 BHK,1540,2,3.0,5
+832,Super built-up  Area,Ready To Move,Lakshminarayana Pura,2 BHK,1200,2,2.0,5
+833,Super built-up  Area,18-Dec,Sunkan palya,2 BHK,927,2,2.0,4
+834,Built-up  Area,19-Jun,Sarjapur,4 BHK,2586,4,0.0,5
+835,Super built-up  Area,Ready To Move,CV Raman Nagar,3 BHK,1400,2,2.0,5
+836,Super built-up  Area,Ready To Move,Hosur Road,2 BHK,1345,2,2.0,5
+837,Built-up  Area,Ready To Move,1st Phase JP Nagar,4 BHK,1900,3,1.0,5
+838,Super built-up  Area,Ready To Move,8th Phase JP Nagar,2 BHK,1510,2,3.0,5
+839,Super built-up  Area,Ready To Move,Malleshwaram,2 BHK,302,2,1.0,3
+840,Super built-up  Area,21-Dec,Kanakpura Road,1 BHK,525,1,1.0,4
+841,Plot  Area,18-Aug,ITPL,3 BHK,1500,3,1.0,5
+842,Super built-up  Area,19-Dec,Yelahanka,1 BHK,828,1,0.0,4
+843,Super built-up  Area,Ready To Move,Vidyaranyapura,3 BHK,1100,2,2.0,5
+844,Built-up  Area,Ready To Move,Sunkadakatte,3 BHK,1200,3,1.0,5
+845,Super built-up  Area,21-Dec,Kanakpura Road,3 BHK,1100,3,2.0,5
+846,Carpet  Area,19-Jun,Hormavu,4 BHK,2282,4,0.0,5
+847,Built-up  Area,Ready To Move,Jayanti Nagar,2 BHK,760,2,1.0,4
+848,Plot  Area,Ready To Move,Sarjapur,3 BHK,2172,3,0.0,5
+849,Super built-up  Area,Ready To Move,Yeshwanthpur Industrial Suburb,6 BHK,3800,6,2.0,5
+850,Plot  Area,Ready To Move,Kumaraswami Layout,4 BHK,600,2,1.0,4
+851,Super built-up  Area,Ready To Move,8th Phase JP Nagar,3 BHK,3300,3,2.0,5
+852,Super built-up  Area,19-Mar,Thubarahalli,3 BHK,1242,3,1.0,5
+853,Plot  Area,Ready To Move,Moodalapalya,1 BHK,410,1,1.0,3
+854,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1245,2,2.0,5
+855,Built-up  Area,Ready To Move,Kadugodi,2 BHK,1088,2,2.0,5
+856,Built-up  Area,Ready To Move,Sahakara Nagar,2 BHK,1200,2,0.0,5
+857,Plot  Area,Ready To Move,TC Palaya,3 BHK,1995,3,1.0,5
+858,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1309,2,1.0,5
+859,Super built-up  Area,Ready To Move,BTM 1st Stage,3 BHK,1717,3,2.0,5
+860,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,2100,3,2.0,5
+861,Plot  Area,Ready To Move,Gayathri Nagar,2 BHK,880,1,0.0,4
+862,Plot  Area,Ready To Move,Abbigere,6 BHK,1200,6,1.0,5
+863,Super built-up  Area,18-Aug,Maruthi Nagar,3 BHK,1250,3,2.0,5
+864,Super built-up  Area,Ready To Move,Hebbal,3 BHK,3520,5,2.0,5
+865,Super built-up  Area,Ready To Move,5th Phase JP Nagar,2 BHK,1041,2,2.0,5
+866,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1505,2,2.0,5
+867,Super built-up  Area,18-Jul,Bannerghatta,3 BHK,1776,3,2.0,5
+868,Super built-up  Area,Ready To Move,Bellandur,3 BHK,1767,3,2.0,5
+869,Super built-up  Area,Ready To Move,Rajiv Gandhi Nagar,2 BHK,1293,2,2.0,5
+870,Super built-up  Area,Ready To Move,Kengeri,2 BHK,1320,2,1.0,5
+871,Built-up  Area,Ready To Move,Bhuvaneshwari Nagar,2 BHK,1280,2,2.0,5
+872,Super built-up  Area,19-Mar,Thanisandra,2 BHK,1245,2,1.0,5
+873,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1027,1,2.0,5
+874,Built-up  Area,Ready To Move,Yelenahalli,2 BHK,1200,2,1.0,5
+875,Super built-up  Area,21-Dec,Kanakpura Road,3 BHK,1100,3,2.0,5
+876,Plot  Area,Ready To Move,Medahalli,3 BHK,1065,3,1.0,5
+877,Super built-up  Area,21-Dec,Kannamangala,3 BHK,1814,3,1.0,5
+878,Super built-up  Area,Ready To Move,Ramagondanahalli,3 BHK,1610,2,1.0,5
+879,Built-up  Area,Ready To Move,Kumaraswami Layout,1 BHK,850,1,1.0,4
+880,Super built-up  Area,18-Jul,Kasavanhalli,3 BHK,1600,3,3.0,5
+881,Super built-up  Area,Ready To Move,Old Mangammanapalya Road,3 BHK,3200,4,2.0,5
+882,Built-up  Area,Ready To Move,Canara Bank Colony,3 BHK,1250,2,1.0,5
+883,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1243,2,2.0,5
+884,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1452,3,3.0,5
+885,Super built-up  Area,Ready To Move,Ittamadu,3 BHK,1475,3,3.0,5
+886,Super built-up  Area,Ready To Move,Electronic City,2 BHK,1353,2,3.0,5
+887,Carpet  Area,Ready To Move,Maruthi Sevanagar,4 BHK,2100,3,0.0,5
+888,Super built-up  Area,21-Aug,Electronics City Phase 1,3 BHK,1750,3,2.0,5
+889,Plot  Area,Ready To Move,Whitefield,4 BHK,4800,4,3.0,5
+890,Built-up  Area,Ready To Move,Sahakara Nagar,2 BHK,1270,2,1.0,5
+891,Built-up  Area,Ready To Move,Battarahalli,4 BHK,2700,3,0.0,5
+892,Plot  Area,Ready To Move,8th Phase JP Nagar,4 BHK,1200,4,2.0,5
+893,Built-up  Area,19-May,Thanisandra,4 BHK,2695,4,3.0,5
+894,Super built-up  Area,Ready To Move,Hessarghatta,3 BHK,1330,3,2.0,5
+895,Built-up  Area,Ready To Move,Electronic City,2 BHK,660,1,0.0,4
+896,Super built-up  Area,Ready To Move,BTM 2nd Stage,2 BHK,1400,2,3.0,5
+897,Built-up  Area,Ready To Move,Gubbalala,4 BHK,4000,5,1.0,5
+898,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1700,3,2.0,5
+899,Built-up  Area,Ready To Move,Kasavanhalli,2 BHK,1585,2,2.0,5
+900,Super built-up  Area,Ready To Move,Kothanur,3 BHK,1385,3,3.0,5
+901,Super built-up  Area,18-Jul,Electronic City,2 BHK,1128,2,1.0,5
+902,Plot  Area,19-Oct,Whitefield,4 BHK,60,4,2.0,2
+903,Plot  Area,18-Apr,1Kasavanhalli,18 BHK,1200,18,1.0,5
+904,Super built-up  Area,Ready To Move,HSR Layout,2 BHK,1203,2,2.0,5
+905,Super built-up  Area,Ready To Move,Mallasandra,2 BHK,905,2,1.0,4
+906,Super built-up  Area,19-Mar,Hennur Road,3 BHK,1450,3,2.0,5
+907,Super built-up  Area,Ready To Move,Varthur,2 BHK,1105,2,3.0,5
+908,Plot  Area,18-Apr,Channasandra,2 BHK,1200,2,1.0,5
+909,Super built-up  Area,Ready To Move,Jalahalli,3 BHK,1530,2,3.0,5
+910,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1105,2,1.0,5
+911,Super built-up  Area,18-Jul,Dasarahalli,2 BHK,1333,2,1.0,5
+912,Built-up  Area,17-Sep,Hongasandra,2 BHK,1065,2,2.0,5
+913,Plot  Area,Immediate Possession,Hosur Road,Unknown,1350,4,1.0,5
+914,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1243,2,2.0,5
+915,Super built-up  Area,18-Dec,Old Madras Road,3 BHK,1530,3,2.0,5
+916,Plot  Area,Ready To Move,Margondanahalli,2 BHK,1200,2,1.0,5
+917,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1270,2,1.0,5
+918,Super built-up  Area,Ready To Move,Bellandur,3 BHK,1830,3,3.0,5
+919,Super built-up  Area,Ready To Move,Chandapura,2 BHK,900,2,3.0,4
+920,Plot  Area,Ready To Move,Attibele,4 BHK,2400,2,2.0,5
+921,Plot  Area,Ready To Move,Varsova Layout,6 BHK,7000,6,2.0,6
+922,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1450,2,2.0,5
+923,Super built-up  Area,Ready To Move,J C Nagar,3 BHK,1525,3,3.0,5
+924,Built-up  Area,Ready To Move,Mahalakshmi Layout,2 BHK,1080,2,1.0,5
+925,Built-up  Area,Ready To Move,Bagalur Main Road,2 BHK,1220,2,2.0,5
+926,Super built-up  Area,Ready To Move,Begur Road,2 BHK,1200,2,2.0,5
+927,Super built-up  Area,Ready To Move,Bommanahalli,2 BHK,1355,2,0.0,5
+928,Plot  Area,Ready To Move,R.T. Nagar,3 BHK,2400,3,0.0,5
+929,Super built-up  Area,Ready To Move,Govindapura,2 BHK,1500,2,2.0,5
+930,Built-up  Area,Ready To Move,Koramangala,2 BHK,1355,2,2.0,5
+931,Built-up  Area,17-Jul,Electronic City,2 BHK,1070,2,1.0,5
+932,Super built-up  Area,Ready To Move,CV Raman Nagar,3 BHK,1980,4,1.0,5
+933,Super built-up  Area,Ready To Move,Bommasandra,2 BHK,842,2,2.0,4
+934,Super built-up  Area,Ready To Move,Bannerghatta Road,1 BHK,700,1,1.0,4
+935,Built-up  Area,Ready To Move,Doddakammanahalli,3 BHK,2500,4,2.0,5
+936,Built-up  Area,Ready To Move,"Kanakapura Road, ",3 BHK,1884,3,2.0,5
+937,Built-up  Area,Ready To Move,Dena Bank Colony,2 BHK,1100,2,2.0,5
+938,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1196,2,2.0,5
+939,Super built-up  Area,Ready To Move,Budigere,3 BHK,1820,3,2.0,5
+940,Plot  Area,Ready To Move,Basavanapura,8 BHK,1200,8,2.0,5
+941,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1185,2,2.0,5
+942,Super built-up  Area,Ready To Move,Varthur,3 BHK,2145,3,2.0,5
+943,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1220,2,1.0,5
+944,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1116,2,3.0,5
+945,Super built-up  Area,Ready To Move,6th Phase JP Nagar,2 BHK,1192,2,3.0,5
+946,Super built-up  Area,Ready To Move,Marathahalli,3 BHK,1449,3,2.0,5
+947,Plot  Area,Ready To Move,Ardendale,3 BHK,2500,3,1.0,5
+948,Built-up  Area,Ready To Move,Electronic City,3 BHK,1700,3,2.0,5
+949,Super built-up  Area,18-Aug,Hebbal,3 BHK,1920,3,2.0,5
+950,Plot  Area,Ready To Move,BTM 4th Stage,2 BHK,1350,2,0.0,5
+951,Plot  Area,Ready To Move,Devanahalli Int. Airport,4 BHK,4800,5,2.0,5
+952,Built-up  Area,Ready To Move,"Sarjapur Road, ",3 BHK,1700,3,2.0,5
+953,Super built-up  Area,19-Dec,Hoodi,2 BHK,1447,3,2.0,5
+954,Super built-up  Area,19-Jul,Kanakpura Road,2 BHK,1329,2,1.0,5
+955,Built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1314,2,2.0,5
+956,Plot  Area,Ready To Move,Hal old airport road,3 BHK,1200,3,2.0,5
+957,Plot  Area,Ready To Move,Basavangudi,6 BHK,1214,3,0.0,5
+958,Super built-up  Area,19-Mar,Hosa Road,3 BHK,1513,3,1.0,5
+959,Plot  Area,Ready To Move,arudi,3 BHK,261360,2,0.0,12
+960,Super built-up  Area,Ready To Move,Vittasandra,2 BHK,1246,2,1.0,5
+961,Super built-up  Area,Ready To Move,Ganga Nagar,1 BHK,705,1,1.0,4
+962,Super built-up  Area,Ready To Move,Dasarahalli,2 BHK,1220,2,2.0,5
+963,Super built-up  Area,Ready To Move,Yelahanka New Town,3 BHK,1800,2,1.0,5
+964,Super built-up  Area,Ready To Move,Kaval Byrasandra,3 BHK,1400,3,2.0,5
+965,Super built-up  Area,Ready To Move,Kasavanhalli,2 BHK,1245,2,2.0,5
+966,Super built-up  Area,Ready To Move,Anantapuram,3 BHK,1495,2,1.0,5
+967,Plot  Area,Ready To Move,Nagavara,3 BHK,2000,2,2.0,5
+968,Built-up  Area,Ready To Move,Gollarapalya Hosahalli,2 BHK,996,2,2.0,4
+969,Built-up  Area,Ready To Move,Yelahanka New Town,2 BHK,1000,2,1.0,4
+970,Built-up  Area,Ready To Move,Chikka Banaswadi,2 BHK,1250,2,3.0,5
+971,Super built-up  Area,18-Aug,Chandapura,2 BHK,975,2,1.0,4
+972,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1261,2,1.0,5
+973,Built-up  Area,Ready To Move,Electronics City Phase 1,2 BHK,1080,2,2.0,5
+974,Super built-up  Area,Ready To Move,Akshayanagara East,2 BHK,1230,2,1.0,5
+975,Super built-up  Area,18-Mar,Kammasandra,2 BHK,982,2,2.0,4
+976,Super built-up  Area,18-May,Bommasandra,3 BHK,1260,3,1.0,5
+977,Super built-up  Area,Ready To Move,HSR Layout,3 BHK,1590,2,2.0,5
+978,Super built-up  Area,Ready To Move,Horamavu Agara,2 BHK,1220,2,2.0,5
+979,Super built-up  Area,18-May,Electronic City Phase II,3 BHK,1320,2,1.0,5
+980,Super built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1750,3,2.0,5
+981,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1436,2,3.0,5
+982,Plot  Area,18-Apr,TC Palaya,3 BHK,1200,2,0.0,5
+983,Super built-up  Area,Ready To Move,Malleshwaram,2 BHK,1500,2,2.0,5
+984,Super built-up  Area,Ready To Move,Varthur,3 BHK,1560,3,2.0,5
+985,Super built-up  Area,19-Jan,Whitefield,3 BHK,3758,3,1.0,5
+986,Super built-up  Area,Ready To Move,Belatur,2 BHK,1275,2,2.0,5
+987,Super built-up  Area,Ready To Move,Ramanjaneyanagar,2 BHK,1040,2,2.0,5
+988,Super built-up  Area,Ready To Move,Bellandur,3 BHK,2400,3,2.0,5
+989,Plot  Area,Ready To Move,Chamrajpet,6 BHK,1500,9,3.0,5
+990,Plot  Area,18-May,Kaggalipura,4 BHK,3150,5,1.0,5
+991,Super built-up  Area,Ready To Move,Karuna Nagar,3 BHK,1960,3,2.0,5
+992,Super built-up  Area,Ready To Move,JP Nagar,4 BHK,3200,5,3.0,5
+993,Super built-up  Area,Ready To Move,Yeshwanthpur,2 BHK,1195,2,2.0,5
+994,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1195,2,0.0,5
+995,Super built-up  Area,Ready To Move,Hosakerehalli,5 BHK,4500,5,2.0,5
+996,Plot  Area,Ready To Move,Ulsoor,3 BHK,450,3,1.0,3
+997,Plot  Area,18-Apr,Sathya Sai Layout,4 BHK,4304,4,2.0,5
+998,Super built-up  Area,18-Jun,Javarandoddi,1 BHK,648,1,1.0,4
+999,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,2100,3,2.0,5
+1000,Super built-up  Area,19-Dec,Thanisandra main road,4 BHK,4209,4,2.0,5
+1001,Super built-up  Area,Ready To Move,Kudlu,2 BHK,1027,2,1.0,5
+1002,Plot  Area,Ready To Move,Whitefield,4 BHK,1575,4,3.0,5
+1003,Super built-up  Area,18-May,Bommasandra,3 BHK,1365,3,1.0,5
+1004,Super built-up  Area,Ready To Move,Yelahanka New Town,1 BHK,650,1,1.0,4
+1005,Plot  Area,18-Nov,Chandapura,3 BHK,1200,2,1.0,5
+1006,Super built-up  Area,Ready To Move,Cooke Town,2 BHK,1100,2,3.0,5
+1007,Built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,1075,2,1.0,5
+1008,Super built-up  Area,Ready To Move,Banashankari,2 BHK,1100,2,1.0,5
+1009,Super built-up  Area,Ready To Move,Akshya Nagar,3 BHK,1320,2,1.0,5
+1010,Super built-up  Area,Ready To Move,Kammasandra,3 BHK,1500,3,2.0,5
+1011,Plot  Area,Ready To Move,Vijaypura,4 BHK,1200,5,1.0,5
+1012,Plot  Area,Ready To Move,Bapuji Nagar,4 BHK,1125,3,2.0,5
+1013,Super built-up  Area,Ready To Move,Vittasandra,2 BHK,1246,2,1.0,5
+1014,Super built-up  Area,18-Apr,Bhoganhalli,3 BHK,1718,3,2.0,5
+1015,Super built-up  Area,Ready To Move,Bisuvanahalli,3 BHK,1075,2,1.0,5
+1016,Super built-up  Area,18-Oct,Chennammana Kere,3 BHK,1480,3,1.0,5
+1017,Super built-up  Area,Ready To Move,Austin Town,1 BHK,500,1,1.0,3
+1018,Plot  Area,Ready To Move,3rd Block Banashankari,5 BHK,2400,4,1.0,5
+1019,Plot  Area,18-May,Kaikondrahalli,4 BHK,1200,4,2.0,5
+1020,Super built-up  Area,Ready To Move,Kanakpura Road,2 BHK,1041,2,1.0,5
+1021,Super built-up  Area,Ready To Move,Doddanekundi,2 BHK,1128,2,2.0,5
+1022,Super built-up  Area,Ready To Move,Hosur Road,3 BHK,1685,3,1.0,5
+1023,Super built-up  Area,Ready To Move,Guddadahalli,2 BHK,1180,2,2.0,5
+1024,Built-up  Area,Ready To Move,Ejipura,2 BHK,1200,2,1.0,5
+1025,Super built-up  Area,18-Apr,Mangammanapalya,3 BHK,1250,3,2.0,5
+1026,Super built-up  Area,21-Dec,Kanakpura Road,2 BHK,900,2,1.0,4
+1027,Built-up  Area,Ready To Move,Chelekare,2 BHK,1000,2,1.0,4
+1028,Built-up  Area,Ready To Move,Yelahanka New Town,2 BHK,600,2,2.0,4
+1029,Plot  Area,Ready To Move,2nd Stage Nagarbhavi,4 BHK,600,3,2.0,4
+1030,Super built-up  Area,Ready To Move,Vittasandra,2 BHK,1404,2,1.0,5
+1031,Super built-up  Area,Ready To Move,Ramagondanahalli,3 BHK,1610,2,2.0,5
+1032,Super built-up  Area,18-Jul,Varthur,2 BHK,1760,2,1.0,5
+1033,Super built-up  Area,Ready To Move,Amam Enclave Layout,2 BHK,975,2,1.0,4
+1034,Built-up  Area,Ready To Move,Kashi Nagar,2 BHK,1190,2,2.0,5
+1035,Built-up  Area,Ready To Move,Kudlu,2 BHK,1110,2,1.0,5
+1036,Super built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,2415,3,2.0,5
+1037,Super built-up  Area,18-May,Gunjur,2 BHK,1235,2,2.0,5
+1038,Super built-up  Area,Ready To Move,Nanjappa Garden,2 BHK,1275,2,3.0,5
+1039,Built-up  Area,Ready To Move,Victoria Layout,2 BHK,1115,2,1.0,5
+1040,Super built-up  Area,Ready To Move,Harlur,2 BHK,1197,2,1.0,5
+1041,Super built-up  Area,20-Dec,Begur Road,1 BHK,644,1,1.0,4
+1042,Super built-up  Area,Ready To Move,Bellandur,2 BHK,1251,2,3.0,5
+1043,Super built-up  Area,18-Apr,Neeladri Nagar,2 BHK,1105,2,2.0,5
+1044,Super built-up  Area,18-Aug,4th Phase JP Nagar,2 BHK,1080,2,2.0,5
+1045,Super built-up  Area,Ready To Move,Kudlu,4 BHK,2100,3,1.0,5
+1046,Plot  Area,Ready To Move,Kammanahalli,4 BHK,1600,4,1.0,5
+1047,Super built-up  Area,Ready To Move,NRI Layout,3 BHK,1731,3,3.0,5
+1048,Super built-up  Area,Ready To Move,Hormavu,2 BHK,1206,2,1.0,5
+1049,Super built-up  Area,Ready To Move,Choodasandra,3 BHK,1560,3,2.0,5
+1050,Super built-up  Area,Ready To Move,7th Phase JP Nagar,1 BHK,750,1,2.0,4
+1051,Built-up  Area,Ready To Move,Billekahalli,2 BHK,1035,2,2.0,5
+1052,Plot  Area,Ready To Move,Ramamurthy Nagar,7 BHK,1200,6,2.0,5
+1053,Super built-up  Area,Ready To Move,Sarjapur  Road,1 BHK,702,1,0.0,4
+1054,Plot  Area,Ready To Move,Attibele,3 BHK,1700,3,1.0,5
+1055,Super built-up  Area,Ready To Move,HRBR Layout,2 BHK,1145,2,2.0,5
+1056,Super built-up  Area,Ready To Move,Ramamurthy Nagar,3 BHK,1208,2,2.0,5
+1057,Super built-up  Area,Ready To Move,Brookefield,3 BHK,1589,3,2.0,5
+1058,Built-up  Area,Ready To Move,Allalasandra,2 BHK,560,2,1.0,4
+1059,Super built-up  Area,Ready To Move,Yelahanka New Town,3 BHK,1426,2,2.0,5
+1060,Super built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1885,3,2.0,5
+1061,Super built-up  Area,18-Mar,Old Madras Road,2 BHK,935,2,0.0,4
+1062,Super built-up  Area,18-Apr,Old Madras Road,2 BHK,1171,2,2.0,5
+1063,Super built-up  Area,Ready To Move,Singasandra,2 BHK,1465,2,3.0,5
+1064,Super built-up  Area,Ready To Move,Budigere,3 BHK,1820,3,2.0,5
+1065,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3 BHK,1580,2,2.0,5
+1066,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1452,2,2.0,5
+1067,Super built-up  Area,Ready To Move,Hennur Road,3 BHK,1445,2,1.0,5
+1068,Super built-up  Area,Ready To Move,Gollahalli,2 BHK,1170,2,1.0,5
+1069,Super built-up  Area,Ready To Move,Anjappa Layout,2 BHK,1070,2,1.0,5
+1070,Super built-up  Area,21-Dec,Kanakpura Road,3 BHK,1100,3,2.0,5
+1071,Super built-up  Area,18-Mar,Kothanur,2 BHK,1140,2,2.0,5
+1072,Built-up  Area,Ready To Move,Rachenahalli,3 BHK,2600,3,2.0,5
+1073,Super built-up  Area,Ready To Move,Shikaripalya,3 BHK,1532,3,2.0,5
+1074,Super built-up  Area,Ready To Move,AGS Layout,2 BHK,1150,2,1.0,5
+1075,Super built-up  Area,Ready To Move,Jakkur,2 BHK,1473,2,1.0,5
+1076,Super built-up  Area,Ready To Move,Kathriguppe,3 BHK,1350,3,2.0,5
+1077,Super built-up  Area,Ready To Move,Prithvi Layout,4 BHK,4040,4,0.0,5
+1078,Super built-up  Area,18-Jan,CV Raman Nagar,3 BHK,1980,4,2.0,5
+1079,Super built-up  Area,22-Jun,Hoodi,3 BHK,1660,3,2.0,5
+1080,Plot  Area,Ready To Move,Kogilu,7 BHK,2456,7,2.0,5
+1081,Super built-up  Area,Ready To Move,Chamrajpet,2 BHK,650,2,2.0,4
+1082,Plot  Area,Ready To Move,Neeladri Nagar,5 BHK,4000,5,2.0,5
+1083,Super built-up  Area,Ready To Move,Malleshwaram,3 BHK,2475,4,3.0,5
+1084,Super built-up  Area,Ready To Move,Chikkakannalli,3 BHK,1495,3,2.0,5
+1085,Super built-up  Area,Ready To Move,R.T. Nagar,2 BHK,1080,2,1.0,5
+1086,Super built-up  Area,Ready To Move,Electronic City,3 BHK,1521,2,2.0,5
+1087,Built-up  Area,Ready To Move,Aishwarya Crystal Layout,2 BHK,1053,2,0.0,5
+1088,Super built-up  Area,18-Mar,Binny Pete,3 BHK,2406,5,2.0,5
+1089,Plot  Area,Ready To Move,Kanakpura Road,4 BHK,800,5,3.0,4
+1090,Super built-up  Area,Ready To Move,7th Phase JP Nagar,2 BHK,1050,2,1.0,5
+1091,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1430,2,2.0,5
+1092,Built-up  Area,Ready To Move,Begur,3 BHK,2400,3,2.0,5
+1093,Super built-up  Area,18-Apr,OLd Gurappanapalya,3 BHK,1250,3,2.0,5
+1094,Plot  Area,Ready To Move,Ramanagara Channapatna,4 BHK,1200,2,1.0,5
+1095,Built-up  Area,Ready To Move,Ulsoor,1 BHK,840,1,1.0,4
+1096,Super built-up  Area,Ready To Move,Uttarahalli,2 BHK,1000,2,2.0,4
+1097,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1630,3,3.0,5
+1098,Super built-up  Area,Ready To Move,Kammasandra,2 BHK,985,2,1.0,4
+1099,Super built-up  Area,Ready To Move,BTM 2nd Stage,2 BHK,1200,2,2.0,5
+1100,Built-up  Area,Ready To Move,Ambalipura,3 BHK,1650,3,3.0,5
+1101,Super built-up  Area,Ready To Move,Mico Layout,3 BHK,1670,3,2.0,5
+1102,Super built-up  Area,Ready To Move,5th Block Hbr Layout,5 BHK,1200,5,2.0,5
+1103,Plot  Area,16-Jan,Sarjapur  Road,4 BHK,1240,4,0.0,5
+1104,Built-up  Area,Ready To Move,Maheswari Nagar,2 BHK,1000,2,2.0,4
+1105,Super built-up  Area,Ready To Move,Doddabanahalli,2 BHK,830,2,2.0,4
+1106,Plot  Area,18-Jul,Ramagondanahalli,3 BHK,1200,3,1.0,5
+1107,Plot  Area,Ready To Move,Sadashiva Nagar,5 BHK,9600,7,2.0,6
+1108,Super built-up  Area,19-Aug,Begur Road,4 BHK,2500,6,0.0,5
+1109,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1140,2,2.0,5
+1110,Super built-up  Area,Ready To Move,Nagarbhavi,3 BHK,1635,3,3.0,5
+1111,Built-up  Area,Ready To Move,HSR Layout,2 BHK,1120,2,1.0,5
+1112,Plot  Area,Ready To Move,Kamakya Layout,6 BHK,2750,6,3.0,5
+1113,Super built-up  Area,Ready To Move,Sector 7 HSR Layout,3 BHK,1760,3,2.0,5
+1114,Super built-up  Area,Ready To Move,Harlur,3 BHK,2137,3,2.0,5
+1115,Super built-up  Area,Ready To Move,Hennur Road,2 BHK,973,2,1.0,4
+1116,Super built-up  Area,18-Jun,Kundalahalli,3 BHK,1724,3,1.0,5
+1117,Super built-up  Area,Ready To Move,Banashankari,2 BHK,1020,2,2.0,5
+1118,Plot  Area,Ready To Move,Hsr layout sector3,4 BHK,1200,4,3.0,5
+1119,Super built-up  Area,Ready To Move,Electronic City,1 BHK,750,1,1.0,4
+1120,Super built-up  Area,Ready To Move,Kambipura,2 BHK,883,2,1.0,4
+1121,Built-up  Area,Ready To Move,Thyagraj Nagar,2 BHK,660,2,0.0,4
+1122,Super built-up  Area,Ready To Move,Ramagondanahalli,4 BHK,2787,5,2.0,5
+1123,Built-up  Area,Ready To Move,Devasthanagalu,3 BHK,1470,2,3.0,5
+1124,Super built-up  Area,20-Apr,Electronics City Phase 1,2 BHK,891,2,1.0,4
+1125,Built-up  Area,Ready To Move,"Sarjapur Road, ",2 BHK,1275,2,1.0,5
+1126,Super built-up  Area,Ready To Move,Kothanur,3 BHK,1787,3,2.0,5
+1127,Built-up  Area,Ready To Move,8th Phase JP Nagar,5 BHK,1730,5,2.0,5
+1128,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1320,2,2.0,5
+1129,Super built-up  Area,18-Aug,Yeshwanthpur,3 BHK,1692,3,3.0,5
+1130,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1400,3,2.0,5
+1131,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1115,2,1.0,5
+1132,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1370,2,2.0,5
+1133,Super built-up  Area,18-Feb,Thirumenahalli,3 BHK,1602,3,2.0,5
+1134,Built-up  Area,20-Dec,"Hoodi Circle, ",1 BHK,793,1,1.0,4
+1135,Super built-up  Area,Ready To Move,GM Palaya,1 BHK,675,1,1.0,4
+1136,Built-up  Area,Ready To Move,Chikka Tirupathi,4 BHK,3250,4,2.0,5
+1137,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1050,2,3.0,5
+1138,Built-up  Area,Ready To Move,Jalahalli East,2 BHK,1035,2,1.0,5
+1139,Super built-up  Area,17-Feb,Sarjapur  Road,3 BHK,1200,2,2.0,5
+1140,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1800,3,2.0,5
+1141,Built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1625,3,2.0,5
+1142,Super built-up  Area,20-Dec,Electronics City Phase 1,2 BHK,1032,2,1.0,5
+1143,Super built-up  Area,18-Apr,Whitefield,3 BHK,1496,2,1.0,5
+1144,Super built-up  Area,18-May,Kothnoor Dinne,2 BHK,1100,2,2.0,5
+1145,Built-up  Area,Ready To Move,Kundalahalli,3 BHK,1500,3,2.0,5
+1146,Built-up  Area,18-Dec,Electronic City Phase II,2 BHK,1125,2,1.0,5
+1147,Super built-up  Area,Ready To Move,Chikka Banaswadi,3 BHK,1555,3,3.0,5
+1148,Super built-up  Area,Ready To Move,Amruthahalli,2 BHK,1025,2,1.0,5
+1149,Super built-up  Area,19-Mar,Hennur Road,3 BHK,1482,2,1.0,5
+1150,Super built-up  Area,Ready To Move,Banagirinagar,3 BHK,1630,2,2.0,5
+1151,Super built-up  Area,Ready To Move,Arekere,2 BHK,900,2,1.0,4
+1152,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1355,2,3.0,5
+1153,Plot  Area,18-May,1st Block Koramangala,4 BHK,2360,4,2.0,5
+1154,Built-up  Area,Ready To Move,Akshaya Nagar,2 BHK,1200,2,2.0,5
+1155,Super built-up  Area,Ready To Move,Suraksha Nagar,3 BHK,1563,3,2.0,5
+1156,Plot  Area,Ready To Move,Medaralli,4 BHK,1344,4,1.0,5
+1157,Super built-up  Area,Ready To Move,6th block Koramangala,3 BHK,3000,3,2.0,5
+1158,Super built-up  Area,Ready To Move,5th Phase JP Nagar,2 BHK,812,2,1.0,4
+1159,Built-up  Area,18-Apr,Basaveshwara Nagar,2 BHK,1200,2,1.0,5
+1160,Super built-up  Area,Ready To Move,Yelahanka,4 BHK,3175,4,1.0,5
+1161,Super built-up  Area,Ready To Move,Marathahalli,2 BHK,1360,2,1.0,5
+1162,Super built-up  Area,Ready To Move,Hegde Nagar,3 BHK,1835,3,3.0,5
+1163,Built-up  Area,Ready To Move,Rachenahalli,3 BHK,1756,3,2.0,5
+1164,Super built-up  Area,Ready To Move,8th Phase JP Nagar,3 BHK,1296,2,2.0,5
+1165,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1300,2,1.0,5
+1166,Super built-up  Area,Ready To Move,Anandapura,2 BHK,1141,2,1.0,5
+1167,Super built-up  Area,Ready To Move,Poorna Pragna Layout,3 BHK,1270,2,2.0,5
+1168,Built-up  Area,Ready To Move,Electronic City,2 BHK,1210,2,1.0,5
+1169,Super built-up  Area,Ready To Move,Hormavu,2 BHK,1310,2,2.0,5
+1170,Plot  Area,Ready To Move,Ejipura,5 BHK,1356,5,2.0,5
+1171,Super built-up  Area,18-Aug,Magadi Road,3 BHK,1187,2,0.0,5
+1172,Super built-up  Area,Ready To Move,Gubbalala,3 BHK,1745,3,2.0,5
+1173,Plot  Area,17-Aug,KR Puram,5 BHK,1200,5,1.0,5
+1174,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1050,2,2.0,5
+1175,Plot  Area,Ready To Move,Banashankari,4 BHK,2400,4,3.0,5
+1176,Super built-up  Area,18-Apr,Electronic City Phase II,2 BHK,1140,2,1.0,5
+1177,Super built-up  Area,Ready To Move,Varthur,2 BHK,1210,2,2.0,5
+1178,Super built-up  Area,18-May,Kasavanhalli,3 BHK,2035,3,2.0,5
+1179,Super built-up  Area,Ready To Move,Sarjapur,1 BHK,633,1,1.0,4
+1180,Built-up  Area,Ready To Move,Amruthahalli,1 BHK,485,1,1.0,3
+1181,Super built-up  Area,Ready To Move,Varthur,2 BHK,1112,2,2.0,5
+1182,Plot  Area,Ready To Move,Ullal Uppanagar,2 BHK,1200,2,0.0,5
+1183,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,2275,4,2.0,5
+1184,Super built-up  Area,Ready To Move,Doddanakundi Industrial Area 2,3 BHK,1419,3,2.0,5
+1185,Super built-up  Area,18-Apr,Sri Sai Layout,2 BHK,1195,2,2.0,5
+1186,Built-up  Area,Ready To Move,Versova Layout,3 BHK,2020,3,3.0,5
+1187,Super built-up  Area,Ready To Move,Kundalahalli,2 BHK,1047,2,2.0,5
+1188,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1884,4,2.0,5
+1189,Plot  Area,Ready To Move,Malleshpalya,3 BHK,1200,3,2.0,5
+1190,Super built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,905,2,1.0,4
+1191,Super built-up  Area,Ready To Move,JP Nagar,3 BHK,1500,2,1.0,5
+1192,Built-up  Area,Ready To Move,Chikkajala,1 BHK,850,1,0.0,4
+1193,Built-up  Area,18-Aug,Bommasandra Industrial Area,2 BHK,1125,2,1.0,5
+1194,Built-up  Area,Ready To Move,Tindlu,2 BHK,1165,2,2.0,5
+1195,Built-up  Area,Ready To Move,Maruthi Sevanagar,2 BHK,933,2,0.0,4
+1196,Super built-up  Area,Ready To Move,Hennur Road,3 BHK,1305,2,1.0,5
+1197,Super built-up  Area,Ready To Move,Billekahalli,2 BHK,1125,2,1.0,5
+1198,Super built-up  Area,Ready To Move,BSM Extension,2 BHK,865,2,2.0,4
+1199,Super built-up  Area,Ready To Move,Jigani,3 BHK,1245,3,3.0,5
+1200,Super built-up  Area,Ready To Move,Kalyan nagar,2 BHK,8840,2,3.0,6
+1201,Super built-up  Area,Ready To Move,Udayagiri,3 BHK,1145,2,2.0,5
+1202,Built-up  Area,Ready To Move,AECS Layout,3 BHK,2000,3,1.0,5
+1203,Super built-up  Area,19-Mar,Hosa Road,1 BHK,625,1,1.0,4
+1204,Super built-up  Area,Ready To Move,Kundalahalli,3 BHK,1724,3,2.0,5
+1205,Plot  Area,Ready To Move,Madiwala,1 BHK,400,1,1.0,3
+1206,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1270,2,1.0,5
+1207,Super built-up  Area,18-Apr,Madiwala,3 BHK,1250,3,2.0,5
+1208,Super built-up  Area,20-Dec,Jakkur,3 BHK,1485,3,2.0,5
+1209,Super built-up  Area,Ready To Move,Shankarapuram,2 BHK,823,2,1.0,4
+1210,Super built-up  Area,Ready To Move,7th Phase JP Nagar,2 BHK,990,2,2.0,4
+1211,Plot  Area,Ready To Move,TC Palaya,3 BHK,1200,2,0.0,5
+1212,Super built-up  Area,18-Mar,Kothanur,2 BHK,1185,2,2.0,5
+1213,Super built-up  Area,Ready To Move,Kadubeesanahalli,2 BHK,1140,2,1.0,5
+1214,Super built-up  Area,Ready To Move,Ambedkar Nagar,3 BHK,1950,4,2.0,5
+1215,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1756,3,2.0,5
+1216,Built-up  Area,Ready To Move,Kumaraswami Layout,4 BHK,2600,4,2.0,5
+1217,Super built-up  Area,19-Sep,Chandapura,1 BHK,520,1,1.0,4
+1218,Built-up  Area,Ready To Move,Doddakannelli,2 BHK,1025,2,1.0,5
+1219,Built-up  Area,18-Jun,Whitefield,2 BHK,1216,2,1.0,5
+1220,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1026,2,2.0,5
+1221,Super built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,3335,4,3.0,5
+1222,Built-up  Area,Ready To Move,Kodichikkanahalli,5 BHK,2700,4,2.0,5
+1223,Super built-up  Area,18-Apr,Begur,3 BHK,1411,2,2.0,5
+1224,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1320,2,1.0,5
+1225,Built-up  Area,Ready To Move,Bannerghatta,2 BHK,1320,2,0.0,5
+1226,Plot  Area,Ready To Move,OMBR Layout,4 BHK,615,4,2.0,4
+1227,Super built-up  Area,Ready To Move,Kalena Agrahara,3 BHK,1804,3,2.0,5
+1228,Super built-up  Area,Ready To Move,HSR Layout,2 BHK,1140,2,2.0,5
+1229,Plot  Area,18-Apr,Banjara Layout,4 BHK,1200,4,1.0,5
+1230,Super built-up  Area,Ready To Move,Hebbal,4 BHK,2375,4,2.0,5
+1231,Plot  Area,Ready To Move,Chamundi Nagar,3 BHK,1750,3,2.0,5
+1232,Plot  Area,Ready To Move,Wilson Garden,9 BHK,960,5,2.0,4
+1233,Super built-up  Area,Ready To Move,TC Palaya,2 BHK,1152,2,2.0,5
+1234,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,965,2,1.0,4
+1235,Super built-up  Area,Ready To Move,Lingadheeranahalli,3 BHK,1684,3,1.0,5
+1236,Super built-up  Area,Ready To Move,Hennur Road,3 BHK,1672,3,2.0,5
+1237,Super built-up  Area,Ready To Move,Panathur,2 BHK,1075,2,2.0,5
+1238,Plot  Area,Ready To Move,Sarjapur,3 BHK,1500,5,2.0,5
+1239,Super built-up  Area,Ready To Move,HOSUR MAIN ROAD,3 BHK,1464,3,2.0,5
+1240,Super built-up  Area,18-Dec,Hebbal,2 BHK,1420,2,1.0,5
+1241,Super built-up  Area,Ready To Move,Nagashetty Halli,2 BHK,750,2,0.0,4
+1242,Super built-up  Area,Ready To Move,Yeshwanthpur,2 BHK,1169,2,2.0,5
+1243,Super built-up  Area,18-Jul,Devanahalli,3 BHK,1290,2,1.0,5
+1244,Super built-up  Area,Ready To Move,Kengeri,2 BHK,1160,2,2.0,5
+1245,Built-up  Area,Ready To Move,Shampura,7 BHK,2800,5,3.0,5
+1246,Super built-up  Area,Ready To Move,Mysore Road,3 BHK,1500,3,2.0,5
+1247,Super built-up  Area,Ready To Move,Domlur,3 BHK,1850,3,1.0,5
+1248,Super built-up  Area,18-Jan,Venkatapura,3 BHK,1300,3,2.0,5
+1249,Super built-up  Area,18-May,Electronic City Phase II,3 BHK,1310,2,1.0,5
+1250,Built-up  Area,Ready To Move,RMV,3 BHK,2750,5,2.0,5
+1251,Super built-up  Area,Ready To Move,Bhoopsandra,3 BHK,2150,3,0.0,5
+1252,Built-up  Area,Ready To Move,5th Block Hbr Layout,6 BHK,5100,5,3.0,6
+1253,Super built-up  Area,21-Dec,Kanakpura Road,3 BHK,1300,2,3.0,5
+1254,Plot  Area,Ready To Move,Kadugodi,3 BHK,1875,2,1.0,5
+1255,Super built-up  Area,Ready To Move,Hulimavu,3 BHK,1260,2,1.0,5
+1256,Built-up  Area,Ready To Move,Kengeri,5 BHK,2500,4,3.0,5
+1257,Super built-up  Area,19-Jun,Begur Road,2 BHK,1241,2,1.0,5
+1258,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1025,2,2.0,5
+1259,Plot  Area,Ready To Move,Postal Colony,2 BHK,1500,1,0.0,5
+1260,Built-up  Area,17-Jun,Electronic City,2 BHK,1070,2,1.0,5
+1261,Super built-up  Area,Ready To Move,Begur,2 BHK,815,2,1.0,4
+1262,Built-up  Area,Ready To Move,Kanakpura Road,3 BHK,2000,3,3.0,5
+1263,Super built-up  Area,Ready To Move,Malleshwaram,2 BHK,1400,2,1.0,5
+1264,Plot  Area,Ready To Move,Varthur,4 BHK,1740,4,3.0,5
+1265,Super built-up  Area,Ready To Move,ITPL,4 BHK,5668,5,0.0,6
+1266,Built-up  Area,18-Apr,Sarjapur  Road,2 BHK,1216,2,2.0,5
+1267,Super built-up  Area,Ready To Move,pavitra paradise,3 BHK,2200,2,1.0,5
+1268,Plot  Area,Ready To Move,Hegde Nagar,4 BHK,3500,5,2.0,5
+1269,Plot  Area,Ready To Move,Shampura,6 BHK,970,6,3.0,4
+1270,Plot  Area,Ready To Move,Vidyaranyapura,7 BHK,3150,7,3.0,5
+1271,Plot  Area,Ready To Move,Kanakpura Road,2 BHK,1200,2,0.0,5
+1272,Super built-up  Area,Ready To Move,Marathahalli,2 BHK,1026,2,1.0,5
+1273,Built-up  Area,Ready To Move,Hulimavu,1 BHK,450,1,1.0,3
+1274,Super built-up  Area,Ready To Move,KR Puram,2 BHK,1205,2,1.0,5
+1275,Super built-up  Area,Ready To Move,Jakkur Plantation,2 BHK,1368,2,3.0,5
+1276,Built-up  Area,Ready To Move,Anekal,1 BHK,420,1,1.0,3
+1277,Built-up  Area,Ready To Move,Doddakallasandra,2 BHK,1270,2,2.0,5
+1278,Super built-up  Area,Ready To Move,Anekal,2 BHK,614,1,1.0,4
+1279,Plot  Area,18-May,Margondanahalli,2 BHK,1050,2,0.0,5
+1280,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1408,2,2.0,5
+1281,Super built-up  Area,Ready To Move,Subramanyapura,3 BHK,1223,2,2.0,5
+1282,Built-up  Area,Ready To Move,Reliaable Tranquil Layout,3 BHK,1507,3,1.0,5
+1283,Super built-up  Area,Ready To Move,kadubisnahalli,2 BHK,1160,2,2.0,5
+1284,Plot  Area,Ready To Move,Kithaganur,3 BHK,1200,3,1.0,5
+1285,Built-up  Area,Ready To Move,Poorna Pragna Layout,2 BHK,960,2,3.0,4
+1286,Super built-up  Area,Ready To Move,NGR Layout,2 BHK,1021,2,2.0,5
+1287,Super built-up  Area,Ready To Move,Hegde Nagar,3 BHK,2162,4,2.0,5
+1288,Super built-up  Area,Ready To Move,Channasandra,2 BHK,1065,2,1.0,5
+1289,Super built-up  Area,Ready To Move,Attibele,1 BHK,400,1,1.0,3
+1290,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1465,2,1.0,5
+1291,Super built-up  Area,20-Dec,Kanakpura Road,2 BHK,900,2,1.0,4
+1292,Super built-up  Area,Ready To Move,Marathahalli,3 BHK,1800,3,2.0,5
+1293,Super built-up  Area,Ready To Move,Amblipura,2 BHK,1175,2,2.0,5
+1294,Super built-up  Area,Ready To Move,Lavelle Road,3 BHK,6729,4,1.0,6
+1295,Plot  Area,Ready To Move,Vijayanagar,4 BHK,1500,4,1.0,5
+1296,Super built-up  Area,Ready To Move,Sanjay nagar,2 BHK,1050,2,0.0,5
+1297,Built-up  Area,18-Aug,Electronic City Phase II,3 BHK,1400,2,2.0,5
+1298,Super built-up  Area,Ready To Move,Indira Nagar,3 BHK,1650,3,1.0,5
+1299,Super built-up  Area,Ready To Move,KR Puram,3 BHK,1827,3,2.0,5
+1300,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1930,4,2.0,5
+1301,Super built-up  Area,18-Feb,Mysore Road,2 BHK,883,2,1.0,4
+1302,Built-up  Area,Ready To Move,Kengeri,1 BHK,550,1,1.0,4
+1303,Built-up  Area,18-Dec,Electronic City,3 BHK,1400,2,1.0,5
+1304,Plot  Area,18-Aug,RMV 2nd Stage,4 BHK,1350,4,1.0,5
+1305,Super built-up  Area,Ready To Move,Kanakapura,3 BHK,1290,2,3.0,5
+1306,Built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3 BHK,1021,3,2.0,5
+1307,Super built-up  Area,17-Dec,Whitefield,2 BHK,1158,2,1.0,5
+1308,Plot  Area,Ready To Move,Varanasi,5 BHK,1200,4,1.0,5
+1309,Super built-up  Area,Ready To Move,Nagarbhavi,3 BHK,1400,2,2.0,5
+1310,Plot  Area,Ready To Move,Doddaballapur,4 BHK,2400,3,0.0,5
+1311,Super built-up  Area,18-Apr,Munnekollal,3 BHK,1200,2,1.0,5
+1312,Built-up  Area,Ready To Move,JP Nagar,3 BHK,1520,3,2.0,5
+1313,Super built-up  Area,18-Nov,Thanisandra,1 BHK,777,1,0.0,4
+1314,Super built-up  Area,Ready To Move,EPIP Zone,3 BHK,2710,3,2.0,5
+1315,Super built-up  Area,Ready To Move,Kenchenahalli,2 BHK,1150,2,2.0,5
+1316,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1101,2,2.0,5
+1317,Super built-up  Area,Ready To Move,Mahalakshmi Layout,3 BHK,1200,2,3.0,5
+1318,Super built-up  Area,21-Dec,Hebbal,2 BHK,1252,2,1.0,5
+1319,Super built-up  Area,Ready To Move,Marathahalli,3 BHK,1650,3,2.0,5
+1320,Built-up  Area,Ready To Move,Marathahalli,2 BHK,1270,2,2.0,5
+1321,Super built-up  Area,Ready To Move,Tumkur Road,2 BHK,992,2,1.0,4
+1322,Super built-up  Area,Ready To Move,BEML Layout,3 BHK,2000,3,2.0,5
+1323,Super built-up  Area,Ready To Move,Geddalahalli,2 BHK,893,2,2.0,4
+1324,Built-up  Area,Ready To Move,Bisuvanahalli,3 BHK,1075,2,1.0,5
+1325,Built-up  Area,Ready To Move,Kumaraswami Layout,7 BHK,3200,7,0.0,5
+1326,Super built-up  Area,Ready To Move,Electronic City,2 BHK,1190,2,1.0,5
+1327,Built-up  Area,Ready To Move,Ashwathnagar,3 BHK,800,2,0.0,4
+1328,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1814,3,3.0,5
+1329,Built-up  Area,Ready To Move,Rahmath Nagar,3 BHK,1400,3,2.0,5
+1330,Plot  Area,Ready To Move,Bommasandra,5 BHK,1400,6,3.0,5
+1331,Super built-up  Area,Ready To Move,Murugeshpalya,3 BHK,1344,2,0.0,5
+1332,Plot  Area,Ready To Move,Whitefield,4 BHK,5400,5,3.0,6
+1333,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1843,3,2.0,5
+1334,Super built-up  Area,18-Feb,Chikkadunnasandra,2 BHK,1138,2,1.0,5
+1335,Built-up  Area,Ready To Move,Nagappa Reddy Layout,3 BHK,1495,2,2.0,5
+1336,Super built-up  Area,Ready To Move,Electronic City,2 BHK,880,2,1.0,4
+1337,Super built-up  Area,18-Apr,Whitefield,3 BHK,1396,3,1.0,5
+1338,Built-up  Area,Ready To Move,Garudachar Palya,3 BHK,1610,2,3.0,5
+1339,Super built-up  Area,Ready To Move,Tindlu,2 BHK,1050,2,2.0,5
+1340,Built-up  Area,14-Jul,Kumbena Agrahara,3 BHK,1410,2,2.0,5
+1341,Super built-up  Area,Ready To Move,Ramamurthy Nagar,2 BHK,1050,2,2.0,5
+1342,Built-up  Area,Ready To Move,Kumaraswami Layout,3 BHK,1310,2,1.0,5
+1343,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1104,2,2.0,5
+1344,Super built-up  Area,19-Mar,Hennur Road,2 BHK,1165,2,1.0,5
+1345,Super built-up  Area,Ready To Move,Kudlu,2 BHK,1027,2,2.0,5
+1346,Super built-up  Area,Ready To Move,Hormavu,2 BHK,1310,2,3.0,5
+1347,Built-up  Area,Ready To Move,Chikkanahalli,2 BHK,1052,2,2.0,5
+1348,Super built-up  Area,Ready To Move,Singasandra,3 BHK,1464,3,2.0,5
+1349,Super built-up  Area,Ready To Move,1st Block Koramangala,2 BHK,1000,2,2.0,4
+1350,Super built-up  Area,18-May,Jayanagar,3 BHK,2240,3,2.0,5
+1351,Super built-up  Area,Ready To Move,Electronic City,2 BHK,1150,2,1.0,5
+1352,Super built-up  Area,19-Dec,Thanisandra,3 BHK,2019,3,1.0,5
+1353,Super built-up  Area,Ready To Move,Varthur,2 BHK,986,2,1.0,4
+1354,Plot  Area,Ready To Move,Banashankari Stage III,1 BHK,1350,1,1.0,5
+1355,Built-up  Area,Ready To Move,9th Phase JP Nagar,8 BHK,800,8,1.0,4
+1356,Super built-up  Area,Ready To Move,Akshaya Nagar,3 BHK,1893,4,2.0,5
+1357,Super built-up  Area,Ready To Move,Gollarapalya Hosahalli,3 BHK,1318,3,2.0,5
+1358,Built-up  Area,Ready To Move,Yelahanka,3 BHK,1325,2,2.0,5
+1359,Built-up  Area,Ready To Move,Kereguddadahalli,2 BHK,800,2,1.0,4
+1360,Super built-up  Area,Ready To Move,Canara Bank Colony,3 BHK,1300,3,2.0,5
+1361,Built-up  Area,Ready To Move,Dodda Banaswadi,3 BHK,1300,2,2.0,5
+1362,Super built-up  Area,Ready To Move,Jalahalli East,2 BHK,1010,2,1.0,5
+1363,Super built-up  Area,Ready To Move,Banashankari,2 BHK,1260,2,3.0,5
+1364,Built-up  Area,Ready To Move,Ulsoor,4 BHK,2500,4,0.0,5
+1365,Plot  Area,Ready To Move,Halanayakanahalli,3 BHK,1520,3,1.0,5
+1366,Super built-up  Area,Ready To Move,Bellandur,3 BHK,1665,3,2.0,5
+1367,Super built-up  Area,Ready To Move,Subramanyapura,3 BHK,1800,3,2.0,5
+1368,Super built-up  Area,Ready To Move,Harlur,2 BHK,1197,2,1.0,5
+1369,Super built-up  Area,Ready To Move,Manayata Tech Park,2 BHK,1050,2,2.0,5
+1370,Plot  Area,Ready To Move,Manjunath Nagar,5 BHK,910,4,2.0,4
+1371,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1241,2,1.0,5
+1372,Super built-up  Area,Ready To Move,Maithri Layout,3 BHK,1567,2,3.0,5
+1373,Super built-up  Area,Ready To Move,Kasavanhalli,3 BHK,1747,3,1.0,5
+1374,Super built-up  Area,18-Jun,Ramagondanahalli,3 BHK,1475,2,2.0,5
+1375,Plot  Area,Ready To Move,Park View Layout,4 BHK,600,4,1.0,4
+1376,Plot  Area,Ready To Move,Xavier Layout,3 BHK,1524,4,2.0,5
+1377,Super built-up  Area,Ready To Move,Hennur Road,2 BHK,980,2,1.0,4
+1378,Super built-up  Area,18-Apr,Dasanapura,2 BHK,966,2,1.0,4
+1379,Super built-up  Area,Ready To Move,Ferrar Nagar,4 BHK,2360,3,2.0,5
+1380,Super built-up  Area,19-Mar,Sarjapur  Road,2 BHK,1112,2,1.0,5
+1381,Super built-up  Area,Ready To Move,Electronic City,2 BHK,550,1,1.0,4
+1382,Built-up  Area,Ready To Move,Surabhi Layout,3 BHK,1760,3,3.0,5
+1383,Super built-up  Area,Ready To Move,Hennur,3 BHK,1830,2,3.0,5
+1384,Super built-up  Area,19-Mar,Yelahanka,2 BHK,1175,2,1.0,5
+1385,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1175,2,1.0,5
+1386,Super built-up  Area,Ready To Move,Horamavu Banaswadi,2 BHK,1025,2,2.0,5
+1387,Super built-up  Area,18-Aug,Hennur Road,2 BHK,1232,2,1.0,5
+1388,Built-up  Area,Ready To Move,5th Phase JP Nagar,2 BHK,1010,2,2.0,5
+1389,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1273,2,2.0,5
+1390,Super built-up  Area,17-Aug,Battarahalli,2 BHK,1590,2,2.0,5
+1391,Super built-up  Area,Ready To Move,Air View Colony,2 BHK,1100,2,1.0,5
+1392,Super built-up  Area,Ready To Move,Electronic City Phase II,3 BHK,1252,2,1.0,5
+1393,Super built-up  Area,Ready To Move,1st Phase JP Nagar,4 BHK,2615,5,3.0,5
+1394,Plot  Area,Ready To Move,Arishinakunte,5 BHK,1200,6,1.0,5
+1395,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1322,2,1.0,5
+1396,Plot  Area,Ready To Move,7th Phase JP Nagar,1 BHK,1000,1,1.0,4
+1397,Super built-up  Area,Ready To Move,Harlur,3 BHK,1755,3,2.0,5
+1398,Super built-up  Area,Ready To Move,Electronic City Phase II,2 BHK,1135,2,2.0,5
+1399,Plot  Area,Ready To Move,Rajaji Nagar,8 BHK,1200,10,2.0,5
+1400,Plot  Area,Ready To Move,Electronic City,4 BHK,1200,4,1.0,5
+1401,Super built-up  Area,Ready To Move,Nagavarapalya,2 BHK,1260,2,2.0,5
+1402,Plot  Area,Ready To Move,Hoodi,5 BHK,3250,5,2.0,5
+1403,Plot  Area,Ready To Move,Ambedkar Nagar,4 BHK,3500,4,2.0,5
+1404,Plot  Area,Ready To Move,Manjunath Nagar,5 BHK,1200,6,2.0,5
+1405,Super built-up  Area,20-Dec,Kanakpura Road,3 BHK,1100,2,1.0,5
+1406,Super built-up  Area,Ready To Move,Electronic City Phase II,3 BHK,1305,3,1.0,5
+1407,Built-up  Area,Ready To Move,Ayappa Nagar,2 BHK,1236,2,1.0,5
+1408,Built-up  Area,Ready To Move,Uttarahalli,2 BHK,1125,1,2.0,5
+1409,Built-up  Area,18-May,KR Puram,2 BHK,1075,2,2.0,5
+1410,Super built-up  Area,Ready To Move,BEML Layout,3 BHK,2000,3,2.0,5
+1411,Plot  Area,Ready To Move,Kadugondanahalli,8 BHK,772,5,1.0,4
+1412,Built-up  Area,Ready To Move,Thanisandra,6 BHK,3000,6,0.0,5
+1413,Super built-up  Area,Ready To Move,Kadugodi,2 BHK,1150,2,2.0,5
+1414,Plot  Area,Ready To Move,9th Block Jayanagar,4 BHK,1440,4,1.0,5
+1415,Super built-up  Area,Ready To Move,Hennur Road,2 BHK,1085,2,1.0,5
+1416,Built-up  Area,Ready To Move,Hebbal Kempapura,3 BHK,1785,3,0.0,5
+1417,Super built-up  Area,Ready To Move,Malleshwaram,3 BHK,2475,4,3.0,5
+1418,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1930,4,2.0,5
+1419,Super built-up  Area,Ready To Move,4th Phase JP Nagar,2 BHK,600,4,1.0,4
+1420,Plot  Area,Ready To Move,Kadugondanahalli,2 BHK,800,1,0.0,4
+1421,Built-up  Area,Ready To Move,Kumaraswami Layout,4 BHK,2450,3,2.0,5
+1422,Plot  Area,17-Dec,akshaya nagar t c palya,4 BHK,1200,4,0.0,5
+1423,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1920,3,3.0,5
+1424,Super built-up  Area,18-Apr,Kothannur,2 BHK,1085,2,2.0,5
+1425,Super built-up  Area,Ready To Move,Thanisandra,1 BHK,760,1,2.0,4
+1426,Built-up  Area,Ready To Move,Sahakara Nagar,2 BHK,1201,2,3.0,5
+1427,Super built-up  Area,18-Jul,Electronic City,3 BHK,1615,3,2.0,5
+1428,Super built-up  Area,Ready To Move,HSR Layout,2 BHK,1289,2,2.0,5
+1429,Super built-up  Area,Ready To Move,Budigere,3 BHK,1991,4,2.0,5
+1430,Super built-up  Area,Ready To Move,Kasavanhalli,2 BHK,1377,2,2.0,5
+1431,Super built-up  Area,Ready To Move,Cunningham Road,3 BHK,2880,3,2.0,5
+1432,Plot  Area,Ready To Move,Laxmi Sagar Layout,3 BHK,1892,3,2.0,5
+1433,Built-up  Area,Ready To Move,Shivaji Nagar,3 BHK,2176,3,3.0,5
+1434,Super built-up  Area,21-Dec,Thanisandra,1 BHK,663,1,0.0,4
+1435,Built-up  Area,18-Dec,Electronic City,2 BHK,1165,2,1.0,5
+1436,Super built-up  Area,Ready To Move,Talaghattapura,3 BHK,3554,4,1.0,5
+1437,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1260,2,1.0,5
+1438,Built-up  Area,Ready To Move,Volagerekallahalli,2 BHK,1095,2,1.0,5
+1439,Super built-up  Area,Ready To Move,KR Garden,2 BHK,1050,2,2.0,5
+1440,Super built-up  Area,Ready To Move,Seegehalli,2 BHK,1176,2,2.0,5
+1441,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1801,3,2.0,5
+1442,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1315,2,3.0,5
+1443,Super built-up  Area,Ready To Move,Parappana Agrahara,2 BHK,1194,2,2.0,5
+1444,Plot  Area,Ready To Move,NRI Layout,2 BHK,2400,2,1.0,5
+1445,Super built-up  Area,18-Mar,Uttarahalli,3 BHK,1308,2,3.0,5
+1446,Plot  Area,Ready To Move,Sarjapur  Road,4 BHK,4250,4,2.0,5
+1447,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1806,6,2.0,5
+1448,Built-up  Area,17-Dec,Thanisandra,4 BHK,3671,4,1.0,5
+1449,Super built-up  Area,Ready To Move,Hoodi,3 BHK,2144,3,2.0,5
+1450,Built-up  Area,Ready To Move,Hoskote,2 BHK,1065,2,3.0,5
+1451,Super built-up  Area,17-Oct,Balagere,2 BHK,1205,2,1.0,5
+1452,Super built-up  Area,Ready To Move,Uttarahalli,2 BHK,1160,2,2.0,5
+1453,Plot  Area,Ready To Move,Kanaka Nagar,4 BHK,750,4,2.0,4
+1454,Super built-up  Area,Ready To Move,Parappana Agrahara,2 BHK,1194,2,2.0,5
+1455,Plot  Area,18-Jul,mvj engineering college,3 BHK,1200,3,1.0,5
+1456,Super built-up  Area,Ready To Move,2nd Phase Judicial Layout,3 BHK,1681,3,3.0,5
+1457,Built-up  Area,18-Aug,Bommasandra Industrial Area,2 BHK,1130,2,1.0,5
+1458,Super built-up  Area,Ready To Move,Iblur Village,4 BHK,3633,5,1.0,5
+1459,Built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1843,3,2.0,5
+1460,Built-up  Area,18-Dec,Bommasandra Industrial Area,2 BHK,1065,2,1.0,5
+1461,Super built-up  Area,Ready To Move,Thubarahalli,3 BHK,1885,3,2.0,5
+1462,Super built-up  Area,Ready To Move,R.T. Nagar,2 BHK,1500,2,2.0,5
+1463,Super built-up  Area,Ready To Move,Panathur,2 BHK,1210,2,2.0,5
+1464,Super built-up  Area,Ready To Move,TC Palaya,2 BHK,1126,2,1.0,5
+1465,Super built-up  Area,Ready To Move,Rayasandra,3 BHK,1357,2,2.0,5
+1466,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1451,2,2.0,5
+1467,Plot  Area,Ready To Move,Kodigehaali,4 BHK,1600,3,3.0,5
+1468,Super built-up  Area,Ready To Move,Hennur Road,2 BHK,950,2,1.0,4
+1469,Built-up  Area,Ready To Move,Bellandur,2 BHK,960,2,2.0,4
+1470,Super built-up  Area,Ready To Move,2nd Block Bel Layout,3 BHK,1625,3,3.0,5
+1471,Plot  Area,18-May,Kaggalipura,3 BHK,2200,4,1.0,5
+1472,Super built-up  Area,Ready To Move,Ambalipura,3 BHK,1607,2,2.0,5
+1473,Super built-up  Area,21-Dec,Kanakpura Road,2 BHK,900,2,1.0,4
+1474,Built-up  Area,Ready To Move,Shree Ananth Nagar Layout,2 BHK,1080,2,2.0,5
+1475,Super built-up  Area,Ready To Move,Cooke Town,3 BHK,2300,3,1.0,5
+1476,Super built-up  Area,Ready To Move,Hosa Road,4 BHK,1708,3,0.0,5
+1477,Built-up  Area,Ready To Move,Yeshwanthpur,6 BHK,2500,5,2.0,5
+1478,Super built-up  Area,Ready To Move,Bellandur,3 BHK,1690,2,2.0,5
+1479,Built-up  Area,Ready To Move,RR Layout,5 BHK,2100,3,0.0,5
+1480,Super built-up  Area,Ready To Move,4th Block Koramangala,2 BHK,1269,2,2.0,5
+1481,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1243,2,2.0,5
+1482,Built-up  Area,Ready To Move,Haralur Road,3 BHK,1890,3,2.0,5
+1483,Built-up  Area,18-Aug,Electronic City Phase II,2 BHK,1165,2,1.0,5
+1484,Super built-up  Area,Ready To Move,BTM Layout,2 BHK,1196,2,2.0,5
+1485,Super built-up  Area,Ready To Move,Parappana Agrahara,2 BHK,1194,2,2.0,5
+1486,Super built-up  Area,Ready To Move,Old Madras Road,3 BHK,1630,3,2.0,5
+1487,Super built-up  Area,19-Apr,Whitefield,2 BHK,1063,2,1.0,5
+1488,Super built-up  Area,Ready To Move,Shikaripalya,2 BHK,1025,2,1.0,5
+1489,Super built-up  Area,Ready To Move,Chikkabanavar,2 BHK,1067,2,1.0,5
+1490,Super built-up  Area,19-Sep,Kanakpura Road,2 BHK,1299,2,1.0,5
+1491,Super built-up  Area,18-May,Panathur,2 BHK,1343,2,1.0,5
+1492,Super built-up  Area,Ready To Move,Electronics City Phase 1,3 BHK,1330,2,2.0,5
+1493,Super built-up  Area,Ready To Move,Mallasandra,3 BHK,1524,2,3.0,5
+1494,Super built-up  Area,Ready To Move,Lingadheeranahalli,4 BHK,2236,4,2.0,5
+1495,Super built-up  Area,Ready To Move,Domlur,3 BHK,2955,3,2.0,5
+1496,Super built-up  Area,18-Mar,Raja Rajashweri Nagar,3 BHK,1410,2,2.0,5
+1497,Super built-up  Area,Ready To Move,Kothanur,3 BHK,1581,3,3.0,5
+1498,Super built-up  Area,Ready To Move,Balagere,2 BHK,1205,2,1.0,5
+1499,Super built-up  Area,Ready To Move,Thyagaraja Nagar,3 BHK,1270,2,2.0,5
+1500,Super built-up  Area,Ready To Move,VHBCS Layout,3 BHK,1353,2,2.0,5
+1501,Plot  Area,18-Feb,Jinkethimmanahalli,2 BHK,1200,2,1.0,5
+1502,Super built-up  Area,Ready To Move,basaveshwarnagar,3 BHK,1250,2,1.0,5
+1503,Super built-up  Area,19-Mar,Gopalapura,3 BHK,1950,3,2.0,5
+1504,Super built-up  Area,18-Nov,Sarjapur  Road,3 BHK,1157,2,1.0,5
+1505,Super built-up  Area,19-Dec,Kanakapura,1 BHK,825,1,0.0,4
+1506,Built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1000,2,2.0,4
+1507,Built-up  Area,18-Apr,Yelahanka,1 BHK,602,1,1.0,4
+1508,Built-up  Area,Ready To Move,Malleshwaram,5 BHK,3000,4,0.0,5
+1509,Super built-up  Area,21-Jul,Hoodi,2 BHK,1108,2,0.0,5
+1510,Super built-up  Area,Ready To Move,Thyagaraja Nagar,2 BHK,1040,2,1.0,5
+1511,Super built-up  Area,20-Dec,Sarjapur,2 BHK,1451,2,1.0,5
+1512,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1196,2,2.0,5
+1513,Super built-up  Area,18-May,Kanakpura Road,1 BHK,850,1,1.0,4
+1514,Super built-up  Area,19-Mar,Gopalapura,3 BHK,2172,3,2.0,5
+1515,Super built-up  Area,Ready To Move,Kanaka Nagar,2 BHK,900,2,1.0,4
+1516,Super built-up  Area,Ready To Move,Kudlu,1 BHK,720,1,1.0,4
+1517,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1573,3,2.0,5
+1518,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1026,2,1.0,5
+1519,Super built-up  Area,Ready To Move,CV Raman Nagar,3 BHK,1400,2,2.0,5
+1520,Built-up  Area,18-Jul,Electronic City Phase II,3 BHK,1400,2,2.0,5
+1521,Built-up  Area,Ready To Move,Banashankari Stage III,4 BHK,2100,3,1.0,5
+1522,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1150,2,1.0,5
+1523,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3 BHK,1500,3,2.0,5
+1524,Super built-up  Area,Ready To Move,Malleshwaram,3 BHK,2400,3,2.0,5
+1525,Plot  Area,Ready To Move,HRBR Layout,3 BHK,1200,3,2.0,5
+1526,Super built-up  Area,Ready To Move,Kothanur,3 BHK,1790,3,2.0,5
+1527,Super built-up  Area,Ready To Move,Ramagondanahalli,2 BHK,1125,2,2.0,5
+1528,Super built-up  Area,18-Dec,Hennur,3 BHK,1830,3,0.0,5
+1529,Super built-up  Area,Ready To Move,Marathahalli,2 BHK,1100,2,1.0,5
+1530,Built-up  Area,Ready To Move,7th Phase JP Nagar,2 BHK,1080,2,1.0,5
+1531,Built-up  Area,Ready To Move,Banaswadi,2 BHK,1105,2,2.0,5
+1532,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1110,2,2.0,5
+1533,Super built-up  Area,Ready To Move,Dasanapura,1 BHK,708,1,1.0,4
+1534,Super built-up  Area,Ready To Move,Kudlu,2 BHK,1027,2,2.0,5
+1535,Super built-up  Area,18-May,"Banashankari 3rd stage, Vivekanandanagar",3 BHK,1600,3,1.0,5
+1536,Super built-up  Area,Ready To Move,Thigalarapalya,4 BHK,3122,6,2.0,5
+1537,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1205,2,2.0,5
+1538,Super built-up  Area,Ready To Move,5th Phase JP Nagar,3 BHK,1450,2,2.0,5
+1539,Plot  Area,Ready To Move,Thyagaraja Nagar,4 BHK,750,4,2.0,4
+1540,Plot  Area,Ready To Move,Annaiah Reddy Layout,1 BHK,540,1,0.0,4
+1541,Built-up  Area,Ready To Move,Dasarahalli,2 BHK,1200,2,2.0,5
+1542,Plot  Area,Ready To Move,Nagarbhavi,5 BHK,1200,5,1.0,5
+1543,Super built-up  Area,Ready To Move,Kalena Agrahara,3 BHK,1837,2,2.0,5
+1544,Super built-up  Area,18-Dec,Whitefield,2 BHK,1346,2,1.0,5
+1545,Built-up  Area,Ready To Move,Balagere,2 BHK,1012,2,1.0,5
+1546,Super built-up  Area,18-Dec,Gopalapura,3 BHK,1950,3,2.0,5
+1547,Super built-up  Area,Ready To Move,Atmananda Colony,2 BHK,1125,2,2.0,5
+1548,Super built-up  Area,Ready To Move,Kaggadasapura,3 BHK,1500,2,2.0,5
+1549,Super built-up  Area,Ready To Move,Harlur,2 BHK,1197,2,1.0,5
+1550,Super built-up  Area,18-Sep,Chandapura,3 BHK,1230,2,2.0,5
+1551,Super built-up  Area,Ready To Move,BTM 2nd Stage,2 BHK,1100,2,2.0,5
+1552,Super built-up  Area,Ready To Move,Channasandra Layout,3 BHK,1563,2,2.0,5
+1553,Plot  Area,Ready To Move,4th Block Jayanagar,7 BHK,2240,4,1.0,5
+1554,Super built-up  Area,Ready To Move,Hebbal Kempapura,4 BHK,3729,4,2.0,5
+1555,Plot  Area,Ready To Move,Sarjapur  Road,3 BHK,1600,3,1.0,5
+1556,Super built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1715,3,3.0,5
+1557,Built-up  Area,Ready To Move,Bannerghatta Road,4 BHK,2400,4,1.0,5
+1558,Super built-up  Area,18-Jul,Ramagondanahalli,2 BHK,1151,2,2.0,5
+1559,Plot  Area,Ready To Move,Banaswadi,6 BHK,1200,6,2.0,5
+1560,Built-up  Area,Ready To Move,Uttarahalli,2 BHK,1123,2,2.0,5
+1561,Super built-up  Area,20-Jan,Whitefield,2 BHK,1276,2,1.0,5
+1562,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1315,2,3.0,5
+1563,Super built-up  Area,Ready To Move,Poorna Pragna Layout,3 BHK,1270,2,2.0,5
+1564,Super built-up  Area,Ready To Move,R.T. Nagar,2 BHK,1325,2,2.0,5
+1565,Super built-up  Area,18-Apr,Varthur,3 BHK,1600,3,2.0,5
+1566,Super built-up  Area,Ready To Move,Jakkur,3 BHK,1660,3,2.0,5
+1567,Super built-up  Area,Ready To Move,Kodichikkanahalli,2 BHK,1299,2,3.0,5
+1568,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,953,2,1.0,4
+1569,Super built-up  Area,Ready To Move,Gunjur,2 BHK,1457,2,3.0,5
+1570,Super built-up  Area,18-May,Varthur,2 BHK,1000,1,1.0,4
+1571,Built-up  Area,Ready To Move,Mallasandra,3 BHK,1100,2,3.0,5
+1572,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1075,2,1.0,5
+1573,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1450,3,3.0,5
+1574,Super built-up  Area,Ready To Move,Iblur Village,5 BHK,5515,6,2.0,6
+1575,Super built-up  Area,Ready To Move,Bellandur,1 BHK,950,1,1.0,4
+1576,Plot  Area,Ready To Move,Basaveshwara Nagar,5 BHK,1200,3,1.0,5
+1577,Super built-up  Area,Ready To Move,Amam Enclave Layout,2 BHK,1013,2,2.0,5
+1578,Super built-up  Area,Ready To Move,Hennur Road,2 BHK,1140,2,2.0,5
+1579,Super built-up  Area,Ready To Move,4th T block Jayanagar,3 BHK,2100,3,3.0,5
+1580,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1430,3,1.0,5
+1581,Plot  Area,Ready To Move,Ilyas Nagar,4 BHK,600,3,0.0,4
+1582,Carpet  Area,Ready To Move,Anantapura,3 BHK,1600,3,2.0,5
+1583,Super built-up  Area,Ready To Move,Ayappa Nagar,2 BHK,1190,2,1.0,5
+1584,Super built-up  Area,Ready To Move,Ashwath Nagar,3 BHK,1625,3,2.0,5
+1585,Super built-up  Area,Ready To Move,Classic Paradise Layout,2 BHK,1210,2,2.0,5
+1586,Super built-up  Area,Ready To Move,Lakshminarayana Pura,3 BHK,1615,3,2.0,5
+1587,Super built-up  Area,Ready To Move,Kalena Agrahara,2 BHK,1180,2,2.0,5
+1588,Plot  Area,Ready To Move,Nagasandra,2 BHK,1500,2,0.0,5
+1589,Built-up  Area,Ready To Move,Bellandur,2 BHK,850,2,1.0,4
+1590,Super built-up  Area,Ready To Move,Kothanur,2 BHK,1130,2,2.0,5
+1591,Super built-up  Area,Ready To Move,CV Raman Nagar,2 BHK,907,2,2.0,4
+1592,Built-up  Area,Ready To Move,HRBR Layout,2 BHK,1300,2,3.0,5
+1593,Super built-up  Area,Ready To Move,Hennur Road,3 BHK,1891,3,1.0,5
+1594,Super built-up  Area,Ready To Move,Hennur Road,3 BHK,1735,3,3.0,5
+1595,Super built-up  Area,Ready To Move,Bisuvanahalli,3 BHK,1075,2,1.0,5
+1596,Built-up  Area,Ready To Move,Gowdanapalya,5 BHK,258,5,0.0,3
+1597,Built-up  Area,Ready To Move,Kumaraswami Layout,7 BHK,2040,4,3.0,5
+1598,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1590,3,2.0,5
+1599,Plot  Area,Ready To Move,Jayanti Nagar,5 BHK,1600,5,2.0,5
+1600,Built-up  Area,Ready To Move,Doddakammanahalli,2 BHK,1160,2,3.0,5
+1601,Super built-up  Area,Ready To Move,Tasker Town,2 BHK,930,1,1.0,4
+1602,Built-up  Area,Ready To Move,Devanahalli,2 BHK,1010,2,1.0,5
+1603,Super built-up  Area,Ready To Move,Electronic City,2 BHK,1221,2,2.0,5
+1604,Plot  Area,Ready To Move,Banashankari,4 BHK,2400,4,3.0,5
+1605,Super built-up  Area,22-Jun,Hoodi,2 BHK,1108,2,1.0,5
+1606,Plot  Area,Ready To Move,Vidyaranyapura,4 BHK,1000,4,2.0,4
+1607,Super built-up  Area,18-Apr,Sarjapur  Road,2 BHK,1370,2,1.0,5
+1608,Super built-up  Area,Ready To Move,Banashankari Stage V,2 BHK,920,2,1.0,4
+1609,Super built-up  Area,18-May,Bhoganhalli,2 BHK,1277,2,1.0,5
+1610,Super built-up  Area,18-May,Horamavu Agara,2 BHK,1213,2,2.0,5
+1611,Super built-up  Area,Ready To Move,Singasandra,3 BHK,1653,3,2.0,5
+1612,Plot  Area,Ready To Move,Sarjapur,4 BHK,2400,3,3.0,5
+1613,Super built-up  Area,Ready To Move,1st Block Koramangala,4 BHK,3000,5,3.0,5
+1614,Plot  Area,Ready To Move,Kothanur,4 BHK,1600,4,3.0,5
+1615,Super built-up  Area,Ready To Move,Electronics City Phase 1,3 BHK,1321,2,2.0,5
+1616,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1570,3,2.0,5
+1617,Built-up  Area,Ready To Move,Hessarghatta,8 BHK,1150,8,1.0,5
+1618,Super built-up  Area,Ready To Move,Nallurhalli,2 BHK,1053,2,3.0,5
+1619,Super built-up  Area,Ready To Move,Hoysalanagar,3 BHK,1325,2,3.0,5
+1620,Super built-up  Area,18-Nov,manyata,2 BHK,1169,2,1.0,5
+1621,Super built-up  Area,20-Jan,Badavala Nagar,2 BHK,1274,2,1.0,5
+1622,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1317,2,2.0,5
+1623,Built-up  Area,Ready To Move,Lakshminarayana Pura,2 BHK,1195,2,1.0,5
+1624,Super built-up  Area,18-Nov,Whitefield,4 BHK,2858,4,0.0,5
+1625,Super built-up  Area,Ready To Move,Kammasandra,2 BHK,940,2,2.0,4
+1626,Built-up  Area,Ready To Move,Budigere,3 BHK,1820,3,2.0,5
+1627,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1450,3,3.0,5
+1628,Built-up  Area,Ready To Move,Whitefield,3 BHK,1615,3,0.0,5
+1629,Built-up  Area,Ready To Move,Nagarbhavi,3 BHK,2200,2,3.0,5
+1630,Super built-up  Area,Ready To Move,Subramanyapura,2 BHK,985,2,1.0,4
+1631,Built-up  Area,Ready To Move,Electronics City Phase 1,2 BHK,1116,2,1.0,5
+1632,Super built-up  Area,Ready To Move,Attibele,2 BHK,656,2,1.0,4
+1633,Super built-up  Area,Ready To Move,Kaggadasapura,2 BHK,1105,2,1.0,5
+1634,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1220,2,1.0,5
+1635,Built-up  Area,Ready To Move,Hoodi,3 BHK,1400,3,2.0,5
+1636,Built-up  Area,Ready To Move,Bhuvaneswari Nagar,4 BHK,2400,3,0.0,5
+1637,Plot  Area,Ready To Move,Anandapura,3 BHK,850,3,0.0,4
+1638,Built-up  Area,Ready To Move,Uttarahalli,2 BHK,1000,2,1.0,4
+1639,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1660,3,3.0,5
+1640,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1330,2,1.0,5
+1641,Super built-up  Area,18-May,Old Madras Road,2 BHK,1165,2,1.0,5
+1642,Super built-up  Area,Ready To Move,Budigere,2 BHK,1153,2,2.0,5
+1643,Built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,1270,2,2.0,5
+1644,Super built-up  Area,18-Aug,2nd Phase JP Nagar,2 BHK,1070,2,2.0,5
+1645,Built-up  Area,Ready To Move,RWF West Colony,3 BHK,1427,2,2.0,5
+1646,Super built-up  Area,Ready To Move,Banashankari Stage III,3 BHK,1420,2,2.0,5
+1647,Plot  Area,Ready To Move,Kothanur,4 BHK,1600,5,0.0,5
+1648,Super built-up  Area,Ready To Move,Langford Town,2 BHK,2031,2,2.0,5
+1649,Super built-up  Area,19-Jul,Bellandur,2 BHK,1454,2,1.0,5
+1650,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1116,2,3.0,5
+1651,Plot  Area,Ready To Move,Maruthi Sevanagar,4 BHK,2000,3,1.0,5
+1652,Super built-up  Area,18-Jul,Sarjapur  Road,2 BHK,1346,2,1.0,5
+1653,Super built-up  Area,Ready To Move,Hessarghatta,2 BHK,1062,2,1.0,5
+1654,Super built-up  Area,Ready To Move, Mysore Highway,1 BHK,700,1,1.0,4
+1655,Super built-up  Area,19-Dec,JP Nagar,2 BHK,1405,2,1.0,5
+1656,Built-up  Area,Ready To Move,Doddathoguru,2 BHK,1100,2,2.0,5
+1657,Plot  Area,Ready To Move,Chikka Tirupathi,3 BHK,2153,4,3.0,5
+1658,Plot  Area,Ready To Move,Kammagondahalli,3 BHK,1200,3,2.0,5
+1659,Super built-up  Area,Ready To Move,Ulsoor,3 BHK,2135,3,2.0,5
+1660,Super built-up  Area,Ready To Move,Uttarahalli,2 BHK,1125,2,1.0,5
+1661,Super built-up  Area,Ready To Move,2nd Phase Judicial Layout,3 BHK,1350,2,2.0,5
+1662,Built-up  Area,Ready To Move,Pai Layout,2 BHK,1068,2,3.0,5
+1663,Super built-up  Area,Ready To Move,Doddathoguru,2 BHK,940,2,1.0,4
+1664,Super built-up  Area,18-May,Hosa Road,2 BHK,1063,2,1.0,5
+1665,Super built-up  Area,Ready To Move,Brookefield,2 BHK,1382,2,2.0,5
+1666,Super built-up  Area,Ready To Move,Harlur,2 BHK,936,2,1.0,4
+1667,Super built-up  Area,Ready To Move,KR Puram,3 BHK,1400,2,3.0,5
+1668,Super built-up  Area,20-Aug,Sarjapur  Road,1 BHK,475,1,1.0,3
+1669,Super built-up  Area,Ready To Move,LIC Colony,2 BHK,1200,2,1.0,5
+1670,Super built-up  Area,Ready To Move,Glass Factory Layout,3 BHK,1450,3,3.0,5
+1671,Super built-up  Area,Ready To Move,Kudlu,2 BHK,1162,2,1.0,5
+1672,Super built-up  Area,18-Dec,Hosa Road,2 BHK,1161,2,1.0,5
+1673,Super built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1623,2,2.0,5
+1674,Super built-up  Area,Ready To Move,Brookefield,2 BHK,1260,2,1.0,5
+1675,Plot  Area,Ready To Move,Billekahalli,4 BHK,1672,3,2.0,5
+1676,Plot  Area,Ready To Move,Seegehalli,3 BHK,3000,4,2.0,5
+1677,Super built-up  Area,Ready To Move,Murugeshpalya,3 BHK,1500,2,0.0,5
+1678,Super built-up  Area,20-Jun,Budigere,1 BHK,705,1,0.0,4
+1679,Plot  Area,Ready To Move,Gaurava Nagar,5 BHK,1650,6,1.0,5
+1680,Super built-up  Area,Ready To Move,Dollars Colony,3 BHK,2000,3,3.0,5
+1681,Plot  Area,Ready To Move,Thyagaraja Nagar,1 BHK,1675,1,0.0,5
+1682,Plot  Area,Ready To Move,Electronic City,3 BHK,1200,3,2.0,5
+1683,Super built-up  Area,Ready To Move,Nagarbhavi,2 BHK,1100,2,2.0,5
+1684,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1400,2,3.0,5
+1685,Super built-up  Area,Ready To Move,Ramagondanahalli,3 BHK,2257,3,2.0,5
+1686,Super built-up  Area,Ready To Move,Budigere,2 BHK,1153,2,2.0,5
+1687,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1197,2,1.0,5
+1688,Super built-up  Area,Ready To Move,Siddapura,2 BHK,1150,2,2.0,5
+1689,Super built-up  Area,20-Dec,Akshayanagara East,1 BHK,595,1,1.0,4
+1690,Super built-up  Area,21-Jul,Hoodi,3 BHK,1837,3,1.0,5
+1691,Plot  Area,Ready To Move,Kumbalgodu,4 BHK,3750,4,2.0,5
+1692,Super built-up  Area,Ready To Move,Bellandur,3 BHK,1830,3,3.0,5
+1693,Super built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1715,3,3.0,5
+1694,Super built-up  Area,Ready To Move,Electronic City,2 BHK,970,2,1.0,4
+1695,Plot  Area,Ready To Move,Hebbal Kempapura,4 BHK,1200,3,2.0,5
+1696,Built-up  Area,Ready To Move,NRI Layout,4 BHK,2700,5,1.0,5
+1697,Plot  Area,Ready To Move,Siddapura,3 BHK,5480,4,2.0,6
+1698,Built-up  Area,Ready To Move,Vidyaranyapura,4 BHK,2400,5,1.0,5
+1699,Super built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,3040,4,2.0,5
+1700,Super built-up  Area,18-Jul,Raja Rajeshwari Nagar,2 BHK,1168,2,1.0,5
+1701,Super built-up  Area,Ready To Move,Begur Road,2 BHK,1160,2,2.0,5
+1702,Built-up  Area,Ready To Move,Mallappa Layout,3 BHK,1500,3,2.0,5
+1703,Plot  Area,Ready To Move,Kumaraswami Layout,2 BHK,600,2,1.0,4
+1704,Plot  Area,Ready To Move,5th Phase JP Nagar,8 BHK,1200,7,3.0,5
+1705,Super built-up  Area,18-Dec,ITPL,2 BHK,850,2,1.0,4
+1706,Super built-up  Area,Ready To Move,Ramamurthy Nagar,2 BHK,935,2,2.0,4
+1707,Plot  Area,Ready To Move,Ullal Road,5 BHK,1200,5,1.0,5
+1708,Super built-up  Area,18-Apr,Doddaballapur,1 BHK,654,1,1.0,4
+1709,Built-up  Area,Ready To Move,Domlur,3 BHK,1650,3,1.0,5
+1710,Plot  Area,Ready To Move,Dodsworth Layout,3 BHK,5656,5,0.0,6
+1711,Super built-up  Area,Ready To Move,Vinayak Nagar,2 BHK,1300,2,1.0,5
+1712,Super built-up  Area,Ready To Move,Kaggalipura,2 BHK,950,2,1.0,4
+1713,Super built-up  Area,18-May,Silk Board,3 BHK,1250,3,2.0,5
+1714,Super built-up  Area,Ready To Move,Doddakallasandra,2 BHK,1072,2,1.0,5
+1715,Super built-up  Area,Ready To Move,Ankappa Layout,3 BHK,1425,2,2.0,5
+1716,Built-up  Area,Ready To Move,Uttarahalli,2 BHK,1165,1,0.0,5
+1717,Super built-up  Area,Ready To Move,Kathriguppe,3 BHK,1390,2,2.0,5
+1718,Built-up  Area,Ready To Move,Kalena Agrahara,3 BHK,1510,3,2.0,5
+1719,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1305,2,2.0,5
+1720,Plot  Area,Ready To Move,Vidyaranyapura,6 BHK,1200,6,2.0,5
+1721,Built-up  Area,Ready To Move,Kodigehaali,2 BHK,866,2,2.0,4
+1722,Super built-up  Area,Ready To Move,Hulimavu,2 BHK,1231,2,1.0,5
+1723,Super built-up  Area,Ready To Move,Sompura,3 BHK,1360,2,3.0,5
+1724,Super built-up  Area,Ready To Move,Yeshwanthpur,3 BHK,2500,3,3.0,5
+1725,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1140,2,3.0,5
+1726,Super built-up  Area,21-Dec,Kanakpura Road,1 BHK,525,1,1.0,4
+1727,Super built-up  Area,19-Sep,Whitefield,2 BHK,1295,2,1.0,5
+1728,Super built-up  Area,Ready To Move,Hormavu,2 BHK,1020,2,2.0,5
+1729,Super built-up  Area,18-Dec,Old Airport Road,4 BHK,3504,4,2.0,5
+1730,Plot  Area,Ready To Move,Sidedahalli,2 BHK,1200,1,0.0,5
+1731,Super built-up  Area,Ready To Move,Vidyaranyapura,2 BHK,1100,2,1.0,5
+1732,Plot  Area,19-Dec,Bannerghatta Road,4 BHK,4723,4,3.0,5
+1733,Super built-up  Area,Ready To Move,Kothannur,2 BHK,820,2,2.0,4
+1734,Plot  Area,Ready To Move,Sarjapur,4 BHK,3508,4,1.0,5
+1735,Plot  Area,Ready To Move,Versova Layout,4 BHK,3700,4,2.0,5
+1736,Super built-up  Area,Ready To Move,Kalena Agrahara,2 BHK,1354,2,2.0,5
+1737,Super built-up  Area,Ready To Move,Basavangudi,4 BHK,2453,3,2.0,5
+1738,Super built-up  Area,Ready To Move,Garudachar Palya,2 BHK,1154,2,1.0,5
+1739,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,1680,2,3.0,5
+1740,Super built-up  Area,18-May,Electronics City Phase 1,2 BHK,1205,2,2.0,5
+1741,Built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3 BHK,1400,2,2.0,5
+1742,Carpet  Area,Ready To Move,Doopanahalli,3 BHK,1625,3,1.0,5
+1743,Built-up  Area,Ready To Move,Electronic City,3 BHK,1500,3,1.0,5
+1744,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1520,2,3.0,5
+1745,Built-up  Area,Ready To Move,3rd Stage Raja Rajeshwari Nagar,2 BHK,1300,3,1.0,5
+1746,Super built-up  Area,Ready To Move,Manayata Tech Park,2 BHK,1150,2,2.0,5
+1747,Super built-up  Area,18-Apr,Kadugodi,3 BHK,1762,3,3.0,5
+1748,Super built-up  Area,Ready To Move,Budigere,2 BHK,1153,2,2.0,5
+1749,Super built-up  Area,Ready To Move,Yelahanka,4 BHK,2650,4,1.0,5
+1750,Super built-up  Area,Ready To Move,Sompura,3 BHK,1350,2,2.0,5
+1751,Super built-up  Area,Ready To Move,Billekahalli,2 BHK,950,2,2.0,4
+1752,Super built-up  Area,Ready To Move,Jakkur,3 BHK,3295,3,3.0,5
+1753,Super built-up  Area,Ready To Move,Coconut Grove Layout,3 BHK,1515,3,3.0,5
+1754,Super built-up  Area,Ready To Move,Neeladri Nagar,2 BHK,1100,2,2.0,5
+1755,Super built-up  Area,Ready To Move,Byrasandra,2 BHK,1250,2,2.0,5
+1756,Built-up  Area,Ready To Move,HBR Layout,2 BHK,1200,2,0.0,5
+1757,Super built-up  Area,Ready To Move,5th Phase JP Nagar,7 BHK,2500,8,3.0,5
+1758,Plot  Area,Ready To Move,Hoskote,4 BHK,1200,4,2.0,5
+1759,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1355,2,2.0,5
+1760,Super built-up  Area,18-May,Dominic Layout,3 BHK,1115,3,1.0,5
+1761,Super built-up  Area,18-Apr,8th Phase JP Nagar,3 BHK,1275,3,2.0,5
+1762,Super built-up  Area,19-Sep,Padmanabhanagar,3 BHK,2051,3,2.0,5
+1763,Super built-up  Area,Ready To Move,BTM Layout,3 BHK,1470,2,2.0,5
+1764,Super built-up  Area,Ready To Move,Silver Springs Layout,3 BHK,1550,2,3.0,5
+1765,Built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1270,2,1.0,5
+1766,Super built-up  Area,18-Jul,Bhoganhalli,4 BHK,2119,4,2.0,5
+1767,Super built-up  Area,Ready To Move,Hebbal Kempapura,3 BHK,1600,3,3.0,5
+1768,Super built-up  Area,Ready To Move,Kudlu Gate,3 BHK,1320,2,2.0,5
+1769,Super built-up  Area,Ready To Move,Gopalkrishna Nagar,3 BHK,2505,3,2.0,5
+1770,Super built-up  Area,Ready To Move,Tejaswini Nagar,3 BHK,1410,2,1.0,5
+1771,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1200,2,3.0,5
+1772,Super built-up  Area,18-Oct,Chennammana Kere,3 BHK,1705,2,1.0,5
+1773,Super built-up  Area,Ready To Move,Electronic City,2 BHK,995,2,1.0,4
+1774,Built-up  Area,Ready To Move,Horamavu Banaswadi,2 BHK,1081,2,1.0,5
+1775,Super built-up  Area,Ready To Move,Parappana Agrahara,2 BHK,1194,2,2.0,5
+1776,Super built-up  Area,18-Dec,Sonnenahalli,1 BHK,605,1,1.0,4
+1777,Built-up  Area,Ready To Move,Yelahanka,1 BHK,567,1,1.0,4
+1778,Super built-up  Area,Ready To Move,Rajaji Nagar,2 BHK,1718,3,2.0,5
+1779,Super built-up  Area,20-Dec,Banashankari Stage VI,3 BHK,1410,2,0.0,5
+1780,Plot  Area,Ready To Move,2nd Stage Nagarbhavi,3 BHK,600,5,1.0,4
+1781,Super built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1715,3,2.0,5
+1782,Plot  Area,Ready To Move,Doddaballapur,4 BHK,3206,5,2.0,5
+1783,Plot  Area,Ready To Move,Kundalahalli,4 BHK,1500,4,2.0,5
+1784,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1846,3,2.0,5
+1785,Plot  Area,Ready To Move,Coconut Garden,3 BHK,600,3,1.0,4
+1786,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1015,2,3.0,5
+1787,Plot  Area,Ready To Move,Dollars Colony,4 BHK,4350,8,2.0,5
+1788,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1100,2,1.0,5
+1789,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1965,4,2.0,5
+1790,Super built-up  Area,Ready To Move,NGR Layout,2 BHK,1021,2,2.0,5
+1791,Super built-up  Area,18-Apr,Haralur Road,2 BHK,1230,2,1.0,5
+1792,Super built-up  Area,Ready To Move,Uttarahalli,2 BHK,1260,2,2.0,5
+1793,Plot  Area,Ready To Move,Indira Nagar,4 BHK,2400,4,1.0,5
+1794,Super built-up  Area,Ready To Move,Lingadheeranahalli,3 BHK,1894,4,1.0,5
+1795,Plot  Area,Ready To Move,2nd Stage Nagarbhavi,6 BHK,1500,4,2.0,5
+1796,Super built-up  Area,20-Jun,Jakkur,3 BHK,1950,3,2.0,5
+1797,Super built-up  Area,Ready To Move,Sector 2 HSR Layout,2 BHK,1231,2,3.0,5
+1798,Super built-up  Area,Ready To Move,Mahadevpura,2 BHK,1236,2,1.0,5
+1799,Built-up  Area,Ready To Move,R.T. Nagar,4 BHK,1800,3,0.0,5
+1800,Super built-up  Area,Ready To Move,KAMAKIYA,3 BHK,1650,3,2.0,5
+1801,Plot  Area,Ready To Move,Kirloskar Layout,5 BHK,750,3,1.0,4
+1802,Super built-up  Area,Ready To Move,Begur,3 BHK,1443,2,2.0,5
+1803,Plot  Area,Ready To Move,Ramamurthy Nagar,4 BHK,886,4,2.0,4
+1804,Super built-up  Area,Ready To Move,Wheelers Road,2 BHK,925,2,1.0,4
+1805,Super built-up  Area,18-Sep,Chandapura,3 BHK,1305,3,1.0,5
+1806,Super built-up  Area,Ready To Move,Alfa Garden Layout,2 BHK,1190,2,2.0,5
+1807,Super built-up  Area,Ready To Move,Uttarahalli,2 BHK,1284,2,2.0,5
+1808,Plot  Area,Ready To Move,MM Layout,4 BHK,350,3,1.0,3
+1809,Plot  Area,Ready To Move,Palace Guttahalli,3 BHK,875,3,1.0,4
+1810,Built-up  Area,Ready To Move,Chikkalasandra,2 BHK,1325,2,1.0,5
+1811,Plot  Area,Ready To Move,Sector 6 HSR Layout,6 BHK,2400,5,2.0,5
+1812,Super built-up  Area,18-Jun,Kudlu Gate,2 BHK,1183,2,1.0,5
+1813,Built-up  Area,Ready To Move,Rajiv Gandhi Nagar,3 BHK,1750,3,2.0,5
+1814,Super built-up  Area,Ready To Move,Nagashetty Halli,4 BHK,16335,4,2.0,8
+1815,Super built-up  Area,Ready To Move,Doddagubbi,1 BHK,747,1,2.0,4
+1816,Super built-up  Area,Ready To Move,Electronic City,2 BHK,1342,2,1.0,5
+1817,Super built-up  Area,Ready To Move,Motappa Layout,2 BHK,1113,2,1.0,5
+1818,Super built-up  Area,Ready To Move,Devarabeesana Halli,3 BHK,1738,3,2.0,5
+1819,Super built-up  Area,Ready To Move,Brookefield,2 BHK,1206,2,2.0,5
+1820,Super built-up  Area,19-Mar,Hebbal,4 BHK,2790,4,3.0,5
+1821,Super built-up  Area,18-Mar,Hebbal,2 BHK,1162,2,1.0,5
+1822,Super built-up  Area,Ready To Move,Parappana Agrahara,2 BHK,1194,2,2.0,5
+1823,Built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1857,4,3.0,5
+1824,Built-up  Area,Ready To Move,Kattigenahalli,6 BHK,3500,6,2.0,5
+1825,Super built-up  Area,Ready To Move,Rajaji Nagar,2 BHK,1763,3,2.0,5
+1826,Super built-up  Area,Ready To Move,Uttarahalli,2 BHK,1150,2,1.0,5
+1827,Plot  Area,Ready To Move,Koramangala,4 BHK,2400,5,3.0,5
+1828,Super built-up  Area,Ready To Move,Chikkalasandra,2 BHK,1290,2,2.0,5
+1829,Built-up  Area,Ready To Move,Thubarahalli,4 BHK,3408,5,1.0,5
+1830,Built-up  Area,Ready To Move,HBR Layout,2 BHK,900,2,1.0,4
+1831,Built-up  Area,Ready To Move,Sanjay nagar,2 BHK,1150,2,0.0,5
+1832,Plot  Area,Ready To Move,Banashankari,3 BHK,1040,2,1.0,5
+1833,Super built-up  Area,Ready To Move,Yeshwanthpur,2 BHK,1160,2,2.0,5
+1834,Super built-up  Area,Ready To Move,Soundarya Layout,2 BHK,900,2,2.0,4
+1835,Plot  Area,Ready To Move,Sarjapur  Road,4 BHK,1750,3,1.0,5
+1836,Built-up  Area,18-Dec,Electronic City,3 BHK,1320,2,1.0,5
+1837,Super built-up  Area,Ready To Move,Lingadheeranahalli,4 BHK,2240,4,2.0,5
+1838,Super built-up  Area,Ready To Move,Electronics City Phase 1,2 BHK,891,2,1.0,4
+1839,Plot  Area,Ready To Move,Udaya Nagar,5 BHK,1000,4,3.0,4
+1840,Super built-up  Area,Ready To Move,Ambedkar Nagar,3 BHK,1852,3,2.0,5
+1841,Super built-up  Area,Ready To Move,Chandapura,3 BHK,1323,2,1.0,5
+1842,Super built-up  Area,Ready To Move,Vittasandra,2 BHK,1404,2,1.0,5
+1843,Built-up  Area,Ready To Move,Dodda Nekkundi,2 BHK,1370,2,2.0,5
+1844,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1385,2,2.0,5
+1845,Super built-up  Area,Ready To Move,Gollarapalya Hosahalli,2 BHK,1129,2,1.0,5
+1846,Super built-up  Area,Ready To Move,Mahalakshmi Layout,3 BHK,1876,3,1.0,5
+1847,Super built-up  Area,Ready To Move,Brooke Bond First Cross,3 BHK,1720,3,1.0,5
+1848,Plot  Area,Ready To Move,Jalahalli East,4 BHK,1200,4,1.0,5
+1849,Super built-up  Area,Ready To Move,Mysore Road,2 BHK,1175,2,2.0,5
+1850,Super built-up  Area,Ready To Move,Nagawara Junction,1 BHK,500,1,2.0,3
+1851,Plot  Area,Ready To Move,Dasappa Layout,5 BHK,1200,5,2.0,5
+1852,Built-up  Area,Ready To Move,Electronic City Phase II,1 BHK,1200,1,0.0,5
+1853,Super built-up  Area,19-Jan,Hosa Road,3 BHK,1893,3,2.0,5
+1854,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1430,3,2.0,5
+1855,Built-up  Area,Ready To Move,Green View Layout,2 BHK,850,2,2.0,4
+1856,Super built-up  Area,17-Mar,CV Raman Nagar,2 BHK,1392,2,1.0,5
+1857,Super built-up  Area,21-Mar,Kanakpura Road,3 BHK,1938,3,3.0,5
+1858,Super built-up  Area,18-Oct,Chennammanakere Achukattu,2 BHK,1020,2,2.0,5
+1859,Plot  Area,Ready To Move,"beml layout, basaveshwara nagar",3 BHK,2400,2,1.0,5
+1860,Super built-up  Area,Ready To Move,HBR Layout,3 BHK,1832,3,2.0,5
+1861,Super built-up  Area,Ready To Move,Konanakunte,3 BHK,1423,2,2.0,5
+1862,Super built-up  Area,Ready To Move,Jakkur,2 BHK,1432,2,1.0,5
+1863,Plot  Area,Ready To Move,2nd Block Hrbr Layout,4 BHK,1350,4,3.0,5
+1864,Plot  Area,Ready To Move,BTM 2nd Stage,8 BHK,1500,6,0.0,5
+1865,Super built-up  Area,Ready To Move,CV Raman Nagar,3 BHK,1480,3,2.0,5
+1866,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1843,3,2.0,5
+1867,Plot  Area,Ready To Move,Lingarajapuram,3 BHK,760,4,2.0,4
+1868,Super built-up  Area,18-Dec,Hulimavu,3 BHK,1916,2,1.0,5
+1869,Super built-up  Area,Ready To Move,Hennur,2 BHK,1255,2,1.0,5
+1870,Super built-up  Area,Ready To Move,Yelenahalli,2 BHK,1160,2,2.0,5
+1871,Super built-up  Area,18-Jun,Old Madras Road,2 BHK,2640,2,1.0,5
+1872,Super built-up  Area,Ready To Move,Bommanahalli,2 BHK,1160,2,3.0,5
+1873,Built-up  Area,Ready To Move,Lakshminarayana Pura,2 BHK,1200,2,1.0,5
+1874,Super built-up  Area,Ready To Move,7th Phase JP Nagar,2 BHK,1100,2,1.0,5
+1875,Carpet  Area,Ready To Move,Ramagondanahalli,3 BHK,1500,3,3.0,5
+1876,Super built-up  Area,18-May,Electronic City Phase II,3 BHK,1336,2,3.0,5
+1877,Built-up  Area,Ready To Move,Choodasandra,2 BHK,1065,2,1.0,5
+1878,Super built-up  Area,Ready To Move,Hebbal,2 BHK,1294,2,1.0,5
+1879,Super built-up  Area,Ready To Move,Rachenahalli,3 BHK,1550,3,2.0,5
+1880,Super built-up  Area,18-Dec,Whitefield,2 BHK,1216,2,1.0,5
+1881,Super built-up  Area,Ready To Move,Bank Of Baroda Colony,2 BHK,1005,2,2.0,5
+1882,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,1430,2,1.0,5
+1883,Super built-up  Area,18-Dec,Frazer Town,4 BHK,4100,4,3.0,5
+1884,Super built-up  Area,22-Jun,Hoodi,3 BHK,1660,3,2.0,5
+1885,Super built-up  Area,Ready To Move,Thanisandra,3 BHK,1430,2,3.0,5
+1886,Super built-up  Area,Ready To Move,Hennur Road,3 BHK,1470,2,1.0,5
+1887,Super built-up  Area,Ready To Move,Jalahalli,2 BHK,1045,2,1.0,5
+1888,Super built-up  Area,Ready To Move,Hebbal,4 BHK,4225,6,0.0,5
+1889,Built-up  Area,Ready To Move,Anjanapura,2 BHK,950,2,0.0,4
+1890,Super built-up  Area,Ready To Move,Doddathoguru,3 BHK,1382,3,1.0,5
+1891,Super built-up  Area,Ready To Move,BTM 2nd Stage,2 BHK,930,2,2.0,4
+1892,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1660,2,2.0,5
+1893,Super built-up  Area,Ready To Move,Vijinapura,2 BHK,1290,2,2.0,5
+1894,Built-up  Area,Ready To Move,Whitefield,3 BHK,1010,2,1.0,5
+1895,Built-up  Area,Ready To Move,Brookefield,4 BHK,3050,4,1.0,5
+1896,Super built-up  Area,Ready To Move,Dodda Nekkundi,2 BHK,1200,2,2.0,5
+1897,Built-up  Area,Ready To Move,3rd Block Hrbr Layout,3 BHK,1650,3,2.0,5
+1898,Super built-up  Area,Ready To Move,Budigere,3 BHK,1636,3,2.0,5
+1899,Super built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,2367,3,2.0,5
+1900,Super built-up  Area,Ready To Move,Budigere,2 BHK,1153,2,2.0,5
+1901,Super built-up  Area,Ready To Move,Hegde Nagar,3 BHK,2087,4,2.0,5
+1902,Super built-up  Area,Ready To Move,LB Shastri Nagar,2 BHK,1200,2,1.0,5
+1903,Super built-up  Area,Ready To Move,HSR Layout,3 BHK,1844,3,1.0,5
+1904,Super built-up  Area,18-Dec,Hosa Road,3 BHK,1538,3,1.0,5
+1905,Super built-up  Area,Ready To Move,Begur Road,2 BHK,1215,2,1.0,5
+1906,Super built-up  Area,18-Jul,Sarjapur  Road,2 BHK,1194,2,1.0,5
+1907,Built-up  Area,Ready To Move,Chennappa Layout,2 BHK,1220,2,2.0,5
+1908,Built-up  Area,Ready To Move,1st Block HBR Layout,4 BHK,3150,4,2.0,5
+1909,Super built-up  Area,21-Dec,Kanakpura Road,1 BHK,525,1,1.0,4
+1910,Super built-up  Area,18-May,Bommasandra,2 BHK,955,2,1.0,4
+1911,Built-up  Area,Ready To Move,Kadugondanahalli,5 BHK,2000,5,1.0,5
+1912,Super built-up  Area,18-Aug,Magadi Road,2 BHK,884,2,1.0,4
+1913,Super built-up  Area,Ready To Move,Kathriguppe,2 BHK,1250,2,1.0,5
+1914,Super built-up  Area,Ready To Move,Bommasandra Industrial Area,2 BHK,7000,2,1.0,6
+1915,Plot  Area,Ready To Move,Dodda Nekkundi,3 BHK,2400,4,2.0,5
+1916,Super built-up  Area,Ready To Move,Harlur,4 BHK,2990,4,1.0,5
+1917,Super built-up  Area,Ready To Move,Bellandur,2 BHK,1195,2,1.0,5
+1918,Super built-up  Area,Ready To Move,Sadhguru Layout,1 BHK,2559,1,1.0,5
+1919,Built-up  Area,18-Mar,Begur,2 BHK,1200,2,1.0,5
+1920,Super built-up  Area,18-Nov,Sarjapur  Road,2 BHK,984,2,1.0,4
+1921,Super built-up  Area,Ready To Move,Bommasandra,2 BHK,1089,2,1.0,5
+1922,Super built-up  Area,19-Mar,Hennur Road,2 BHK,1165,2,1.0,5
+1923,Super built-up  Area,Ready To Move,Chandapura,1 BHK,410,1,1.0,3
+1924,Super built-up  Area,18-Dec,Hennur,3 BHK,1482,3,1.0,5
+1925,Built-up  Area,Ready To Move,Ramamurthy Nagar,2 BHK,1200,2,1.0,5
+1926,Super built-up  Area,19-Dec,Kanakapura,3 BHK,1938,3,3.0,5
+1927,Super built-up  Area,18-Apr,Hormavu,3 BHK,1166,2,2.0,5
+1928,Super built-up  Area,Ready To Move,Chikkalasandra,3 BHK,1275,2,2.0,5
+1929,Super built-up  Area,Ready To Move,Mico Layout,2 BHK,1140,2,2.0,5
+1930,Plot  Area,Ready To Move,Hegde Nagar,4 BHK,3734,5,1.0,5
+1931,Super built-up  Area,Ready To Move,Tejaswini Nagar,1 BHK,720,1,2.0,4
+1932,Plot  Area,18-Apr,Nagarbhavi,3 BHK,1200,3,2.0,5
+1933,Built-up  Area,Ready To Move,Richards Town,2 BHK,1100,2,1.0,5
+1934,Super built-up  Area,Ready To Move,Sector 7 HSR Layout,2 BHK,1162,2,2.0,5
+1935,Built-up  Area,Ready To Move,Ramamurthy Nagar,1 BHK,540,1,0.0,4
+1936,Super built-up  Area,Ready To Move,Rachenahalli,3 BHK,1550,2,2.0,5
+1937,Plot  Area,Ready To Move,R.T. Nagar,3 BHK,1300,3,1.0,5
+1938,Plot  Area,Ready To Move,Ullal Road,5 BHK,1200,5,1.0,5
+1939,Super built-up  Area,Ready To Move,Chikbasavanapura,2 BHK,1220,2,2.0,5
+1940,Super built-up  Area,Ready To Move,Doddathoguru,2 BHK,964,2,1.0,4
+1941,Built-up  Area,21-Dec,"Electronic City Phase 1, ",3 BHK,1500,3,2.0,5
+1942,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1347,2,1.0,5
+1943,Super built-up  Area,Ready To Move,"JP Nagar 8th Phase, ",4 BHK,5000,5,2.0,5
+1944,Built-up  Area,Ready To Move,Bannerghatta Road,4 BHK,3000,4,2.0,5
+1945,Super built-up  Area,18-Jun,Bannerghatta,2 BHK,1120,2,1.0,5
+1946,Super built-up  Area,Ready To Move,Lake City,1 BHK,600,1,1.0,4
+1947,Super built-up  Area,18-Dec,Whitefield,3 BHK,2321,4,1.0,5
+1948,Super built-up  Area,Ready To Move,Bhagyalakshmi Avenue,1 BHK,540,1,2.0,4
+1949,Built-up  Area,Ready To Move,Hebbal,2 BHK,1150,2,1.0,5
+1950,Built-up  Area,Ready To Move,Sonnenahalli,3 BHK,1484,3,1.0,5
+1951,Super built-up  Area,Ready To Move,Ramagondanahalli,3 BHK,1680,2,2.0,5
+1952,Super built-up  Area,Ready To Move,Byagadadhenahalli,2 BHK,620,2,1.0,4
+1953,Super built-up  Area,Ready To Move,Dodda Banaswadi,3 BHK,1650,3,2.0,5
+1954,Super built-up  Area,18-Apr,Chuchangatta Colony,3 BHK,1250,3,2.0,5
+1955,Super built-up  Area,18-Aug,Hanuman Nagar,3 BHK,2072,3,2.0,5
+1956,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1105,2,2.0,5
+1957,Super built-up  Area,Ready To Move,Vidyaranyapura,2 BHK,1200,2,2.0,5
+1958,Built-up  Area,Ready To Move,Kumaraswami Layout,7 BHK,3100,7,3.0,5
+1959,Plot  Area,Ready To Move,Whitefield,4 BHK,4007,4,3.0,5
+1960,Super built-up  Area,Ready To Move,Electronic City,2 BHK,550,2,1.0,4
+1961,Super built-up  Area,Ready To Move,Banashankari,3 BHK,1340,2,2.0,5
+1962,Super built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,2409,3,3.0,5
+1963,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1194,2,2.0,5
+1964,Super built-up  Area,Ready To Move,Vittasandra,2 BHK,1246,2,1.0,5
+1965,Built-up  Area,Ready To Move,Old Airport Road,2 BHK,1055,2,3.0,5
+1966,Super built-up  Area,18-Dec,Hosa Road,3 BHK,1541,3,1.0,5
+1967,Built-up  Area,Ready To Move,Harlur,2 BHK,1370,2,2.0,5
+1968,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1224,2,2.0,5
+1969,Plot  Area,Ready To Move,Kengeri Satellite Town,4 BHK,650,2,1.0,4
+1970,Built-up  Area,Ready To Move,Kambipura,2 BHK,883,2,1.0,4
+1971,Super built-up  Area,Ready To Move,Yeshwanthpur,3 BHK,1676,3,2.0,5
+1972,Built-up  Area,Ready To Move,Shree Ananth Nagar Layout,2 BHK,1154,2,1.0,5
+1973,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1610,3,3.0,5
+1974,Super built-up  Area,Ready To Move,Devasthanagalu,2 BHK,1057,2,1.0,5
+1975,Super built-up  Area,18-Jul,Raja Rajeshwari Nagar,2 BHK,1157,2,1.0,5
+1976,Plot  Area,18-May,Doddagubbi,4 BHK,1200,4,1.0,5
+1977,Plot  Area,Ready To Move,Dasappa Layout,7 BHK,1500,7,3.0,5
+1978,Super built-up  Area,Ready To Move,Gulimangala,2 BHK,980,2,3.0,4
+1979,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1140,2,1.0,5
+1980,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1206,2,1.0,5
+1981,Built-up  Area,Ready To Move,Electronic City Phase II,1 BHK,575,1,1.0,4
+1982,Super built-up  Area,Ready To Move,Koramangala,3 BHK,1600,3,1.0,5
+1983,Plot  Area,Ready To Move,1st Stage Indira Nagar,4 BHK,2400,4,1.0,5
+1984,Super built-up  Area,Ready To Move,Horamavu Agara,3 BHK,1300,2,2.0,5
+1985,Super built-up  Area,18-Dec,Tunganagara,3 BHK,1270,2,1.0,5
+1986,Super built-up  Area,18-Apr,Electronic City,2 BHK,1128,2,1.0,5
+1987,Super built-up  Area,Ready To Move,Electronics City Phase 1,1 BHK,640,1,1.0,4
+1988,Super built-up  Area,Ready To Move,4th T block Jayanagar,3 BHK,2400,3,2.0,5
+1989,Plot  Area,Ready To Move,TC Palaya,3 BHK,1200,2,0.0,5
+1990,Super built-up  Area,Ready To Move,Kanakapura,2 BHK,1090,2,2.0,5
+1991,Super built-up  Area,Ready To Move,Electronic City,1 BHK,589,1,1.0,4
+1992,Super built-up  Area,18-Apr,Electronic City,2 BHK,1125,2,1.0,5
+1993,Super built-up  Area,Ready To Move,Kogilu,2 BHK,1140,2,2.0,5
+1994,Plot  Area,Ready To Move,Sarjapur  Road,4 BHK,3150,4,2.0,5
+1995,Super built-up  Area,Ready To Move,Kundalahalli,2 BHK,1315,2,3.0,5
+1996,Plot  Area,Ready To Move,Billamaranahalli,2 BHK,2700,2,2.0,5
+1997,Super built-up  Area,Ready To Move,Bellandur,3 BHK,1435,2,2.0,5
+1998,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1092,2,2.0,5
+1999,Super built-up  Area,18-May,Kadugodi,2 BHK,1314,2,3.0,5
+2000,Super built-up  Area,Ready To Move,Koramangala,2 BHK,1260,2,1.0,5
+2001,Plot  Area,Ready To Move,Srirampura,7 BHK,1875,5,1.0,5
+2002,Super built-up  Area,Ready To Move,Nagarbhavi,2 BHK,1080,2,1.0,5
+2003,Built-up  Area,Ready To Move,Nagasandra,8 BHK,4000,8,3.0,5
+2004,Super built-up  Area,18-Feb,Mysore Road,3 BHK,1082,2,1.0,5
+2005,Super built-up  Area,Ready To Move,Jakkur,3 BHK,1150,3,2.0,5
+2006,Super built-up  Area,18-Dec,Hennur Road,2 BHK,1052,2,1.0,5
+2007,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1045,2,1.0,5
+2008,Built-up  Area,Ready To Move,Kodigehaali,3 BHK,1442,3,2.0,5
+2009,Super built-up  Area,Ready To Move,Kaggadasapura,3 BHK,1500,2,2.0,5
+2010,Super built-up  Area,Ready To Move,Marsur,2 BHK,497,1,1.0,3
+2011,Super built-up  Area,Ready To Move,Hennur,2 BHK,1255,2,1.0,5
+2012,Super built-up  Area,22-Jan,Vajarahalli,3 BHK,1432,3,2.0,5
+2013,Built-up  Area,Ready To Move,Kundalahalli,3 BHK,2100,3,2.0,5
+2014,Built-up  Area,Ready To Move,Hennur Road,2 BHK,1450,2,2.0,5
+2015,Super built-up  Area,18-May,Sarjapur  Road,2 BHK,1346,2,1.0,5
+2016,Super built-up  Area,Ready To Move,Kumaraswami Layout,2 BHK,1200,2,2.0,5
+2017,Super built-up  Area,Ready To Move,Electronic City Phase II,3 BHK,925,2,1.0,4
+2018,Super built-up  Area,Ready To Move,Dasarahalli,2 BHK,1160,2,2.0,5
+2019,Super built-up  Area,18-Apr,Lingadheeranahalli,3 BHK,1768,3,3.0,5
+2020,Super built-up  Area,Ready To Move,Kothanur,2 BHK,1094,2,2.0,5
+2021,Super built-up  Area,Ready To Move,Seetharampalya,3 BHK,1500,3,3.0,5
+2022,Built-up  Area,Ready To Move,Gubbalala,3 BHK,1745,3,2.0,5
+2023,Built-up  Area,Ready To Move,Bommanahalli,7 BHK,2875,7,2.0,5
+2024,Super built-up  Area,Ready To Move,Byadarahalli,4 BHK,3500,3,3.0,5
+2025,Super built-up  Area,Ready To Move,Sonnenahalli,3 BHK,1550,3,1.0,5
+2026,Super built-up  Area,Ready To Move,Rajiv Nagar,4 BHK,2340,5,1.0,5
+2027,Super built-up  Area,19-Mar,Whitefield,3 BHK,1655,3,2.0,5
+2028,Super built-up  Area,19-Jan,Battarahalli,3 BHK,2024,3,2.0,5
+2029,Built-up  Area,Ready To Move,Siddapura,4 BHK,3100,5,0.0,5
+2030,Super built-up  Area,Ready To Move,Jalahalli,3 BHK,1575,4,3.0,5
+2031,Super built-up  Area,18-Dec,Iblur Village,3 BHK,1920,3,2.0,5
+2032,Built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,6200,4,2.0,6
+2033,Super built-up  Area,Ready To Move,Kambipura,3 BHK,1082,2,1.0,5
+2034,Super built-up  Area,Ready To Move,BTM 2nd Stage,3 BHK,1265,2,3.0,5
+2035,Super built-up  Area,Ready To Move,Kengeri Satellite Town KHB Apartment,3 BHK,1100,2,2.0,5
+2036,Plot  Area,Ready To Move,Margondanahalli,2 BHK,1160,2,1.0,5
+2037,Super built-up  Area,Ready To Move,Vittasandra,2 BHK,1246,2,1.0,5
+2038,Super built-up  Area,19-Mar,Hosa Road,1 BHK,615,1,1.0,4
+2039,Super built-up  Area,Ready To Move,7th Phase JP Nagar,2 BHK,1128,2,1.0,5
+2040,Super built-up  Area,Ready To Move,Tirumanahalli,2 BHK,1260,2,1.0,5
+2041,Super built-up  Area,Ready To Move,Bellandur,3 BHK,1830,3,3.0,5
+2042,Super built-up  Area,Ready To Move,Sarjapur,3 BHK,1525,2,2.0,5
+2043,Super built-up  Area,18-Jan,Yelahanka,1 BHK,602,2,1.0,4
+2044,Built-up  Area,Ready To Move,Kumaraswami Layout,7 BHK,3000,4,2.0,5
+2045,Super built-up  Area,Ready To Move,Hegde Nagar,3 BHK,1835,3,3.0,5
+2046,Built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1250,3,3.0,5
+2047,Plot  Area,Ready To Move,Subhash Nagar,4 BHK,1200,4,1.0,5
+2048,Super built-up  Area,Ready To Move,Murugeshpalya,3 BHK,1855,3,3.0,5
+2049,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1450,3,3.0,5
+2050,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,2089,3,2.0,5
+2051,Super built-up  Area,Ready To Move,Haralur Road,3 BHK,1464,3,2.0,5
+2052,Plot  Area,Ready To Move,Banashankari Stage VI,4 BHK,4800,3,2.0,5
+2053,Built-up  Area,Ready To Move,Begur Road,2 BHK,1200,2,2.0,5
+2054,Super built-up  Area,Ready To Move,Sarjapur,2 BHK,1095,2,1.0,5
+2055,Plot  Area,Ready To Move,Ambedkar Nagar,3 BHK,2900,3,2.0,5
+2056,Super built-up  Area,Ready To Move,BTM 2nd Stage,3 BHK,2500,3,2.0,5
+2057,Built-up  Area,Ready To Move,Kothanur,3 BHK,1170,3,2.0,5
+2058,Super built-up  Area,Ready To Move,6th Phase JP Nagar,2 BHK,1280,2,1.0,5
+2059,Super built-up  Area,18-Jul,Rajaji Nagar,2 BHK,1224,2,0.0,5
+2060,Built-up  Area,Ready To Move,Thanisandra,3 BHK,1694,3,1.0,5
+2061,Super built-up  Area,Ready To Move,Electronic City,2 BHK,825,2,1.0,4
+2062,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1612,3,1.0,5
+2063,Super built-up  Area,18-Aug,Chandapura,2 BHK,985,2,1.0,4
+2064,Super built-up  Area,Ready To Move,Murugeshpalya,2 BHK,1175,2,2.0,5
+2065,Plot  Area,Ready To Move,Sunkadakatte,1 BHK,600,1,0.0,4
+2066,Built-up  Area,Ready To Move,Whitefield,3 BHK,1740,3,3.0,5
+2067,Super built-up  Area,Ready To Move,Carmelaram,3 BHK,1770,3,2.0,5
+2068,Plot  Area,Ready To Move,HAL 2nd Stage,8 BHK,1000,7,3.0,4
+2069,Super built-up  Area,18-Aug,Horamavu Agara,2 BHK,1090,2,1.0,5
+2070,Plot  Area,Ready To Move,Vasanth nagar,6 BHK,2295,3,0.0,5
+2071,Built-up  Area,Ready To Move,Whitefield,5 BHK,4144,5,1.0,5
+2072,Super built-up  Area,Ready To Move,Jogupalya,3 BHK,1800,3,1.0,5
+2073,Super built-up  Area,Ready To Move,Jigani,3 BHK,1221,3,3.0,5
+2074,Super built-up  Area,18-Jun,8th Phase JP Nagar,2 BHK,1046,2,1.0,5
+2075,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1290,2,3.0,5
+2076,Built-up  Area,18-Dec,Electronic City Phase II,2 BHK,1065,2,1.0,5
+2077,Super built-up  Area,Ready To Move,Ambedkar Nagar,3 BHK,1850,4,2.0,5
+2078,Super built-up  Area,Ready To Move,Battarahalli,2 BHK,1097,2,1.0,5
+2079,Super built-up  Area,Ready To Move,Kalena Agrahara,2 BHK,1200,3,2.0,5
+2080,Super built-up  Area,Ready To Move,Varthur,3 BHK,2160,3,2.0,5
+2081,Super built-up  Area,18-May,Anekal,2 BHK,1140,2,2.0,5
+2082,Super built-up  Area,Ready To Move,Thigalarapalya,2 BHK,1297,2,2.0,5
+2083,Super built-up  Area,Ready To Move,Padmanabhanagar,2 BHK,1150,2,0.0,5
+2084,Super built-up  Area,Ready To Move,Kuvempu Nagar,2 BHK,1375,2,1.0,5
+2085,Super built-up  Area,Ready To Move,Babusapalaya,2 BHK,1245,2,2.0,5
+2086,Super built-up  Area,18-Mar,Vasanth nagar,4 BHK,4750,6,1.0,5
+2087,Built-up  Area,Ready To Move,Nagarbhavi,4 BHK,1800,3,0.0,5
+2088,Super built-up  Area,Ready To Move,Brookefield,3 BHK,1594,3,2.0,5
+2089,Plot  Area,Ready To Move,TC Palaya,3 BHK,1200,2,0.0,5
+2090,Super built-up  Area,18-Aug,Chandapura,1 BHK,645,1,1.0,4
+2091,Super built-up  Area,20-Dec,Kanakpura Road,2 BHK,700,2,2.0,4
+2092,Built-up  Area,Ready To Move,Rajaji Nagar,5 BHK,2500,4,0.0,5
+2093,Built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1000,2,0.0,4
+2094,Plot  Area,Ready To Move,Whitefield,6 BHK,4000,5,1.0,5
+2095,Super built-up  Area,Ready To Move,Begur Road,2 BHK,1160,2,2.0,5
+2096,Plot  Area,Ready To Move,Uday Nagar,6 BHK,1200,6,0.0,5
+2097,Plot  Area,Ready To Move,OMBR Layout,5 BHK,600,3,0.0,4
+2098,Super built-up  Area,Ready To Move,Gopalkrishna Nagar,3 BHK,1570,2,2.0,5
+2099,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1290,2,2.0,5
+2100,Super built-up  Area,Ready To Move,Kudlu Gate,2 BHK,1200,2,1.0,5
+2101,Super built-up  Area,20-Apr,Langford Gardens,3 BHK,2777,5,2.0,5
+2102,Super built-up  Area,Ready To Move,Shanti Nagar,3 BHK,2250,3,0.0,5
+2103,Built-up  Area,Ready To Move,Defence Colony,2 BHK,1270,2,1.0,5
+2104,Super built-up  Area,Ready To Move,Akshayanagara East,2 BHK,1145,2,2.0,5
+2105,Super built-up  Area,Ready To Move,Chikkabanavar,3 BHK,1320,2,2.0,5
+2106,Built-up  Area,18-Aug,Electronic City Phase II,2 BHK,1065,2,1.0,5
+2107,Built-up  Area,18-Mar,Whitefield,3 BHK,1650,3,2.0,5
+2108,Super built-up  Area,18-Apr,Sarjapur  Road,2 BHK,1371,2,1.0,5
+2109,Built-up  Area,Ready To Move,Doddanakunte,5 BHK,2700,5,2.0,5
+2110,Super built-up  Area,Ready To Move,Electronic City,3 BHK,1575,3,1.0,5
+2111,Super built-up  Area,18-Jan,Yelahanka,2 BHK,1362,2,2.0,5
+2112,Built-up  Area,18-Mar,Bettahalsoor,5 BHK,3210,4,1.0,5
+2113,Super built-up  Area,Ready To Move,Haralur Road,3 BHK,1255,3,1.0,5
+2114,Super built-up  Area,Ready To Move,Whitefield,2 BHK,925,2,1.0,4
+2115,Super built-up  Area,19-Dec,Electronics City Phase 1,2 BHK,1088,2,1.0,5
+2116,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1234,2,2.0,5
+2117,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,2140,3,2.0,5
+2118,Super built-up  Area,Ready To Move,Thubarahalli,3 BHK,1584,3,2.0,5
+2119,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1175,2,2.0,5
+2120,Super built-up  Area,Ready To Move,Sarjapura - Attibele Road,3 BHK,1555,3,3.0,5
+2121,Super built-up  Area,18-Jul,Chandapura,1 BHK,645,1,1.0,4
+2122,Super built-up  Area,Ready To Move,Dodda Nekkundi,3 BHK,1585,2,2.0,5
+2123,Super built-up  Area,Ready To Move,Kalena Agrahara,2 BHK,1354,2,2.0,5
+2124,Super built-up  Area,18-Jun,Madiwala,2 BHK,1165,2,2.0,5
+2125,Built-up  Area,Ready To Move,Kumaraswami Layout,3 BHK,1200,3,1.0,5
+2126,Super built-up  Area,Ready To Move,Hebbal,3 BHK,1740,2,1.0,5
+2127,Plot  Area,Ready To Move,Hebbal,9 BHK,1200,9,1.0,5
+2128,Super built-up  Area,20-Dec,Rachenahalli,2 BHK,985,2,1.0,4
+2129,Plot  Area,18-Nov,Chandapura,2 BHK,1200,2,1.0,5
+2130,Plot  Area,Ready To Move,Kattigenahalli,3 BHK,600,4,2.0,4
+2131,Super built-up  Area,Ready To Move,Duddanahalli,3 BHK,1340,2,2.0,5
+2132,Super built-up  Area,20-Aug,Begur Road,3 BHK,1583,3,1.0,5
+2133,Plot  Area,Ready To Move,"Beml layout, Rajarajeshwari nagar",4 BHK,1200,5,2.0,5
+2134,Plot  Area,Ready To Move,Basaveshwara Nagar,2 BHK,1200,1,1.0,5
+2135,Super built-up  Area,22-Dec,Bannerghatta Road,2 BHK,1122,2,0.0,5
+2136,Super built-up  Area,17-Dec,Thanisandra,3 BHK,1573,3,2.0,5
+2137,Super built-up  Area,18-Jan,CV Raman Nagar,2 BHK,1227,2,2.0,5
+2138,Super built-up  Area,Ready To Move,Yemlur,2 BHK,1210,2,1.0,5
+2139,Super built-up  Area,19-Feb,Basavangudi,3 BHK,1650,3,3.0,5
+2140,Plot  Area,Ready To Move,Chikkalasandra,5 BHK,1000,4,2.0,4
+2141,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3 BHK,1485,2,2.0,5
+2142,Super built-up  Area,Ready To Move,Haralur Road,3 BHK,1735,3,2.0,5
+2143,Super built-up  Area,Ready To Move,Hebbal Kempapura,3 BHK,1730,3,2.0,5
+2144,Super built-up  Area,Ready To Move,Sector 1 HSR Layout,3 BHK,1684,3,2.0,5
+2145,Super built-up  Area,Ready To Move,Sai Gardens,3 BHK,1686,3,3.0,5
+2146,Super built-up  Area,Ready To Move,Bikasipura,3 BHK,1654,3,3.0,5
+2147,Built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1600,3,3.0,5
+2148,Built-up  Area,Ready To Move,KR Puram,2 BHK,1100,2,1.0,5
+2149,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1655,3,3.0,5
+2150,Super built-up  Area,Ready To Move,Hennur,3 BHK,1830,3,3.0,5
+2151,Super built-up  Area,18-Apr,Hebbal,3 BHK,1430,3,1.0,5
+2152,Super built-up  Area,Ready To Move,Judicial Layout,3 BHK,1989,4,3.0,5
+2153,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1044,2,2.0,5
+2154,Super built-up  Area,Ready To Move,Banashankari,3 BHK,1426,3,2.0,5
+2155,Super built-up  Area,Ready To Move,Choodasandra,2 BHK,1115,2,2.0,5
+2156,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1000,2,1.0,4
+2157,Plot  Area,18-Jan,Kathriguppe,2 BHK,754,2,0.0,4
+2158,Built-up  Area,18-Dec,Electronic City Phase II,2 BHK,1140,2,1.0,5
+2159,Super built-up  Area,Ready To Move,Kodichikkanahalli,2 BHK,900,2,1.0,4
+2160,Built-up  Area,Ready To Move,Gulakamale,2 BHK,1200,2,3.0,5
+2161,Built-up  Area,Ready To Move,Malleshwaram,1 BHK,580,1,1.0,4
+2162,Plot  Area,Ready To Move,TC Palaya,3 BHK,1200,2,0.0,5
+2163,Super built-up  Area,18-Apr,Munnekollal,2 BHK,1030,2,1.0,5
+2164,Super built-up  Area,Ready To Move,Koramangala,3 BHK,1910,4,3.0,5
+2165,Super built-up  Area,Ready To Move,Mahalakshmi Puram,3 BHK,1950,3,3.0,5
+2166,Super built-up  Area,Ready To Move,Kundalahalli,3 BHK,1724,3,1.0,5
+2167,Plot  Area,Ready To Move,Konanakunte Cross,3 BHK,1200,2,2.0,5
+2168,Plot  Area,Ready To Move,Rajaji Nagar,2 BHK,1314,2,0.0,5
+2169,Built-up  Area,Ready To Move,Kothanur,2 BHK,1400,2,2.0,5
+2170,Super built-up  Area,Ready To Move,Kaggadasapura,3 BHK,1400,2,2.0,5
+2171,Super built-up  Area,Ready To Move,Hulimavu,2 BHK,1115,2,2.0,5
+2172,Built-up  Area,Ready To Move,Bharathi Nagar,2 BHK,1300,2,2.0,5
+2173,Built-up  Area,Ready To Move,Arishinakunte,4 BHK,2400,4,1.0,5
+2174,Super built-up  Area,19-Jul,Kanakpura Road,2 BHK,1332,2,1.0,5
+2175,Super built-up  Area,Ready To Move,Abbigere,2 BHK,1000,2,1.0,4
+2176,Plot  Area,18-Dec,Whitefield,3 BHK,1200,3,2.0,5
+2177,Built-up  Area,Ready To Move,Whitefield,4 BHK,2444,4,1.0,5
+2178,Super built-up  Area,Ready To Move,Electronic City,2 BHK,1070,2,1.0,5
+2179,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1600,3,1.0,5
+2180,Super built-up  Area,Ready To Move,Marathahalli,2 BHK,1196,2,2.0,5
+2181,Super built-up  Area,Ready To Move,Electronic City,2 BHK,1025,2,1.0,5
+2182,Super built-up  Area,Ready To Move,Choodasandra,3 BHK,1220,3,2.0,5
+2183,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,2180,4,3.0,5
+2184,Super built-up  Area,Ready To Move,Jakkasandra,3 BHK,1600,3,2.0,5
+2185,Built-up  Area,Ready To Move,Whitefield,2 BHK,1270,2,1.0,5
+2186,Built-up  Area,Ready To Move,Shanthala Nagar,3 BHK,3290,4,2.0,5
+2187,Super built-up  Area,22-May,Jakkur,3 BHK,1932,3,2.0,5
+2188,Super built-up  Area,Ready To Move,Jalahalli,3 BHK,2086,3,2.0,5
+2189,Super built-up  Area,19-Dec,Old Madras Road,2 BHK,1165,2,1.0,5
+2190,Super built-up  Area,Ready To Move,Marathahalli,3 BHK,1310,3,1.0,5
+2191,Super built-up  Area,Ready To Move,Rajaji Nagar,2 BHK,1440,2,2.0,5
+2192,Super built-up  Area,Ready To Move,Electronics City Phase 1,3 BHK,1900,3,2.0,5
+2193,Built-up  Area,Ready To Move,Chandapura,2 BHK,740,1,1.0,4
+2194,Super built-up  Area,Ready To Move,Yeshwanthpur,3 BHK,2503,3,3.0,5
+2195,Super built-up  Area,Ready To Move,5th Phase JP Nagar,2 BHK,1075,2,2.0,5
+2196,Super built-up  Area,18-Aug,Bellandur,2 BHK,1260,2,2.0,5
+2197,Super built-up  Area,Ready To Move,Yelahanka,3 BHK,1282,2,1.0,5
+2198,Built-up  Area,Ready To Move,Tumkur Road,4 BHK,1100,2,1.0,5
+2199,Super built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1717,3,3.0,5
+2200,Super built-up  Area,18-May,Chellikere,2 BHK,1088,2,2.0,5
+2201,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3 BHK,1335,2,1.0,5
+2202,Super built-up  Area,Ready To Move,Vidyaranyapura,2 BHK,1200,2,1.0,5
+2203,Super built-up  Area,Ready To Move,Garudachar Palya,3 BHK,1325,2,2.0,5
+2204,Super built-up  Area,Ready To Move,JP Nagar,2 BHK,1157,2,1.0,5
+2205,Super built-up  Area,21-Dec,KR Puram,4 BHK,2283,4,2.0,5
+2206,Super built-up  Area,Ready To Move,Sahakara Nagar,2 BHK,1200,2,1.0,5
+2207,Super built-up  Area,Ready To Move,Pai Layout,3 BHK,1510,2,2.0,5
+2208,Super built-up  Area,Ready To Move,Bommanahalli,2 BHK,1050,2,2.0,5
+2209,Super built-up  Area,Ready To Move,Chikkadunnasandra,2 BHK,1200,2,2.0,5
+2210,Super built-up  Area,18-May,Binny Pete,3 BHK,1516,3,1.0,5
+2211,Plot  Area,Ready To Move,Indira Nagar,6 BHK,2400,6,2.0,5
+2212,Super built-up  Area,18-Dec,Channasandra,2 BHK,1050,2,1.0,5
+2213,Plot  Area,Ready To Move,Hegde Nagar,2 BHK,1000,2,0.0,4
+2214,Super built-up  Area,18-Mar,9th Phase JP Nagar,2 BHK,1050,2,2.0,5
+2215,Plot  Area,Ready To Move,JP Nagar,4 BHK,600,5,2.0,4
+2216,Super built-up  Area,Ready To Move,BEML Layout,2 BHK,1194,2,1.0,5
+2217,Plot  Area,Ready To Move,Ananth Nagar,4 BHK,600,3,2.0,4
+2218,Super built-up  Area,Ready To Move,Hormavu,2 BHK,1210,2,3.0,5
+2219,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1660,3,1.0,5
+2220,Super built-up  Area,Ready To Move,Malleshwaram,2 BHK,1410,2,3.0,5
+2221,Super built-up  Area,18-Jun,Electronics City Phase 1,2 BHK,1305,2,1.0,5
+2222,Built-up  Area,Ready To Move,Kavika Layout,6 BHK,1800,6,2.0,5
+2223,Built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,1206,2,3.0,5
+2224,Super built-up  Area,Ready To Move,Kambipura,2 BHK,883,2,1.0,4
+2225,Super built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,1150,2,2.0,5
+2226,Carpet  Area,Ready To Move,Dinnur,2 BHK,1100,2,2.0,5
+2227,Super built-up  Area,Ready To Move,Banashankari Stage II,2 BHK,1245,2,1.0,5
+2228,Built-up  Area,Ready To Move,Cooke Town,3 BHK,1850,3,3.0,5
+2229,Built-up  Area,18-Mar,Hoodi,4 BHK,3385,4,1.0,5
+2230,Super built-up  Area,Ready To Move,Sompura,4 BHK,2150,3,2.0,5
+2231,Super built-up  Area,Ready To Move,Hebbal,3 BHK,3895,3,1.0,5
+2232,Super built-up  Area,17-Sep,Lingarajapuram,2 BHK,1035,2,2.0,5
+2233,Super built-up  Area,Ready To Move,Nandini Layout,2 BHK,600,3,2.0,4
+2234,Super built-up  Area,Ready To Move,Zuzuvadi,3 BHK,1200,3,3.0,5
+2235,Super built-up  Area,Ready To Move,Hennur Road,2 BHK,1155,2,1.0,5
+2236,Plot  Area,Ready To Move,BCC Layout,7 BHK,1200,6,2.0,5
+2237,Super built-up  Area,Ready To Move,Electronics City Phase 1,1 BHK,755,1,0.0,4
+2238,Built-up  Area,Ready To Move,Ramamurthy Nagar,2 BHK,960,2,2.0,4
+2239,Super built-up  Area,Ready To Move,Harsha Layout,1 BHK,450,1,1.0,3
+2240,Super built-up  Area,Ready To Move,Infantry Road,5 BHK,4000,5,2.0,5
+2241,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3 BHK,1571,3,3.0,5
+2242,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1691,3,2.0,5
+2243,Super built-up  Area,19-Dec,Kanakapura,3 BHK,1489,2,1.0,5
+2244,Built-up  Area,Ready To Move,Kengeri Satellite Town,2 BHK,800,2,1.0,4
+2245,Built-up  Area,Ready To Move,Jalahalli,3 BHK,980,2,2.0,4
+2246,Super built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,1215,2,1.0,5
+2247,Super built-up  Area,Ready To Move,Electronic City Phase II,2 BHK,911,2,1.0,4
+2248,Super built-up  Area,Ready To Move,Bellandur,3 BHK,1535,3,2.0,5
+2249,Plot  Area,Ready To Move,5th Block Hbr Layout,5 BHK,1200,5,1.0,5
+2250,Super built-up  Area,Ready To Move,R.T. Nagar,3 BHK,1500,2,1.0,5
+2251,Built-up  Area,Ready To Move,Brookefield,2 BHK,1588,2,3.0,5
+2252,Plot  Area,Ready To Move,Horamavu Banaswadi,4 BHK,675,4,2.0,4
+2253,Built-up  Area,17-Sep,Kannamangala,2 BHK,957,2,2.0,4
+2254,Built-up  Area,18-Aug,Electronic City Phase II,2 BHK,1200,2,1.0,5
+2255,Super built-up  Area,Ready To Move,Kanakapura main  Road,3 BHK,1495,2,2.0,5
+2256,Built-up  Area,Ready To Move,Bisuvanahalli,2 BHK,845,2,0.0,4
+2257,Built-up  Area,Ready To Move,Padmanabhanagar,4 BHK,3000,4,2.0,5
+2258,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,2206,4,1.0,5
+2259,Super built-up  Area,Ready To Move,Kasavanhalli,2 BHK,1181,2,1.0,5
+2260,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1309,2,3.0,5
+2261,Built-up  Area,Ready To Move,Horamavu Agara,3 BHK,1400,3,3.0,5
+2262,Plot  Area,Ready To Move,B Channasandra,5 BHK,1650,5,1.0,5
+2263,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1622,3,2.0,5
+2264,Super built-up  Area,18-Apr,CV Raman Nagar,2 BHK,1225,2,2.0,5
+2265,Super built-up  Area,Ready To Move,Jakkur Plantation,3 BHK,1719,3,3.0,5
+2266,Super built-up  Area,Ready To Move,Abbigere,2 BHK,995,2,1.0,4
+2267,Super built-up  Area,Ready To Move,Mahadevpura,2 BHK,1120,2,2.0,5
+2268,Super built-up  Area,Ready To Move,Bellandur,2 BHK,1047,2,1.0,5
+2269,Super built-up  Area,18-Apr,Devanahalli,3 BHK,1466,3,3.0,5
+2270,Super built-up  Area,18-Dec,Sarjapur  Road,3 BHK,1691,3,2.0,5
+2271,Super built-up  Area,20-Dec,Chandapura,2 BHK,876,2,2.0,4
+2272,Super built-up  Area,18-May,CV Raman Nagar,3 BHK,1659,3,1.0,5
+2273,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1270,2,1.0,5
+2274,Super built-up  Area,Ready To Move,8th Phase JP Nagar,3 BHK,1269,2,3.0,5
+2275,Super built-up  Area,Ready To Move,Kammanahalli,2 BHK,1200,3,2.0,5
+2276,Super built-up  Area,Ready To Move,Budigere,2 BHK,1153,2,2.0,5
+2277,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1315,2,2.0,5
+2278,Plot  Area,Ready To Move,Hebbal Kempapura,4 BHK,2485,4,2.0,5
+2279,Super built-up  Area,Ready To Move,Tumkur Road,3 BHK,1354,3,1.0,5
+2280,Plot  Area,Ready To Move,Whitefield,4 BHK,1344,3,1.0,5
+2281,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1180,2,1.0,5
+2282,Super built-up  Area,18-Apr,Jalahalli,2 BHK,1313,2,2.0,5
+2283,Super built-up  Area,Ready To Move,Nehru Nagar,2 BHK,1100,2,2.0,5
+2284,Plot  Area,Ready To Move,Nagarbhavi,4 BHK,600,4,1.0,4
+2285,Built-up  Area,Ready To Move,Basaveshwara Nagar,3 BHK,1200,3,0.0,5
+2286,Plot  Area,Ready To Move,Srinagar,6 BHK,625,3,3.0,4
+2287,Super built-up  Area,Ready To Move,Vishwapriya Layout,2 BHK,890,2,3.0,4
+2288,Super built-up  Area,20-Dec,Whitefield,2 BHK,1173,2,1.0,5
+2289,Super built-up  Area,Ready To Move,Reliaable Tranquil Layout,2 BHK,1190,2,1.0,5
+2290,Built-up  Area,Ready To Move,Green Glen Layout,2 BHK,1250,2,0.0,5
+2291,Super built-up  Area,19-Dec,Hoodi,3 BHK,1644,3,3.0,5
+2292,Plot  Area,Ready To Move,Yelahanka New Town,3 BHK,1740,3,2.0,5
+2293,Super built-up  Area,Ready To Move,Jakkur,3 BHK,1710,3,2.0,5
+2294,Plot  Area,Ready To Move,5th Phase JP Nagar,4 BHK,1000,4,2.0,4
+2295,Super built-up  Area,18-Feb,Hebbal,3 BHK,1662,3,2.0,5
+2296,Super built-up  Area,Ready To Move,Virupakshapura,2 BHK,1162,2,1.0,5
+2297,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1362,2,3.0,5
+2298,Super built-up  Area,Ready To Move,Bhagyalakshmi Avenue,1 BHK,540,1,1.0,4
+2299,Super built-up  Area,18-Nov,Thanisandra,3 BHK,1533,3,0.0,5
+2300,Plot  Area,Ready To Move,Masjid e Alkareem,5 BHK,900,4,1.0,4
+2301,Plot  Area,Ready To Move,Sarjapur  Road,4 BHK,1250,4,2.0,5
+2302,Super built-up  Area,Ready To Move,Begur Road,3 BHK,1410,2,3.0,5
+2303,Plot  Area,Ready To Move,Chikka Tirupathi,4 BHK,2665,5,3.0,5
+2304,Built-up  Area,Ready To Move,Singapura Village,2 BHK,970,2,0.0,4
+2305,Built-up  Area,Ready To Move,Kavika Layout,6 BHK,1799,6,3.0,5
+2306,Plot  Area,Ready To Move,8th Block Jayanagar,6 BHK,1500,6,1.0,5
+2307,Plot  Area,Ready To Move,Uttarahalli,4 BHK,1200,4,3.0,5
+2308,Super built-up  Area,18-Dec,Haralur Road,3 BHK,1810,3,2.0,5
+2309,Super built-up  Area,Ready To Move,Sathya Layout,2 BHK,1084,2,1.0,5
+2310,Super built-up  Area,Ready To Move,Doddabanahalli,3 BHK,1500,3,2.0,5
+2311,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1328,2,1.0,5
+2312,Built-up  Area,Ready To Move,Marathahalli,3 BHK,1485,2,2.0,5
+2313,Super built-up  Area,Ready To Move,Pai Layout,3 BHK,1500,2,2.0,5
+2314,Super built-up  Area,Ready To Move,R.T. Nagar,2 BHK,1100,2,2.0,5
+2315,Super built-up  Area,Ready To Move,Seetharampalya,3 BHK,1360,2,2.0,5
+2316,Super built-up  Area,Ready To Move,1st Phase JP Nagar,2 BHK,900,2,1.0,4
+2317,Plot  Area,Ready To Move,SMV layout,3 BHK,600,3,3.0,4
+2318,Super built-up  Area,Ready To Move,Electronic City Phase II,2 BHK,1031,2,1.0,5
+2319,Super built-up  Area,20-Aug,Whitefield,2 BHK,955,2,0.0,4
+2320,Super built-up  Area,Ready To Move,Uttarahalli,2 BHK,1040,2,2.0,5
+2321,Built-up  Area,Ready To Move,KR Puram,7 BHK,2800,6,1.0,5
+2322,Super built-up  Area,Ready To Move,Kothannur,3 BHK,1404,2,1.0,5
+2323,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1200,2,2.0,5
+2324,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1267,3,1.0,5
+2325,Super built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1510,2,3.0,5
+2326,Super built-up  Area,21-Sep,Kanakpura Road,2 BHK,900,2,1.0,4
+2327,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1457,2,2.0,5
+2328,Super built-up  Area,Ready To Move,Iblur Village,4 BHK,3596,4,2.0,5
+2329,Super built-up  Area,19-Mar,8th Phase JP Nagar,3 BHK,1408,3,2.0,5
+2330,Built-up  Area,Ready To Move,Dodda Nekkundi,2 BHK,1005,2,2.0,5
+2331,Plot  Area,Ready To Move,Dodsworth Layout,6 BHK,30400,4,2.0,9
+2332,Built-up  Area,Ready To Move,Electronic City Phase II,2 BHK,545,1,1.0,4
+2333,Built-up  Area,Ready To Move,"Sarjapur Road, ",2 BHK,1182,2,1.0,5
+2334,Super built-up  Area,18-May,Talaghattapura,3 BHK,2038,3,0.0,5
+2335,Built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1367,2,0.0,5
+2336,Plot  Area,Ready To Move,BTM 1st Stage,5 BHK,1200,4,2.0,5
+2337,Built-up  Area,Ready To Move,Judicial Layout,5 BHK,1100,4,3.0,5
+2338,Built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1565,3,2.0,5
+2339,Super built-up  Area,18-Feb,Whitefield,3 BHK,1720,3,2.0,5
+2340,Built-up  Area,Ready To Move,Doddathoguru,2 BHK,1107,2,3.0,5
+2341,Super built-up  Area,20-Jan,Yelahanka,2 BHK,1360,2,1.0,5
+2342,Super built-up  Area,18-Jan,Anekal,2 BHK,625,1,1.0,4
+2343,Super built-up  Area,Ready To Move,Jalahalli,2 BHK,1701,2,2.0,5
+2344,Plot  Area,Ready To Move,Agrahara Dasarahalli,3 BHK,1350,1,0.0,5
+2345,Super built-up  Area,Ready To Move,Hosa Road,2 BHK,1016,2,1.0,5
+2346,Super built-up  Area,Ready To Move,KEB Colony,3 BHK,1500,3,1.0,5
+2347,Built-up  Area,Ready To Move,Akshaya Nagar,2 BHK,900,2,1.0,4
+2348,Super built-up  Area,Ready To Move,Sanjay nagar,3 BHK,1500,3,1.0,5
+2349,Super built-up  Area,Ready To Move,Chikku Lakshmaiah Layout,3 BHK,2292,2,1.0,5
+2350,Carpet  Area,Ready To Move,Kereguddadahalli,3 BHK,1280,3,1.0,5
+2351,Plot  Area,Ready To Move,Sri Balaji Krupa Layout,4 BHK,1750,4,2.0,5
+2352,Super built-up  Area,Ready To Move,Electronic City,3 BHK,1500,2,1.0,5
+2353,Super built-up  Area,Ready To Move,Electronic City,3 BHK,1500,2,1.0,5
+2354,Super built-up  Area,Ready To Move,Gottigere,2 BHK,1245,2,2.0,5
+2355,Super built-up  Area,Ready To Move,Yelahanka,2 BHK,1025,2,1.0,5
+2356,Super built-up  Area,Ready To Move,Hennur Gardens,3 BHK,1945,3,2.0,5
+2357,Super built-up  Area,Ready To Move,Rajaji Nagar,3 BHK,1640,3,3.0,5
+2358,Built-up  Area,Ready To Move,Hegde Nagar,3 BHK,1348,2,2.0,5
+2359,Super built-up  Area,Ready To Move,Tindlu,2 BHK,1100,2,2.0,5
+2360,Super built-up  Area,Ready To Move,Kammasandra,3 BHK,1616,3,3.0,5
+2361,Super built-up  Area,Ready To Move,Yeshwanthpur,3 BHK,1855,3,3.0,5
+2362,Super built-up  Area,Ready To Move,Hennur,2 BHK,1255,2,2.0,5
+2363,Plot  Area,Ready To Move,HAL 2nd Stage,5 BHK,2040,4,1.0,5
+2364,Plot  Area,Ready To Move,5th Phase JP Nagar,4 BHK,2400,4,1.0,5
+2365,Super built-up  Area,Ready To Move,Kothanur,2 BHK,1195,2,2.0,5
+2366,Super built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,1022,2,1.0,5
+2367,Plot  Area,Ready To Move,Hegde Nagar,6 BHK,760,6,0.0,4
+2368,Super built-up  Area,Ready To Move,Dodda Nekkundi,2 BHK,1264,2,2.0,5
+2369,Super built-up  Area,Ready To Move,Chamrajpet,3 BHK,1650,3,2.0,5
+2370,Super built-up  Area,Ready To Move,Abbigere,2 BHK,1020,2,1.0,5
+2371,Super built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,4395,4,2.0,5
+2372,Built-up  Area,Ready To Move,Bommasandra,2 BHK,950,2,1.0,4
+2373,Super built-up  Area,18-Jul,Shantiniketan Layout,4 BHK,2710,5,3.0,5
+2374,Super built-up  Area,Ready To Move,Hennur Road,3 BHK,1936,3,1.0,5
+2375,Super built-up  Area,Ready To Move,Ramanashree Enclave,2 BHK,1075,2,2.0,5
+2376,Super built-up  Area,18-Apr,Hosur Road,2 BHK,1223,2,1.0,5
+2377,Plot  Area,18-Dec,Whitefield,3 BHK,1500,3,1.0,5
+2378,Built-up  Area,Ready To Move,Hennur,2 BHK,1050,2,2.0,5
+2379,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,2100,3,2.0,5
+2380,Plot  Area,Ready To Move,2nd Stage Nagarbhavi,5 BHK,1200,4,2.0,5
+2381,Built-up  Area,Ready To Move,Uttarahalli,3 BHK,1650,2,1.0,5
+2382,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1495,2,1.0,5
+2383,Super built-up  Area,Ready To Move,JP Nagar,3 BHK,1500,2,3.0,5
+2384,Super built-up  Area,21-Jul,Koramangala,3 BHK,1605,3,2.0,5
+2385,Super built-up  Area,Ready To Move,Whitefield,2 BHK,1270,2,2.0,5
+2386,Super built-up  Area,Ready To Move,Kumaraswami Layout,2 BHK,1081,2,3.0,5
+2387,Super built-up  Area,Ready To Move,Koramangala,3 BHK,1600,2,0.0,5
+2388,Super built-up  Area,19-Jul,Kanakpura Road,3 BHK,1596,3,1.0,5
+2389,Plot  Area,Ready To Move,Vasanthpura,6 BHK,600,6,2.0,4
+2390,Super built-up  Area,Ready To Move,Horamavu Agara,3 BHK,1557,3,1.0,5
+2391,Built-up  Area,Ready To Move,Devi Nagar,3 BHK,1410,3,3.0,5
+2392,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1984,4,1.0,5
+2393,Super built-up  Area,Ready To Move,Kadugodi,2 BHK,1196,2,3.0,5
+2394,Super built-up  Area,21-Dec,Thanisandra,4 BHK,2259,3,2.0,5
+2395,Super built-up  Area,Ready To Move,Kenchenahalli,3 BHK,1720,3,2.0,5
+2396,Plot  Area,Ready To Move,8th Phase JP Nagar,4 BHK,600,5,2.0,4
+2397,Built-up  Area,Ready To Move,Nagaraja Garden,2 BHK,1256,2,1.0,5
+2398,Super built-up  Area,Ready To Move,Haralur Road,2 BHK,1243,2,2.0,5
+2399,Super built-up  Area,18-May,Electronic City Phase II,3 BHK,1310,2,1.0,5
+2400,Built-up  Area,Ready To Move,7th Phase JP Nagar,2 BHK,1140,2,1.0,5
+2401,Super built-up  Area,Ready To Move,Cooke Town,3 BHK,1600,3,2.0,5
+2402,Super built-up  Area,Ready To Move,Kothanur,3 BHK,1790,3,2.0,5
+2403,Super built-up  Area,Ready To Move,Harlur,2 BHK,1335,2,0.0,5
+2404,Super built-up  Area,Ready To Move,Nehru Nagar,3 BHK,1674,3,2.0,5
+2405,Plot  Area,Ready To Move,CV Raman Nagar,5 BHK,1200,2,1.0,5
+2406,Super built-up  Area,Ready To Move,Kenchenhalli,3 BHK,1786,3,2.0,5
+2407,Plot  Area,Ready To Move,Vidyaranyapura,4 BHK,770,3,2.0,4
+2408,Super built-up  Area,18-Dec,Sarjapur  Road,2 BHK,1035,2,1.0,5
+2409,Super built-up  Area,19-Dec,Whitefield,3 BHK,1564,3,1.0,5
+2410,Super built-up  Area,18-Mar,Margondanahalli,2 BHK,1334,2,1.0,5
+2411,Plot  Area,Ready To Move,Defence Colony,10 BHK,7150,13,2.0,6
+2412,Super built-up  Area,18-May,Bommasandra,3 BHK,1365,3,1.0,5
+2413,Super built-up  Area,Ready To Move,Choodasandra,2 BHK,1115,2,1.0,5
+2414,Super built-up  Area,Ready To Move,Jalahalli East,2 BHK,1020,2,1.0,5
+2415,Super built-up  Area,Ready To Move,BCMC Layout,3 BHK,1369,2,3.0,5
+2416,Super built-up  Area,18-Aug,Whitefield,2 BHK,1240,2,2.0,5
+2417,Plot  Area,Ready To Move,Nagarbhavi,4 BHK,600,3,2.0,4
+2418,Super built-up  Area,Ready To Move,Gollahalli,2 BHK,1418,2,1.0,5
+2419,Built-up  Area,Ready To Move,Hebbal,3 BHK,2250,3,2.0,5
+2420,Super built-up  Area,Ready To Move,Shivaji Nagar,2 BHK,500,1,1.0,3
+2421,Super built-up  Area,Ready To Move,KR Puram,2 BHK,1020,2,2.0,5
+2422,Built-up  Area,Ready To Move,Yelahanka New Town,2 BHK,1290,2,2.0,5
+2423,Plot  Area,Ready To Move,Attibele,3 BHK,1500,3,2.0,5
+2424,Super built-up  Area,Ready To Move,Billekahalli,3 BHK,1290,3,3.0,5
+2425,Super built-up  Area,Ready To Move,Jalahalli,3 BHK,1881,3,2.0,5
+2426,Super built-up  Area,Ready To Move,Jigani,2 BHK,943,2,2.0,4
+2427,Built-up  Area,18-Dec,Electronic City,2 BHK,1140,2,1.0,5
+2428,Super built-up  Area,Ready To Move,Nayandanahalli,2 BHK,1035,2,2.0,5
+2429,Plot  Area,18-Dec,Whitefield,3 BHK,1500,3,1.0,5
+2430,Super built-up  Area,Ready To Move,Sindhi Colony,5 BHK,5666,7,2.0,6
+2431,Super built-up  Area,18-Apr,Nanjappa Layout,2 BHK,1232,2,1.0,5
+2432,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1290,2,2.0,5
+2433,Super built-up  Area,Ready To Move,Malleshwaram,4 BHK,2610,4,2.0,5
+2434,Super built-up  Area,Ready To Move,Anandapura,3 BHK,1576,3,2.0,5
+2435,Super built-up  Area,Ready To Move,Chinnapanahalli,2 BHK,980,2,1.0,4
+2436,Super built-up  Area,Ready To Move,Hebbal,4 BHK,4000,6,1.0,5
+2437,Super built-up  Area,18-Jun,Sarjapur  Road,2 BHK,1346,2,1.0,5
+2438,Super built-up  Area,Ready To Move,Hoodi,2 BHK,1181,2,2.0,5
+2439,Super built-up  Area,Ready To Move,Sathya Sai Layout,4 BHK,6652,6,1.0,6
+2440,Super built-up  Area,Ready To Move,Maragondanahalli,2 BHK,1307,2,2.0,5
+2441,Super built-up  Area,18-May,Roopena Agrahara,3 BHK,1215,2,2.0,5
+2442,Super built-up  Area,Ready To Move,Sanjay nagar,2 BHK,1180,2,3.0,5
+2443,Built-up  Area,Ready To Move,Amruthahalli,1 BHK,600,1,1.0,4
+2444,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1115,2,2.0,5
+2445,Super built-up  Area,Ready To Move,Kanakapur main road,2 BHK,1025,2,2.0,5
+2446,Super built-up  Area,Ready To Move,Ramagondanahalli,3 BHK,1910,3,2.0,5
+2447,Super built-up  Area,Ready To Move,Gottigere,2 BHK,1200,2,2.0,5
+2448,Built-up  Area,19-Dec,Church Street,4 BHK,2920,4,3.0,5
+2449,Super built-up  Area,Ready To Move,Hebbal,2 BHK,1349,2,1.0,5
+2450,Super built-up  Area,Ready To Move,Electronics City Phase 1,2 BHK,1175,2,1.0,5
+2451,Super built-up  Area,Ready To Move,2nd Phase Judicial Layout,2 BHK,1150,2,1.0,5
+2452,Super built-up  Area,20-Dec,Old Madras Road,2 BHK,935,2,1.0,4
+2453,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1404,2,2.0,5
+2454,Built-up  Area,Ready To Move,BCC Layout,4 BHK,2700,3,2.0,5
+2455,Built-up  Area,Ready To Move,HSR Layout,2 BHK,1203,2,2.0,5
+2456,Plot  Area,Ready To Move,Nagavara,3 BHK,440,3,1.0,3
+2457,Super built-up  Area,Ready To Move,Somasundara Palya,3 BHK,1571,3,3.0,5
+2458,Super built-up  Area,Ready To Move,Mariyannapalya,2 BHK,1125,2,2.0,5
+2459,Super built-up  Area,18-Apr,Kammasandra,1 BHK,610,1,1.0,4
+2460,Super built-up  Area,Ready To Move,Ambalipura,2 BHK,1198,2,2.0,5
+2461,Plot  Area,Ready To Move,Chandapura,3 BHK,1200,3,2.0,5
+2462,Super built-up  Area,Ready To Move,Nobo Nagar,2 BHK,1200,2,2.0,5
+2463,Plot  Area,Ready To Move,Sathya Sai Layout,4 BHK,6688,6,1.0,6
+2464,Super built-up  Area,Ready To Move,Crimson Layout,3 BHK,1830,3,2.0,5
+2465,Super built-up  Area,19-Sep,Kudlu Gate,3 BHK,1432,2,2.0,5
+2466,Built-up  Area,Ready To Move,Somasundara Palya,3 BHK,2300,2,0.0,5
+2467,Super built-up  Area,Ready To Move,9th Phase JP Nagar,2 BHK,1332,2,2.0,5
+2468,Super built-up  Area,Ready To Move,Yeshwanthpur,3 BHK,1876,3,3.0,5
+2469,Super built-up  Area,18-Dec,Whitefield,3 BHK,1639,3,2.0,5
+2470,Plot  Area,Ready To Move,Akshaya Nagar,4 BHK,1200,4,2.0,5
+2471,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1665,3,2.0,5
+2472,Super built-up  Area,Ready To Move,Kogilu,2 BHK,1140,2,2.0,5
+2473,Super built-up  Area,21-Dec,Electronic City,4 BHK,2093,4,2.0,5
+2474,Super built-up  Area,Ready To Move,Kanakpura Road,3 BHK,1450,3,3.0,5
+2475,Super built-up  Area,18-May,TC Palaya,3 BHK,1330,3,3.0,5
+2476,Plot  Area,Ready To Move,1st Block Koramangala,4 BHK,1200,5,1.0,5
+2477,Built-up  Area,18-Dec,Talaghattapura,3 BHK,1800,3,1.0,5
+2478,Built-up  Area,Ready To Move,"Thanisandra Main Road, ",4 BHK,2872,4,3.0,5
+2479,Super built-up  Area,Ready To Move,Kumarapalli,3 BHK,1486,2,2.0,5
+2480,Built-up  Area,Ready To Move,Chikkalasandra,3 BHK,1425,1,0.0,5
+2481,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1255,2,2.0,5
+2482,Built-up  Area,Ready To Move,Electronic City,2 BHK,750,2,1.0,4
+2483,Super built-up  Area,Ready To Move,Nagarbhavi,2 BHK,1225,2,3.0,5
+2484,Super built-up  Area,20-Jan,Badavala Nagar,2 BHK,1274,2,1.0,5
+2485,Built-up  Area,Ready To Move,Medahalli,9 BHK,4600,9,2.0,5
+2486,Super built-up  Area,Ready To Move,Kathriguppe,3 BHK,1350,3,2.0,5
+2487,Super built-up  Area,19-Jun,Mallathahalli,2 BHK,1100,2,2.0,5
+2488,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1760,3,2.0,5
+2489,Plot  Area,18-Jul,Bommasandra,3 BHK,1200,3,2.0,5
+2490,Super built-up  Area,Ready To Move,Basavanapura,7 BHK,1800,5,3.0,5
+2491,Super built-up  Area,Ready To Move,Chandapura,3 BHK,1095,2,2.0,5
+2492,Super built-up  Area,Ready To Move,HSR Layout,2 BHK,1140,2,2.0,5
+2493,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3 BHK,1530,3,3.0,5
+2494,Super built-up  Area,18-Feb,Kundalahalli,3 BHK,1724,3,3.0,5
+2495,Super built-up  Area,18-Mar,Horamavu Agara,2 BHK,1058,2,2.0,5
+2496,Super built-up  Area,Ready To Move,KUDLU MAIN ROAD,3 BHK,1464,3,2.0,5
+2497,Super built-up  Area,Ready To Move,Dodda Nekkundi Extension,3 BHK,1975,3,3.0,5
+2498,Super built-up  Area,18-Nov,Sarjapur  Road,2 BHK,1112,2,1.0,5
+2499,Built-up  Area,Ready To Move,Doddabommasandra,2 BHK,1600,2,1.0,5
+2500,Super built-up  Area,Ready To Move,Vittasandra,3 BHK,1648,3,2.0,5
+2501,Super built-up  Area,18-May,Puttanahalli,2 BHK,1100,2,2.0,5
+2502,Super built-up  Area,18-Nov,Hoskote,1 BHK,509,1,1.0,4
+2503,Super built-up  Area,21-Dec,Talaghattapura,3 BHK,2265,3,3.0,5
+2504,Super built-up  Area,Ready To Move,Malleshpalya,2 BHK,1200,2,2.0,5
+2505,Super built-up  Area,Ready To Move,Makali,1 BHK,530,1,1.0,4
+2506,Built-up  Area,Ready To Move,Green View Layout,2 BHK,1010,2,1.0,5
+2507,Built-up  Area,Ready To Move,Kaggadasapura,2 BHK,1150,2,2.0,5
+2508,Super built-up  Area,Ready To Move,Sarjapur  Road,2 BHK,1340,2,2.0,5
+2509,Built-up  Area,Ready To Move,Raja Rajeshwari Nagar,3 BHK,1850,3,1.0,5
+2510,Built-up  Area,Ready To Move,Doddathoguru,2 BHK,907,2,1.0,4
+2511,Plot  Area,Ready To Move,Benson Town,2 BHK,1688,2,0.0,5
+2512,Plot  Area,Ready To Move,Ulsoor,2 BHK,1160,2,1.0,5
+2513,Super built-up  Area,Ready To Move,Pai Layout,3 BHK,1600,2,1.0,5
+2514,Plot  Area,Ready To Move,Prasanna layout Herohalli,6 BHK,1800,5,1.0,5
+2515,Super built-up  Area,Ready To Move,Iblur Village,4 BHK,3596,5,1.0,5
+2516,Super built-up  Area,Ready To Move,Hosur Road,3 BHK,1464,3,2.0,5
+2517,Super built-up  Area,Ready To Move,Hennur,2 BHK,1295,2,1.0,5
+2518,Super built-up  Area,Ready To Move,Kodbisanhalli,2 BHK,1012,2,1.0,5
+2519,Super built-up  Area,Ready To Move,Yelahanka New Town,3 BHK,1000,2,1.0,4
+2520,Super built-up  Area,Ready To Move,Channasandra,2 BHK,1010,2,1.0,5
+2521,Super built-up  Area,Ready To Move,Bharathi Nagar,2 BHK,1379,2,1.0,5
+2522,Built-up  Area,18-May,Kasavanhalli,2 BHK,1121,2,2.0,5
+2523,Built-up  Area,Ready To Move,LB Shastri Nagar,2 BHK,1200,2,1.0,5
+2524,Super built-up  Area,Ready To Move,Sarakki Nagar,4 BHK,3124,6,3.0,5
+2525,Super built-up  Area,18-Sep,Bannerghatta Road,2 BHK,1246,2,2.0,5
+2526,Super built-up  Area,Ready To Move,7th Phase JP Nagar,3 BHK,1420,3,2.0,5
+2527,Carpet  Area,Ready To Move,Shivaji Nagar,2 BHK,600,1,1.0,4
+2528,Super built-up  Area,Ready To Move,Hadosiddapura,2 BHK,1090,2,2.0,5
+2529,Super built-up  Area,18-Apr,Electronic City,2 BHK,1355,2,1.0,5
+2530,Super built-up  Area,Ready To Move,Ambedkar Nagar,2 BHK,1425,2,1.0,5
+2531,Built-up  Area,Ready To Move,Chikkabanavar,8 BHK,4000,7,0.0,5
+2532,Super built-up  Area,Ready To Move,Electronics City Phase 1,3 BHK,1700,3,2.0,5
+2533,Super built-up  Area,21-Dec,Talaghattapura,3 BHK,2099,3,2.0,5
+2534,Plot  Area,18-Apr,Yelahanka,5 BHK,1330,5,0.0,5
+2535,Super built-up  Area,19-Dec,Devanahalli,3 BHK,1520,2,1.0,5
+2536,Built-up  Area,Ready To Move,Sarvobhogam Nagar,3 BHK,1490,3,0.0,5
+2537,Super built-up  Area,Ready To Move,Horamavu Banaswadi,2 BHK,1000,2,2.0,4
+2538,Super built-up  Area,Ready To Move,Sahakara Nagar,2 BHK,1291,2,2.0,5
+2539,Super built-up  Area,Ready To Move,Kanakpura Road,2 BHK,1339,2,2.0,5
+2540,Super built-up  Area,Ready To Move,Near International Airport,2 BHK,1330,2,1.0,5
+2541,Plot  Area,Ready To Move,Ramakrishnappa Layout,4 BHK,9200,4,2.0,6
+2542,Plot  Area,Ready To Move,Pattegarhpalya,8 BHK,1200,8,0.0,5
+2543,Built-up  Area,Ready To Move,Palace Road,2 BHK,1650,1,1.0,5
+2544,Plot  Area,Ready To Move,Defence Colony,6 BHK,8000,6,3.0,6
+2545,Super built-up  Area,Ready To Move,Jakkur,2 BHK,1125,2,1.0,5
+2546,Built-up  Area,Ready To Move,CV Raman Nagar,2 BHK,1310,2,1.0,5
+2547,Super built-up  Area,Ready To Move,Bellandur,2 BHK,1096,2,2.0,5
+2548,Super built-up  Area,Ready To Move,Dasanapura,2 BHK,814,2,1.0,4
+2549,Plot  Area,Ready To Move,Sarjapur  Road,3 BHK,3500,3,2.0,5
+2550,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1140,2,2.0,5
+2551,Super built-up  Area,Ready To Move,Singanayakanahalli,3 BHK,1480,2,0.0,5
+2552,Super built-up  Area,Ready To Move,Hebbal,4 BHK,4000,6,1.0,5
+2553,Super built-up  Area,Ready To Move,Nagappa Reddy Layout,3 BHK,1500,2,3.0,5
+2554,Super built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1850,3,2.0,5
+2555,Super built-up  Area,Ready To Move,Jalahalli West,2 BHK,745,2,1.0,4
+2556,Super built-up  Area,18-Dec,Whitefield,1 BHK,613,1,1.0,4
+2557,Plot  Area,Ready To Move,Rajarajeshwari nagar,4 BHK,1200,5,2.0,5
+2558,Carpet  Area,Ready To Move,Bannerghatta Road,3 BHK,1470,2,1.0,5
+2559,Plot  Area,Ready To Move,Frazer Town,1 BHK,896,1,0.0,4
+2560,Super built-up  Area,Ready To Move,Tilak Nagar,1 BHK,250,2,2.0,3
+2561,Plot  Area,Ready To Move,T Dasarahalli,6 BHK,1200,3,1.0,5
+2562,Super built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,1160,2,2.0,5
+2563,Plot  Area,Ready To Move,Laggere,7 BHK,1590,9,3.0,5
+2564,Built-up  Area,Ready To Move,Attibele,1 BHK,520,1,1.0,4
+2565,Plot  Area,Ready To Move,T Dasarahalli,9 BHK,1178,9,1.0,5
+2566,Super built-up  Area,Ready To Move,Electronic City,3 BHK,1360,2,1.0,5
+2567,Super built-up  Area,Ready To Move,Gopalkrishna Nagar,2 BHK,1155,2,1.0,5
+2568,Super built-up  Area,18-Aug,Chandapura,1 BHK,520,1,1.0,4
+2569,Super built-up  Area,Ready To Move,Ambalipura,3 BHK,1615,2,3.0,5
+2570,Built-up  Area,Ready To Move,Raja Rajeshwari Nagar,8 BHK,6000,8,3.0,6
+2571,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1140,2,2.0,5
+2572,Super built-up  Area,Ready To Move,Reliaable Tranquil Layout,3 BHK,1508,3,1.0,5
+2573,Built-up  Area,Ready To Move,Ambedkar Nagar,3 BHK,2395,4,2.0,5
+2574,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1590,3,2.0,5
+2575,Super built-up  Area,Ready To Move,Thigalarapalya,3 BHK,2215,4,2.0,5
+2576,Super built-up  Area,Ready To Move,R.T. Nagar,3 BHK,1667,3,2.0,5
+2577,Built-up  Area,Ready To Move,7th Block Jayanagar,3 BHK,1903,2,1.0,5
+2578,Super built-up  Area,Ready To Move,7th Phase JP Nagar,2 BHK,1530,2,1.0,5
+2579,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1730,3,2.0,5
+2580,Built-up  Area,Ready To Move,JP Nagar,2 BHK,1048,2,1.0,5
+2581,Super built-up  Area,Ready To Move,Malleshpalya,2 BHK,1225,2,2.0,5
+2582,Carpet  Area,19-Jan,Hennur Bande,2 BHK,1200,2,3.0,5
+2583,Super built-up  Area,Ready To Move,Kundalahalli,2 BHK,1175,2,1.0,5
+2584,Super built-up  Area,Ready To Move,Devanahalli,1 BHK,1075,1,1.0,5
+2585,Super built-up  Area,19-Dec,Electronic City Phase II,3 BHK,1651,3,1.0,5
+2586,Super built-up  Area,Ready To Move,8th Phase JP Nagar,3 BHK,1500,2,3.0,5
+2587,Super built-up  Area,Ready To Move,Doddathoguru,3 BHK,1783,3,3.0,5
+2588,Super built-up  Area,Ready To Move,Kereguddadahalli,2 BHK,1015,2,1.0,5
+2589,Super built-up  Area,Ready To Move,12th cross srinivas nagar banshankari 3rd stage,1 BHK,1800,1,1.0,5
+2590,Built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,2758,4,1.0,5
+2591,Plot  Area,Ready To Move,5th Stage BEML Layout,4 BHK,1200,5,2.0,5
+2592,Super built-up  Area,18-Apr,Sarjapur  Road,2 BHK,1132,2,1.0,5
+2593,Plot  Area,Ready To Move,KR Puram,2 BHK,1200,2,0.0,5
+2594,Built-up  Area,Ready To Move,Hoodi,3 BHK,1490,3,0.0,5
+2595,Built-up  Area,18-Mar,Thanisandra,4 BHK,1917,4,2.0,5
+2596,Super built-up  Area,Ready To Move,Bhoganhalli,3 BHK,1703,3,2.0,5
+2597,Super built-up  Area,Ready To Move,Old Madras Road,2 BHK,1211,2,3.0,5
+2598,Built-up  Area,Ready To Move,Kudlu Gate,2 BHK,1310,2,2.0,5
+2599,Super built-up  Area,19-Dec,Marathahalli,2 BHK,1146,2,1.0,5
+2600,Super built-up  Area,Ready To Move,Kudlu,2 BHK,1041,2,1.0,5
+2601,Super built-up  Area,Ready To Move,Whitefield,3 BHK,1453,2,2.0,5
+2602,Super built-up  Area,19-Dec,Whitefield,1 BHK,877,1,1.0,4
+2603,Super built-up  Area,19-Dec,Kanakapura,3 BHK,1477,2,1.0,5
+2604,Built-up  Area,Ready To Move,Frazer Town,2 BHK,1420,2,0.0,5
+2605,Plot  Area,Ready To Move,Havanur extension,3 BHK,2000,2,2.0,5
+2606,Built-up  Area,Ready To Move,Abshot Layout,2 BHK,1140,1,1.0,5
+2607,Built-up  Area,Ready To Move,Sarjapur  Road,3 BHK,1380,2,2.0,5
+2608,Super built-up  Area,Ready To Move,Maragondanahalli,2 BHK,1095,2,1.0,5
+2609,Super built-up  Area,20-Sep,Hoodi,2 BHK,1258,2,0.0,5
+2610,Super built-up  Area,20-Dec,Varthur,3 BHK,1665,3,2.0,5
+2611,Super built-up  Area,Ready To Move,KR Puram,2 BHK,1245,2,1.0,5
+2612,Super built-up  Area,18-Apr,EPIP Zone,4 BHK,3360,5,2.0,5
+2613,Plot  Area,Ready To Move,Electronic City,3 BHK,2010,3,2.0,5
+2614,Super built-up  Area,Ready To Move,Shivaji Nagar,3 BHK,1226,2,2.0,5
+2615,Super built-up  Area,Ready To Move,Uttarahalli,2 BHK,1075,2,1.0,5
+2616,Super built-up  Area,Ready To Move,Thanisandra,2 BHK,1226,2,1.0,5
+2617,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,1 BHK,510,1,1.0,4
+2618,Super built-up  Area,Ready To Move,Budigere,2 BHK,1153,2,2.0,5
+2619,Plot  Area,Ready To Move,Kothannur,4 BHK,1600,4,2.0,5
+2620,Super built-up  Area,Ready To Move,LB Shastri Nagar,2 BHK,1000,2,1.0,4
+2621,Plot  Area,Ready To Move,Kundalahalli Colony,7 BHK,1400,7,2.0,5
+2622,Built-up  Area,Ready To Move,Reliaable Tranquil Layout,2 BHK,1256,2,1.0,5
+2623,Plot  Area,Ready To Move,Vishwanatha Nagenahalli,6 BHK,1200,5,1.0,5
+2624,Built-up  Area,Ready To Move,Sarjapur,3 BHK,1425,3,2.0,5
+2625,Plot  Area,Ready To Move,Margondanahalli,5 BHK,1375,5,1.0,5
+2626,Super built-up  Area,18-Apr,Hosur Road,3 BHK,1919,3,2.0,5
+2627,Super built-up  Area,Ready To Move,Neeladri Nagar,3 BHK,2111,3,2.0,5
+2628,Super built-up  Area,Ready To Move,Bannerghatta Road,2 BHK,970,2,1.0,4
+2629,Super built-up  Area,Ready To Move,VHBCS Layout,2 BHK,1353,2,2.0,5
+2630,Super built-up  Area,Ready To Move,Jalahalli,3 BHK,1405,2,1.0,5
+2631,Super built-up  Area,Ready To Move,Gubbalala,2 BHK,1285,2,2.0,5
+2632,Super built-up  Area,18-May,Mahadevpura,2 BHK,1050,2,1.0,5
+2633,Super built-up  Area,Ready To Move,Hebbal,2 BHK,1349,2,1.0,5
+2634,Super built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,4050,2,1.0,5
+2635,Plot  Area,18-Jan,Weavers Colony,1 BHK,812,1,0.0,4
+2636,Super built-up  Area,18-Jul,Udayapur Village,3 BHK,1440,2,2.0,5
+2637,Super built-up  Area,Ready To Move,Sarjapur  Road,4 BHK,2425,5,1.0,5
+2638,Super built-up  Area,Ready To Move,Sultan Palaya,4 BHK,2200,3,3.0,5
+2639,Super built-up  Area,18-Feb,Haralur Road,3 BHK,1810,3,2.0,5
+2640,Super built-up  Area,Ready To Move,Cox Town,2 BHK,1200,2,2.0,5
+2641,Super built-up  Area,Ready To Move,Electronic City,2 BHK,1060,2,1.0,5
+2642,Super built-up  Area,Ready To Move,Kenchenahalli,2 BHK,1015,2,2.0,5
+2643,Super built-up  Area,18-Dec,Whitefield,4 BHK,2856,5,0.0,5
+2644,Plot  Area,Ready To Move,Hosakerehalli,5 BHK,1500,6,2.0,5
+2645,Super built-up  Area,Ready To Move,Kothanur,3 BHK,1454,3,3.0,5
+2646,Super built-up  Area,Ready To Move,Annaiah Reddy Layout,2 BHK,1075,2,2.0,5
+2647,Plot  Area,Ready To Move,Vidyaranyapura,5 BHK,774,5,3.0,4
+2648,Super built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1187,2,2.0,5
+2649,Carpet  Area,Ready To Move,Hulimavu,1 BHK,500,1,3.0,3
+2650,Plot  Area,Ready To Move,Rajarajeshwari Nagara,4 BHK,1200,5,2.0,5
+2651,Built-up  Area,Ready To Move,Billekahalli,3 BHK,1805,3,3.0,5
+2652,Built-up  Area,Ready To Move,Bannerghatta Road,3 BHK,1527,3,1.0,5
+2653,Super built-up  Area,Ready To Move,Yeshwanthpur,3 BHK,1675,3,2.0,5
+2654,Super built-up  Area,Ready To Move,Rachenahalli,2 BHK,1050,2,2.0,5
+2655,Plot  Area,Ready To Move,Ramamurthy Nagar,7 BHK,1500,9,2.0,5
+2656,Super built-up  Area,Ready To Move,Bellandur,2 BHK,1262,2,2.0,5
+2657,Super built-up  Area,Ready To Move,Uttarahalli,3 BHK,1345,2,1.0,5
+2658,Super built-up  Area,Ready To Move,Green Glen Layout,3 BHK,1715,3,3.0,5
+2659,Built-up  Area,Ready To Move,Whitefield,5 BHK,3453,4,0.0,5
+2660,Super built-up  Area,Ready To Move,Richards Town,4 BHK,3600,5,2.0,5
+2661,Built-up  Area,Ready To Move,Raja Rajeshwari Nagar,2 BHK,1141,2,1.0,5
+2662,Super built-up  Area,18-Jun,Padmanabhanagar,4 BHK,4689,4,1.0,5
+2663,Super built-up  Area,Ready To Move,Doddathoguru,1 BHK,550,1,1.0,4

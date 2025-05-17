@@ -1,0 +1,12 @@
+Vol,Rev,Exp,Sector,EmpCnt,HQ,MNC,StockID,GST,Started,Listed Date
+Deccan_Sporting,931,839.None,615,Pvt,,Hyd,1,SPRT,Services,Mar-43
+Kolkata_FMCG,925,,676,,1379,Kol,0,KFMC,Goods,Jan-20
+NCR_Leagles,931,None,605,,1935,NCR,0,NCRL,Services,Feb-60
+Bangalore_Systems,900,,650,Gov,1361,Blr,0,BSYS,Services,Apr-50
+Chennai_Chemicals,966,863.2,608,Pub,1656,Che,1,CHEM,Goods,Aug-28
+Indi_Services,954,733,609,Gov,None,NCR,0,INDI,Services,Mar-20
+Bangalore_Breweries,966,,895,,119,Blr,1,BREW,Goods,Oct-71
+None,899,,674,Pub,,Mum,0,BFIN,Services,Apr-25
+Chennai_Shipping,992,821,665,,None,Che,1,SHIP,Goods,Nov-30
+Eastern_Estates,945,834.23,789,Pvt,1873,,1,EEST,Goods,Jan-94
+Indi_Services,954,733,609,Gov,None,NCR,0,INDI,Services,Mar-20
